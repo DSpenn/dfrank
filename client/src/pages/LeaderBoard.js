@@ -1,13 +1,15 @@
 import { useQuery } from '@apollo/client';
 import { Link } from 'react-router-dom';
-import { QUERY_CHARACTERS } from '../utils/queries';
+import { QUERY_CHARRANK } from '../utils/queries';
 
 const LeaderBoard = () => {
-  const { loading, error, data } = useQuery(QUERY_CHARACTERS, {
+  const { loading, error, data } = useQuery(QUERY_CHARRANK, {
 
   });
   const characters = data?.characters || [];
-
+  if (error) {
+    return <div>encountered an error: {error}</div>;
+  }
   return (
     <div className="flex-row justify-center">
     <div style={{ width: '95%', height: '95%', margin: 'auto' }}>

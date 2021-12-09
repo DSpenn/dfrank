@@ -20,8 +20,8 @@ query Characters {
   characters {
       _id
       name
-      clans
       rank
+      clans
       __typename
     }
 }

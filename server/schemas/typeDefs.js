@@ -3,7 +3,7 @@ const { gql } = require('apollo-server-express');
 const typeDefs = gql`
 type Character {
   _id: ID
-  name: String!
+  name: String
   clans: [String]
   rank: Int
   race: String

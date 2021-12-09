@@ -9,7 +9,7 @@ const CharacterView = () => {
     variables: { id },
   });
   if (error) {
-    return <div>.</div>;
+    return <div>error</div>;
   }
   const character = data?.character || {};
 

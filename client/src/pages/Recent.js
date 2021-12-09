@@ -4,7 +4,6 @@ import DataGrid from '../components/DataGrid';
 
 const Recent = () => {
   const { loading, error, data } = useQuery(QUERY_ALL_FIGHTS, {
-    returnPartialData: "true"
   });
   const fights = data?.fights || [];
 

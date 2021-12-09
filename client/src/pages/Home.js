@@ -1,10 +1,9 @@
 import { useQuery } from '@apollo/client';
-import { QUERY_CHARACTERS } from '../utils/queries';
+import { QUERY_CHARRANK } from '../utils/queries';
 import CirclePackingRank from '../components/CirclePackingRank';
 
 const Home = () => {
-  const { loading, error, data } = useQuery(QUERY_CHARACTERS, {
-    returnPartialData: "True"
+  const { loading, error, data } = useQuery(QUERY_CHARRANK, {
   });
   if (error) {
     return <div>encountered an error: {error}</div>;

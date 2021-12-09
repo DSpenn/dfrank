@@ -41,7 +41,12 @@ const characterSchema = new Schema(
   },
 );
 
-characterSchema.virtual('winCount', {
+const Character = mongoose.model('Character', characterSchema);
+
+module.exports = Character;
+
+
+/* characterSchema.virtual('winCount', {
   ref: 'Fight',
   localField: 'name',
   foreignField: 'winnerName',
@@ -65,8 +70,4 @@ characterSchema.virtual('Losses', {
   ref: 'Fight',
   localField: 'name',
   foreignField: 'loserName',
-});
-
-const Character = mongoose.model('Character', characterSchema);
-
-module.exports = Character;
+}); */

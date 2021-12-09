@@ -4,7 +4,7 @@ const { Fight, Character, User } = require('../models');
 
 const resolvers = {
   Query: {
-    characters: async (parent, { _id, name }) => {
+    characters: async (root, { _id, name }) => {
       const params = {};
       if (_id) {
         params._id = _id;
@@ -14,7 +14,7 @@ const resolvers = {
         params.name = name;
         return await Character.find(params).sort({ rank: -1 }).lean();
       }
-      return await Character.find().sort({ rank: -1 });
+      return await Character.find().sort({ rank: -1 }).select('-fights').lean();
     },
     character: async (root, { _id, name }) => {
       const params = {};
@@ -33,7 +33,6 @@ const resolvers = {
           { path: 'fights', sort: { timeOf: -1 } },
         ]);
       }
-      return await Character.find().populate('fights');
     },
 
     fights: async (parent, { winnerName, loserName }) => {
