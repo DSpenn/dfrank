@@ -1,5 +1,5 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import { ApolloClient, ApolloProvider, HttpLink, from } from '@apollo/client';
+import { ApolloProvider, ApolloClient, HttpLink, from } from '@apollo/client';
 import { onError } from "@apollo/client/link/error";
 import { Hermes } from 'apollo-cache-hermes';
 import './App.css';
@@ -27,10 +27,9 @@ const errorLink = onError(({ graphQLErrors, networkError }) => {
 
 const client = new ApolloClient({
   link: from([errorLink, gLink]),
-  cache: new Hermes(),
+  cache: new Hermes({ }),
   queryDeduplication: false,
   ssrMode: true,
-  ssrForceFetchDelay: 100,
   defaultOptions: {
     watchQuery: {
       fetchPolicy: 'cache-and-network',

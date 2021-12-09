@@ -13,11 +13,11 @@ mui/material, mui/x-data-grid
 stripe/react-stripe-js, stripe/stripe-js
 axios, cheerio 1.0.0-rc.10
 arpad
-
+```
 
 
 1,665 days May 5, 2017 - November 25, 2021
-union SearchResult = Character | Fight /   search(contains: String): [SearchResult!]
+
 
 ## TODO
 
@@ -60,12 +60,6 @@ before avg doc size:231.2B total 250.4 MB
 after. avg doc size:163.2B total 176.7 MB
 
 
-
-## Heroku
-runs install > runs build > start
-- sets production by default
-prunes dev dep's in production
-
 ## performance
   ?useGETForQueries: slightly faster?
   
@@ -74,6 +68,11 @@ prunes dev dep's in production
 ## Things to remember
  unique_data = [...new Set(someVar)];
  -- may want to remove default buildpack from heroku
+
+ ## Heroku
+runs install > runs build > start
+- sets production by default
+prunes dev dep's in production
 
 ## Mongo mongoose
 ### id && _id
