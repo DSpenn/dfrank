@@ -6640,9 +6640,11 @@ const Calendar = () => {
         from="2017-05-05"
         to="2021-12-12"
         emptyColor="#aa7942"
-        colors={['#61cdbb', '#97e3d5', '#e8c1a0', '#f47560']}
+        colorBy="id"
         margin={{ top: 40, right: 40, bottom: 50, left: 40 }}
         monthSpacing={5}
+        minValue={1}
+        maxValue={1000}
         monthBorderColor="#ffffff"
         dayBorderWidth={1}
         dayBorderColor="#ffffff"
