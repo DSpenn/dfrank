@@ -1,20 +1,15 @@
 
+[https://dfrank.herokuapp.com/](https://dfrank.herokuapp.com/)
 
 ### Packages used
 
 ```md
-apollo-server-express, apollo/client
-graphql, graphql-scalars
-react, react-dom, react-router-dom, react-scripts, react-axios, react-table, react-window
+apollo-server-express, apollo/client, graphql, 
+react, react-dom, react-router-dom, react-scripts.
 mongoose, mongodb-js/charts-embed-dom
-dotenv, bcrypt, jwt-decode, jsonwebtoken
-emotion/react, emotion/styled
 mui/material, mui/x-data-grid
-stripe/react-stripe-js, stripe/stripe-js
-axios, cheerio 1.0.0-rc.10
-arpad
+arpad, dotenv
 ```
-
 
 1,665 days May 5, 2017 - November 25, 2021
 
@@ -26,9 +21,6 @@ arpad
 
 
 [] figure out grouping searches
-
-mongoose.set('debug', true);
-Error: hint cannot be used with findOneAndUpdate
 
 
 [options.timestamps=null] «Boolean» If set to false and schema-level timestamps are enabled, skip timestamps for this update. Note that this allows you to overwrite timestamps. Does nothing if schema-level timestamps are not set.
@@ -75,6 +67,7 @@ runs install > runs build > start
 prunes dev dep's in production
 
 ## Mongo mongoose
+mongoose.set('debug', true);
 ### id && _id
 id is a virtual string version of _id.
 both are enabled by default.
@@ -86,4 +79,4 @@ $push will add the given object to field whether it exists or not.
 
 ## Mongo Schema order matters
 
-A Procfile is not required to run Apollo Server on Heroku. If you don't provide a Procfile, attempts to run the start script that's defined in your package.json file.
+A Procfile is not required to run Apollo Server on Heroku. If you don't provide a Procfile, attempts to run the start script that's defined in your root package.json file.
