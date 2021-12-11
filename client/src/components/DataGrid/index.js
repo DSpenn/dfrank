@@ -5,7 +5,7 @@ const columns = [
   {
     field: 'timeOf',
     headerName: 'Time',
-    type: 'date',
+    type: 'dateTime',
     flex: 1,
   },
   {

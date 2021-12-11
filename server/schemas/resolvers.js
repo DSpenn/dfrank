@@ -16,7 +16,7 @@ const resolvers = {
       }
       return await Character.find().sort({ rank: -1 }).select('-fights').lean();
     },
-    character: async (root, { _id, name }) => {
+    character: async (parent, { _id, name }) => {
       const params = {};
       if (name) {
         params.name = name;
@@ -28,10 +28,7 @@ const resolvers = {
 
       if (_id) {
         params._id = _id;
-        return await Character.findById(params).populate([
-          'fights',
-          { path: 'fights', sort: { timeOf: -1 } },
-        ]);
+        return await Character.findById(params).populate({path: 'fights', options: { sort: { 'timeOf': -1 } } });
       }
     },
 

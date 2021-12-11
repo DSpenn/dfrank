@@ -52,7 +52,6 @@ query GetCharacter($name: String, $id: ID) {
     name
     rank
     clans
-    __typename
     fights {
       _id
       timeOf
@@ -63,7 +62,6 @@ query GetCharacter($name: String, $id: ID) {
       loserRank
       loserName
       loserClan
-      __typename
     }
   }
 }

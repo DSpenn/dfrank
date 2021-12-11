@@ -22,21 +22,10 @@ arpad, dotenv
 
 [] figure out grouping searches
 
-
-[options.timestamps=null] «Boolean» If set to false and schema-level timestamps are enabled, skip timestamps for this update. Note that this allows you to overwrite timestamps. Does nothing if schema-level timestamps are not set.
-
     "graphql": "experimental-stream-defer",
 
 
 ### Problems
-
-[] MUI datagrid date sorting with many pages
-
-[] Fight.aggregate().search({ 
-      "message": "Unrecognized pipeline stage name: '$search'",
-
-[] Pagination apollo? mongo? graphql?
-relay?
 
 [] Renaming the fields
 timeOf = t
@@ -58,6 +47,9 @@ after. avg doc size:163.2B total 176.7 MB
 
 
 ## Things to remember
+
+[options.timestamps=null] «Boolean» If set to false and schema-level timestamps are enabled, skip timestamps for this update. Note that this allows you to overwrite timestamps. Does nothing if schema-level timestamps are not set.
+
  unique_data = [...new Set(someVar)];
  -- may want to remove default buildpack from heroku
 
