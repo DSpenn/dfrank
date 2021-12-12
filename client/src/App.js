@@ -1,7 +1,6 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import { ApolloProvider, ApolloClient, HttpLink, from } from '@apollo/client';
+import { ApolloProvider, ApolloClient, HttpLink, from, InMemoryCache } from '@apollo/client';
 import { onError } from "@apollo/client/link/error";
-import { Hermes } from 'apollo-cache-hermes';
 import './App.css';
 import Home from './pages/Home.js';
 import Recent from './pages/Recent.js';
@@ -25,9 +24,23 @@ const errorLink = onError(({ graphQLErrors, networkError }) => {
   if (networkError) console.log(`${networkError}`);
 });
 
+const cache = new InMemoryCache({
+  typePolicies: {
+    Query: {
+    Fight: {
+      keyFields: ['timeOf', 'winnerName', 'loserName'],
+    },
+    character: {
+      keyFields: ['name', 'rank', ['fights']],
+    },
+    },
+  },
+});
+
+
 const client = new ApolloClient({
   link: from([errorLink, gLink]),
-  cache: new Hermes({ }),
+  cache,
   queryDeduplication: false,
   ssrMode: true,
   defaultOptions: {
