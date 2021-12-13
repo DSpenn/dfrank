@@ -23,7 +23,8 @@ db.once('open', async () => {
       '$group': {
         '_id': {
           '$dateToString': {
-            'format': '%Y-%m-%d',
+            //'format': '%Y-%m-%d',
+            'format': '%H',
             'date': '$timeOf'
           }
         },

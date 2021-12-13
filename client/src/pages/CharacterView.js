@@ -2,15 +2,13 @@ import { useParams } from 'react-router-dom';
 import { useQuery } from '@apollo/client';
 import { QUERY_CHARACTER } from '../utils/queries';
 import DataGrid from '../components/DataGrid';
+
 const CharacterView = () => {
 
   var { id } = useParams();
   const { loading, error, data } = useQuery(QUERY_CHARACTER, {
     variables: { id },
   });
-  if (error) {
-    return <div>error</div>;
-  }
   const character = data?.character || {};
 
   if (loading) {

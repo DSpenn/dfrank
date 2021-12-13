@@ -1,55 +1,54 @@
 import { DataGrid } from '@mui/x-data-grid';
 
-const columns = [
-  { field: 'id', headerName: 'ID', hide: true },
-  {
-    field: 'timeOf',
-    headerName: 'Time',
-    type: 'dateTime',
-    flex: 1,
-  },
-  {
-    field: 'winnerName',
-    headerName: 'winnerName',
-    flex: 1,
-  },
-  {
-    field: 'winnerClan',
-    headerName: 'Clan',
-    flex: .5,
-  },
-  {
-    field: 'winnerRank',
-    headerName: 'Rank',
-    type: 'number',
-    flex: .4,
-  },
-  {
-    field: 'killorGank',
-    headerName: 'Type',
-    flex: .4,
-  },
-  {
-    field: 'loserRank',
-    headerName: 'Rank',
-    flex: .4,
-  },
-  {
-    field: 'loserName',
-    headerName: 'Loser Name',
-    type: 'number',
-    flex: 1,
-  },
-  {
-    field: 'loserClan',
-    headerName: 'Clan',
-    type: 'number',
-    flex: .5,
-  },
-];
+const MyDataGrid = ({ fights }) => {
 
-export default function DataGridDemo({ fights }) {
-
+  const columns = [
+    { field: 'id', headerName: 'ID', hide: true },
+    {
+      field: 'timeOf',
+      headerName: 'Time',
+      type: 'dateTime',
+      flex: 1,
+    },
+    {
+      field: 'winnerName',
+      headerName: 'winnerName',
+      flex: 1,
+    },
+    {
+      field: 'winnerClan',
+      headerName: 'Clan',
+      flex: .5,
+    },
+    {
+      field: 'winnerRank',
+      headerName: 'Rank',
+      type: 'number',
+      flex: .4,
+    },
+    {
+      field: 'killorGank',
+      headerName: 'Type',
+      flex: .4,
+    },
+    {
+      field: 'loserRank',
+      headerName: 'Rank',
+      flex: .4,
+    },
+    {
+      field: 'loserName',
+      headerName: 'Loser Name',
+      type: 'number',
+      flex: 1,
+    },
+    {
+      field: 'loserClan',
+      headerName: 'Clan',
+      type: 'number',
+      flex: .5,
+    },
+  ];
   const rows = fights.map(fight => ({
     id: fight._id,
     timeOf: new Date(fight.timeOf).toLocaleString(),
@@ -77,3 +76,5 @@ export default function DataGridDemo({ fights }) {
     </div>
   );
 }
+
+export default MyDataGrid;
