@@ -60,6 +60,7 @@ prunes dev dep's in production
 
 ## Mongo mongoose
 mongoose.set('debug', true);
+the $unwind operator requires the path name to start with '$'. Mongoose will prepend '$' if the specified field doesn't start '$'.
 ### id && _id
 id is a virtual string version of _id.
 both are enabled by default.
