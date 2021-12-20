@@ -26,11 +26,7 @@ const startServer = async () => {
       ApolloServerPluginDrainHttpServer({ httpServer }),
     ],
     // context: authMiddleware,
-    introspection: true,
-    /*     cors: {
-      origin: '*',
-      credentials: true,
-    }, */
+    // introspection: true,
   });
 
   await server.start();
@@ -52,7 +48,6 @@ const startServer = async () => {
     credentials: true,
   };
   app.use(cors(corsOptions));
-  // app.set('trust proxy', 1);
   server.applyMiddleware({
     app,
     cors: false,
@@ -78,13 +73,3 @@ const startServer = async () => {
 };
 
 startServer();
-
-/*   if (process.env.NODE_ENV === 'production') {
-    app.use(express.static(path.join(__dirname, '../client/build')));
-    app.get('/', (req, res) => {
-      res.sendFile(
-        path.resolve(__dirname, '../client', 'build', 'index.html'),
-      );
-    });
-    // app.use(express.static('client/build'));
-  } */

@@ -7,7 +7,7 @@ import Recent from './pages/Recent.js';
 import LeaderBoard from './pages/LeaderBoard.js';
 import CharacterView from './pages/CharacterView';
 import Nav from './components/Nav';
-import Character from './routes/Character';
+import Character from './pages/Character';
 import TestPage from './pages/TestPage';
 
 
