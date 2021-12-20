@@ -23,8 +23,8 @@ db.once('open', async () => {
       '$group': {
         '_id': {
           '$dateToString': {
-            //'format': '%Y-%m-%d',
-            'format': '%H',
+            'format': '%Y-%m-%d',
+            //'format': '%H',
             'date': '$timeOf'
           }
         },
@@ -34,7 +34,7 @@ db.once('open', async () => {
       }
     }, {
       '$sort': {
-        'count': -1
+        '_id': -1
       }
     }
 
