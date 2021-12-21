@@ -42,7 +42,6 @@ const client = new ApolloClient({
   link: from([errorLink, gLink]),
   cache,
   queryDeduplication: false,
-  ssrMode: true,
   defaultOptions: {
     watchQuery: {
       fetchPolicy: 'cache-and-network',
