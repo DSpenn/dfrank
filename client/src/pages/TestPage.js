@@ -6689,7 +6689,7 @@ root.dateFormatter.setAll({
      }
     ];
 
-    console.log(data);
+    // console.log(data);
 // https://www.amcharts.com/docs/v5/charts/xy-chart/
 let chart = root.container.children.push(am5xy.XYChart.new(root, {
   focusable: true,
@@ -6702,6 +6702,8 @@ let chart = root.container.children.push(am5xy.XYChart.new(root, {
 // https://www.amcharts.com/docs/v5/charts/xy-chart/axes/
 let xAxis = chart.xAxes.push(am5xy.DateAxis.new(root, {
   maxDeviation: 0.1,
+  min: new Date(2017, 5, 0).getTime(),
+  max: new Date(2021, 12, 0).getTime(),
   groupData: false,
   baseInterval: {
     timeUnit: "day",

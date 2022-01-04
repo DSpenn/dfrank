@@ -16,7 +16,7 @@ const resolvers = {
       }
       return await Character.find().sort({ rank: -1 }).select('-fights').lean();
     },
-    character: async (parent, { _id, name }) => {
+    character: async (root, { _id, name }) => {
       const params = {};
       if (name) {
         params.name = name;
@@ -57,6 +57,7 @@ const resolvers = {
         params.loserName = loserName;
         return await Fight.find(params).sort({ timeOf: -1 });
       }
+      
       return await Fight.find({ timeOf: { $gte: '2021-10-1' } }).sort({ timeOf: -1 }).lean();
       // return await Fight.find().sort({ timeOf: -1 }).lean();
     },

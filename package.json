@@ -23,9 +23,6 @@
     "eslint-plugin-react": "^7.27.1",
     "eslint-plugin-react-hooks": "^4.3.0"
   },
-  "dependencies": {
-    "concurrently": "^6.4.0"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/DSpenn/dfrank.git"
@@ -33,5 +30,8 @@
   "bugs": {
     "url": "https://github.com/DSpenn/dfrank/issues"
   },
-  "homepage": "https://github.com/DSpenn/dfrank#readme"
+  "homepage": "https://github.com/DSpenn/dfrank#readme",
+  "dependencies": {
+    "concurrently": "^7.0.0"
+  }
 }

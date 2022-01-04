@@ -1,7 +1,7 @@
 import { useParams } from 'react-router-dom';
 import { useQuery } from '@apollo/client';
-import { QUERY_CHARACTER } from '../utils/queries';
 import DataGrid from '../components/DataGrid';
+import { QUERY_CHARACTER } from '../utils/queries';
 
 const CharacterView = () => {
 
