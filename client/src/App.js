@@ -8,7 +8,7 @@ import LeaderBoard from './pages/LeaderBoard.js';
 import CharacterView from './pages/CharacterView';
 import Nav from './components/Nav';
 import Character from './pages/Character';
-import TestPage from './pages/TestPage';
+import Timeline from './pages/Timeline';
 
 
 const gLink = new HttpLink({ uri: '/graphql'});
@@ -61,7 +61,7 @@ function App() {
           <Route path="/Home" element={<Home />} />
           <Route path="/Recent" element={<Recent />} />
           <Route path="/LeaderBoard" element={<LeaderBoard />} />
-          <Route path="/TestPage" element={<TestPage />} />
+          <Route path="/Timeline" element={<Timeline />} />
           <Route path="/Character/" element={<Character />} />
           <Route
             path="Character/:id"

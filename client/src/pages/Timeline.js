@@ -3,7 +3,7 @@ import * as am5 from "@amcharts/amcharts5";
 import * as am5xy from "@amcharts/amcharts5/xy";
 import am5themes_Animated from "@amcharts/amcharts5/themes/Animated";
 
-function TestPage(props) {
+function Timeline(props) {
 
   useLayoutEffect(() => {
 
@@ -6787,4 +6787,4 @@ chart.appear(1000, 100);
     <div id="chartdiv" style={{ width: "100%", height: "500px" }}></div>
   );
 }
-export default TestPage;
+export default Timeline;
