@@ -28,29 +28,13 @@ db.once('open', async () => {
             'date': '$timeOf'
           }
         },
-        'fights': {
+        'count': {
           '$sum': 1
-        },
-        'winners': {'$addToSet': '$winnerName'},
-        'loosers': {'$addToSet': '$loserName'},
-      },
-    },
-    {
-      '$project':{
-        'uNames':{'$concatArrays':['$winners','$loosers']},
-        'fights': 1
-    }
-  },
-  {
-    '$project':{
-      'numberOfUNames': {
-      '$size': '$uNames'},
-      'fights': 1
-  }
-},
-    {
+        }
+      }
+    }, {
       '$sort': {
-        '_id': 1
+        '_id': -1
       }
     }
 
@@ -58,8 +42,7 @@ db.once('open', async () => {
 
   ])
   await logWrite(res);
-  console.log('done');
+  console.log("done");
   process.exit(1);
 });
 // 'count': -1
-//         'numberOfUNames': { '$cond': { 'if': { '$isArray': '$uNames' }, 'then': { '$size': '$uNames' }, 'else': 'NA'} },
