@@ -1,0 +1,8337 @@
+[
+ {
+  "_id": "2017-05-05",
+  "fights": 1,
+  "numberOfUNames": 2
+ },
+ {
+  "_id": "2017-05-06",
+  "fights": 742,
+  "numberOfUNames": 72
+ },
+ {
+  "_id": "2017-05-07",
+  "fights": 1385,
+  "numberOfUNames": 101
+ },
+ {
+  "_id": "2017-05-08",
+  "fights": 1802,
+  "numberOfUNames": 124
+ },
+ {
+  "_id": "2017-05-09",
+  "fights": 1965,
+  "numberOfUNames": 139
+ },
+ {
+  "_id": "2017-05-10",
+  "fights": 2401,
+  "numberOfUNames": 137
+ },
+ {
+  "_id": "2017-05-11",
+  "fights": 2558,
+  "numberOfUNames": 128
+ },
+ {
+  "_id": "2017-05-12",
+  "fights": 2888,
+  "numberOfUNames": 144
+ },
+ {
+  "_id": "2017-05-13",
+  "fights": 4004,
+  "numberOfUNames": 178
+ },
+ {
+  "_id": "2017-05-14",
+  "fights": 3875,
+  "numberOfUNames": 176
+ },
+ {
+  "_id": "2017-05-15",
+  "fights": 3865,
+  "numberOfUNames": 168
+ },
+ {
+  "_id": "2017-05-16",
+  "fights": 3254,
+  "numberOfUNames": 173
+ },
+ {
+  "_id": "2017-05-17",
+  "fights": 3588,
+  "numberOfUNames": 171
+ },
+ {
+  "_id": "2017-05-18",
+  "fights": 2874,
+  "numberOfUNames": 160
+ },
+ {
+  "_id": "2017-05-19",
+  "fights": 4199,
+  "numberOfUNames": 168
+ },
+ {
+  "_id": "2017-05-20",
+  "fights": 5932,
+  "numberOfUNames": 201
+ },
+ {
+  "_id": "2017-05-21",
+  "fights": 5055,
+  "numberOfUNames": 192
+ },
+ {
+  "_id": "2017-05-22",
+  "fights": 4389,
+  "numberOfUNames": 183
+ },
+ {
+  "_id": "2017-05-23",
+  "fights": 3799,
+  "numberOfUNames": 182
+ },
+ {
+  "_id": "2017-05-24",
+  "fights": 4476,
+  "numberOfUNames": 166
+ },
+ {
+  "_id": "2017-05-25",
+  "fights": 3861,
+  "numberOfUNames": 174
+ },
+ {
+  "_id": "2017-05-26",
+  "fights": 4511,
+  "numberOfUNames": 178
+ },
+ {
+  "_id": "2017-05-27",
+  "fights": 4545,
+  "numberOfUNames": 190
+ },
+ {
+  "_id": "2017-05-28",
+  "fights": 5393,
+  "numberOfUNames": 209
+ },
+ {
+  "_id": "2017-05-29",
+  "fights": 5838,
+  "numberOfUNames": 204
+ },
+ {
+  "_id": "2017-05-30",
+  "fights": 4616,
+  "numberOfUNames": 206
+ },
+ {
+  "_id": "2017-05-31",
+  "fights": 5230,
+  "numberOfUNames": 184
+ },
+ {
+  "_id": "2017-06-01",
+  "fights": 4891,
+  "numberOfUNames": 194
+ },
+ {
+  "_id": "2017-06-02",
+  "fights": 5488,
+  "numberOfUNames": 200
+ },
+ {
+  "_id": "2017-06-03",
+  "fights": 6225,
+  "numberOfUNames": 202
+ },
+ {
+  "_id": "2017-06-04",
+  "fights": 6079,
+  "numberOfUNames": 218
+ },
+ {
+  "_id": "2017-06-05",
+  "fights": 3731,
+  "numberOfUNames": 169
+ },
+ {
+  "_id": "2017-06-06",
+  "fights": 1424,
+  "numberOfUNames": 115
+ },
+ {
+  "_id": "2017-06-07",
+  "fights": 2278,
+  "numberOfUNames": 154
+ },
+ {
+  "_id": "2017-06-08",
+  "fights": 2498,
+  "numberOfUNames": 156
+ },
+ {
+  "_id": "2017-06-09",
+  "fights": 2455,
+  "numberOfUNames": 149
+ },
+ {
+  "_id": "2017-06-10",
+  "fights": 2583,
+  "numberOfUNames": 148
+ },
+ {
+  "_id": "2017-06-11",
+  "fights": 2416,
+  "numberOfUNames": 159
+ },
+ {
+  "_id": "2017-06-12",
+  "fights": 2136,
+  "numberOfUNames": 130
+ },
+ {
+  "_id": "2017-06-13",
+  "fights": 2340,
+  "numberOfUNames": 141
+ },
+ {
+  "_id": "2017-06-14",
+  "fights": 2285,
+  "numberOfUNames": 156
+ },
+ {
+  "_id": "2017-06-15",
+  "fights": 2193,
+  "numberOfUNames": 124
+ },
+ {
+  "_id": "2017-06-16",
+  "fights": 2068,
+  "numberOfUNames": 128
+ },
+ {
+  "_id": "2017-06-17",
+  "fights": 2156,
+  "numberOfUNames": 139
+ },
+ {
+  "_id": "2017-06-18",
+  "fights": 2306,
+  "numberOfUNames": 147
+ },
+ {
+  "_id": "2017-06-19",
+  "fights": 2197,
+  "numberOfUNames": 139
+ },
+ {
+  "_id": "2017-06-20",
+  "fights": 1909,
+  "numberOfUNames": 118
+ },
+ {
+  "_id": "2017-06-21",
+  "fights": 2483,
+  "numberOfUNames": 134
+ },
+ {
+  "_id": "2017-06-22",
+  "fights": 2233,
+  "numberOfUNames": 135
+ },
+ {
+  "_id": "2017-06-23",
+  "fights": 2295,
+  "numberOfUNames": 134
+ },
+ {
+  "_id": "2017-06-24",
+  "fights": 2846,
+  "numberOfUNames": 144
+ },
+ {
+  "_id": "2017-06-25",
+  "fights": 2454,
+  "numberOfUNames": 146
+ },
+ {
+  "_id": "2017-06-26",
+  "fights": 1957,
+  "numberOfUNames": 122
+ },
+ {
+  "_id": "2017-06-27",
+  "fights": 2348,
+  "numberOfUNames": 133
+ },
+ {
+  "_id": "2017-06-28",
+  "fights": 2173,
+  "numberOfUNames": 120
+ },
+ {
+  "_id": "2017-06-29",
+  "fights": 2099,
+  "numberOfUNames": 111
+ },
+ {
+  "_id": "2017-06-30",
+  "fights": 1964,
+  "numberOfUNames": 107
+ },
+ {
+  "_id": "2017-07-01",
+  "fights": 2242,
+  "numberOfUNames": 122
+ },
+ {
+  "_id": "2017-07-02",
+  "fights": 2117,
+  "numberOfUNames": 118
+ },
+ {
+  "_id": "2017-07-03",
+  "fights": 2084,
+  "numberOfUNames": 126
+ },
+ {
+  "_id": "2017-07-04",
+  "fights": 2201,
+  "numberOfUNames": 134
+ },
+ {
+  "_id": "2017-07-05",
+  "fights": 2159,
+  "numberOfUNames": 125
+ },
+ {
+  "_id": "2017-07-06",
+  "fights": 2006,
+  "numberOfUNames": 120
+ },
+ {
+  "_id": "2017-07-07",
+  "fights": 2104,
+  "numberOfUNames": 120
+ },
+ {
+  "_id": "2017-07-08",
+  "fights": 1904,
+  "numberOfUNames": 116
+ },
+ {
+  "_id": "2017-07-09",
+  "fights": 1878,
+  "numberOfUNames": 116
+ },
+ {
+  "_id": "2017-07-10",
+  "fights": 1459,
+  "numberOfUNames": 111
+ },
+ {
+  "_id": "2017-07-11",
+  "fights": 1677,
+  "numberOfUNames": 99
+ },
+ {
+  "_id": "2017-07-12",
+  "fights": 1583,
+  "numberOfUNames": 94
+ },
+ {
+  "_id": "2017-07-13",
+  "fights": 1421,
+  "numberOfUNames": 101
+ },
+ {
+  "_id": "2017-07-14",
+  "fights": 1305,
+  "numberOfUNames": 101
+ },
+ {
+  "_id": "2017-07-15",
+  "fights": 1747,
+  "numberOfUNames": 97
+ },
+ {
+  "_id": "2017-07-16",
+  "fights": 1707,
+  "numberOfUNames": 102
+ },
+ {
+  "_id": "2017-07-17",
+  "fights": 1043,
+  "numberOfUNames": 96
+ },
+ {
+  "_id": "2017-07-18",
+  "fights": 1076,
+  "numberOfUNames": 90
+ },
+ {
+  "_id": "2017-07-19",
+  "fights": 793,
+  "numberOfUNames": 71
+ },
+ {
+  "_id": "2017-07-20",
+  "fights": 825,
+  "numberOfUNames": 67
+ },
+ {
+  "_id": "2017-07-21",
+  "fights": 711,
+  "numberOfUNames": 64
+ },
+ {
+  "_id": "2017-07-22",
+  "fights": 764,
+  "numberOfUNames": 73
+ },
+ {
+  "_id": "2017-07-23",
+  "fights": 927,
+  "numberOfUNames": 71
+ },
+ {
+  "_id": "2017-07-24",
+  "fights": 564,
+  "numberOfUNames": 56
+ },
+ {
+  "_id": "2017-07-25",
+  "fights": 848,
+  "numberOfUNames": 64
+ },
+ {
+  "_id": "2017-07-26",
+  "fights": 755,
+  "numberOfUNames": 61
+ },
+ {
+  "_id": "2017-07-27",
+  "fights": 687,
+  "numberOfUNames": 55
+ },
+ {
+  "_id": "2017-07-28",
+  "fights": 537,
+  "numberOfUNames": 57
+ },
+ {
+  "_id": "2017-07-29",
+  "fights": 904,
+  "numberOfUNames": 69
+ },
+ {
+  "_id": "2017-07-30",
+  "fights": 697,
+  "numberOfUNames": 74
+ },
+ {
+  "_id": "2017-07-31",
+  "fights": 850,
+  "numberOfUNames": 60
+ },
+ {
+  "_id": "2017-08-01",
+  "fights": 978,
+  "numberOfUNames": 74
+ },
+ {
+  "_id": "2017-08-02",
+  "fights": 695,
+  "numberOfUNames": 61
+ },
+ {
+  "_id": "2017-08-03",
+  "fights": 728,
+  "numberOfUNames": 62
+ },
+ {
+  "_id": "2017-08-04",
+  "fights": 593,
+  "numberOfUNames": 54
+ },
+ {
+  "_id": "2017-08-05",
+  "fights": 594,
+  "numberOfUNames": 57
+ },
+ {
+  "_id": "2017-08-06",
+  "fights": 561,
+  "numberOfUNames": 55
+ },
+ {
+  "_id": "2017-08-07",
+  "fights": 697,
+  "numberOfUNames": 45
+ },
+ {
+  "_id": "2017-08-08",
+  "fights": 533,
+  "numberOfUNames": 51
+ },
+ {
+  "_id": "2017-08-09",
+  "fights": 533,
+  "numberOfUNames": 48
+ },
+ {
+  "_id": "2017-08-10",
+  "fights": 500,
+  "numberOfUNames": 42
+ },
+ {
+  "_id": "2017-08-11",
+  "fights": 519,
+  "numberOfUNames": 38
+ },
+ {
+  "_id": "2017-08-12",
+  "fights": 777,
+  "numberOfUNames": 65
+ },
+ {
+  "_id": "2017-08-13",
+  "fights": 972,
+  "numberOfUNames": 80
+ },
+ {
+  "_id": "2017-08-14",
+  "fights": 659,
+  "numberOfUNames": 54
+ },
+ {
+  "_id": "2017-08-15",
+  "fights": 927,
+  "numberOfUNames": 67
+ },
+ {
+  "_id": "2017-08-16",
+  "fights": 644,
+  "numberOfUNames": 56
+ },
+ {
+  "_id": "2017-08-17",
+  "fights": 836,
+  "numberOfUNames": 58
+ },
+ {
+  "_id": "2017-08-18",
+  "fights": 609,
+  "numberOfUNames": 53
+ },
+ {
+  "_id": "2017-08-19",
+  "fights": 776,
+  "numberOfUNames": 57
+ },
+ {
+  "_id": "2017-08-20",
+  "fights": 572,
+  "numberOfUNames": 50
+ },
+ {
+  "_id": "2017-08-21",
+  "fights": 361,
+  "numberOfUNames": 34
+ },
+ {
+  "_id": "2017-08-22",
+  "fights": 569,
+  "numberOfUNames": 44
+ },
+ {
+  "_id": "2017-08-23",
+  "fights": 507,
+  "numberOfUNames": 49
+ },
+ {
+  "_id": "2017-08-24",
+  "fights": 668,
+  "numberOfUNames": 41
+ },
+ {
+  "_id": "2017-08-25",
+  "fights": 616,
+  "numberOfUNames": 46
+ },
+ {
+  "_id": "2017-08-26",
+  "fights": 481,
+  "numberOfUNames": 34
+ },
+ {
+  "_id": "2017-08-27",
+  "fights": 511,
+  "numberOfUNames": 39
+ },
+ {
+  "_id": "2017-08-28",
+  "fights": 372,
+  "numberOfUNames": 28
+ },
+ {
+  "_id": "2017-08-29",
+  "fights": 427,
+  "numberOfUNames": 38
+ },
+ {
+  "_id": "2017-08-30",
+  "fights": 487,
+  "numberOfUNames": 41
+ },
+ {
+  "_id": "2017-08-31",
+  "fights": 473,
+  "numberOfUNames": 32
+ },
+ {
+  "_id": "2017-09-01",
+  "fights": 505,
+  "numberOfUNames": 34
+ },
+ {
+  "_id": "2017-09-02",
+  "fights": 212,
+  "numberOfUNames": 23
+ },
+ {
+  "_id": "2017-09-03",
+  "fights": 409,
+  "numberOfUNames": 38
+ },
+ {
+  "_id": "2017-09-04",
+  "fights": 308,
+  "numberOfUNames": 28
+ },
+ {
+  "_id": "2017-09-05",
+  "fights": 394,
+  "numberOfUNames": 32
+ },
+ {
+  "_id": "2017-09-06",
+  "fights": 252,
+  "numberOfUNames": 24
+ },
+ {
+  "_id": "2017-09-07",
+  "fights": 223,
+  "numberOfUNames": 13
+ },
+ {
+  "_id": "2017-09-08",
+  "fights": 383,
+  "numberOfUNames": 31
+ },
+ {
+  "_id": "2017-09-09",
+  "fights": 693,
+  "numberOfUNames": 39
+ },
+ {
+  "_id": "2017-09-10",
+  "fights": 475,
+  "numberOfUNames": 29
+ },
+ {
+  "_id": "2017-09-11",
+  "fights": 449,
+  "numberOfUNames": 27
+ },
+ {
+  "_id": "2017-09-12",
+  "fights": 459,
+  "numberOfUNames": 29
+ },
+ {
+  "_id": "2017-09-13",
+  "fights": 432,
+  "numberOfUNames": 25
+ },
+ {
+  "_id": "2017-09-14",
+  "fights": 275,
+  "numberOfUNames": 24
+ },
+ {
+  "_id": "2017-09-15",
+  "fights": 554,
+  "numberOfUNames": 26
+ },
+ {
+  "_id": "2017-09-16",
+  "fights": 376,
+  "numberOfUNames": 23
+ },
+ {
+  "_id": "2017-09-17",
+  "fights": 582,
+  "numberOfUNames": 24
+ },
+ {
+  "_id": "2017-09-18",
+  "fights": 844,
+  "numberOfUNames": 28
+ },
+ {
+  "_id": "2017-09-19",
+  "fights": 731,
+  "numberOfUNames": 21
+ },
+ {
+  "_id": "2017-09-20",
+  "fights": 554,
+  "numberOfUNames": 22
+ },
+ {
+  "_id": "2017-09-21",
+  "fights": 679,
+  "numberOfUNames": 26
+ },
+ {
+  "_id": "2017-09-22",
+  "fights": 824,
+  "numberOfUNames": 30
+ },
+ {
+  "_id": "2017-09-23",
+  "fights": 969,
+  "numberOfUNames": 28
+ },
+ {
+  "_id": "2017-09-24",
+  "fights": 636,
+  "numberOfUNames": 24
+ },
+ {
+  "_id": "2017-09-25",
+  "fights": 592,
+  "numberOfUNames": 23
+ },
+ {
+  "_id": "2017-09-26",
+  "fights": 542,
+  "numberOfUNames": 22
+ },
+ {
+  "_id": "2017-09-27",
+  "fights": 525,
+  "numberOfUNames": 25
+ },
+ {
+  "_id": "2017-09-28",
+  "fights": 444,
+  "numberOfUNames": 27
+ },
+ {
+  "_id": "2017-09-29",
+  "fights": 384,
+  "numberOfUNames": 24
+ },
+ {
+  "_id": "2017-09-30",
+  "fights": 656,
+  "numberOfUNames": 23
+ },
+ {
+  "_id": "2017-10-01",
+  "fights": 489,
+  "numberOfUNames": 22
+ },
+ {
+  "_id": "2017-10-02",
+  "fights": 231,
+  "numberOfUNames": 23
+ },
+ {
+  "_id": "2017-10-03",
+  "fights": 290,
+  "numberOfUNames": 24
+ },
+ {
+  "_id": "2017-10-04",
+  "fights": 337,
+  "numberOfUNames": 25
+ },
+ {
+  "_id": "2017-10-05",
+  "fights": 229,
+  "numberOfUNames": 19
+ },
+ {
+  "_id": "2017-10-06",
+  "fights": 215,
+  "numberOfUNames": 20
+ },
+ {
+  "_id": "2017-10-07",
+  "fights": 392,
+  "numberOfUNames": 23
+ },
+ {
+  "_id": "2017-10-08",
+  "fights": 637,
+  "numberOfUNames": 24
+ },
+ {
+  "_id": "2017-10-09",
+  "fights": 410,
+  "numberOfUNames": 21
+ },
+ {
+  "_id": "2017-10-10",
+  "fights": 414,
+  "numberOfUNames": 22
+ },
+ {
+  "_id": "2017-10-11",
+  "fights": 404,
+  "numberOfUNames": 20
+ },
+ {
+  "_id": "2017-10-12",
+  "fights": 355,
+  "numberOfUNames": 23
+ },
+ {
+  "_id": "2017-10-13",
+  "fights": 351,
+  "numberOfUNames": 21
+ },
+ {
+  "_id": "2017-10-14",
+  "fights": 472,
+  "numberOfUNames": 25
+ },
+ {
+  "_id": "2017-10-15",
+  "fights": 668,
+  "numberOfUNames": 25
+ },
+ {
+  "_id": "2017-10-16",
+  "fights": 511,
+  "numberOfUNames": 32
+ },
+ {
+  "_id": "2017-10-17",
+  "fights": 600,
+  "numberOfUNames": 40
+ },
+ {
+  "_id": "2017-10-18",
+  "fights": 429,
+  "numberOfUNames": 28
+ },
+ {
+  "_id": "2017-10-19",
+  "fights": 367,
+  "numberOfUNames": 23
+ },
+ {
+  "_id": "2017-10-20",
+  "fights": 240,
+  "numberOfUNames": 21
+ },
+ {
+  "_id": "2017-10-21",
+  "fights": 688,
+  "numberOfUNames": 25
+ },
+ {
+  "_id": "2017-10-22",
+  "fights": 557,
+  "numberOfUNames": 24
+ },
+ {
+  "_id": "2017-10-23",
+  "fights": 215,
+  "numberOfUNames": 20
+ },
+ {
+  "_id": "2017-10-24",
+  "fights": 266,
+  "numberOfUNames": 23
+ },
+ {
+  "_id": "2017-10-25",
+  "fights": 415,
+  "numberOfUNames": 36
+ },
+ {
+  "_id": "2017-10-26",
+  "fights": 656,
+  "numberOfUNames": 45
+ },
+ {
+  "_id": "2017-10-27",
+  "fights": 713,
+  "numberOfUNames": 48
+ },
+ {
+  "_id": "2017-10-28",
+  "fights": 790,
+  "numberOfUNames": 52
+ },
+ {
+  "_id": "2017-10-29",
+  "fights": 769,
+  "numberOfUNames": 48
+ },
+ {
+  "_id": "2017-10-30",
+  "fights": 626,
+  "numberOfUNames": 48
+ },
+ {
+  "_id": "2017-10-31",
+  "fights": 845,
+  "numberOfUNames": 54
+ },
+ {
+  "_id": "2017-11-01",
+  "fights": 605,
+  "numberOfUNames": 48
+ },
+ {
+  "_id": "2017-11-02",
+  "fights": 757,
+  "numberOfUNames": 46
+ },
+ {
+  "_id": "2017-11-03",
+  "fights": 576,
+  "numberOfUNames": 46
+ },
+ {
+  "_id": "2017-11-04",
+  "fights": 929,
+  "numberOfUNames": 63
+ },
+ {
+  "_id": "2017-11-05",
+  "fights": 1232,
+  "numberOfUNames": 65
+ },
+ {
+  "_id": "2017-11-06",
+  "fights": 850,
+  "numberOfUNames": 53
+ },
+ {
+  "_id": "2017-11-07",
+  "fights": 948,
+  "numberOfUNames": 62
+ },
+ {
+  "_id": "2017-11-08",
+  "fights": 794,
+  "numberOfUNames": 57
+ },
+ {
+  "_id": "2017-11-09",
+  "fights": 671,
+  "numberOfUNames": 51
+ },
+ {
+  "_id": "2017-11-10",
+  "fights": 617,
+  "numberOfUNames": 62
+ },
+ {
+  "_id": "2017-11-11",
+  "fights": 903,
+  "numberOfUNames": 61
+ },
+ {
+  "_id": "2017-11-12",
+  "fights": 826,
+  "numberOfUNames": 51
+ },
+ {
+  "_id": "2017-11-13",
+  "fights": 644,
+  "numberOfUNames": 47
+ },
+ {
+  "_id": "2017-11-14",
+  "fights": 754,
+  "numberOfUNames": 48
+ },
+ {
+  "_id": "2017-11-15",
+  "fights": 786,
+  "numberOfUNames": 49
+ },
+ {
+  "_id": "2017-11-16",
+  "fights": 710,
+  "numberOfUNames": 48
+ },
+ {
+  "_id": "2017-11-17",
+  "fights": 674,
+  "numberOfUNames": 52
+ },
+ {
+  "_id": "2017-11-18",
+  "fights": 1042,
+  "numberOfUNames": 64
+ },
+ {
+  "_id": "2017-11-19",
+  "fights": 1170,
+  "numberOfUNames": 62
+ },
+ {
+  "_id": "2017-11-20",
+  "fights": 679,
+  "numberOfUNames": 62
+ },
+ {
+  "_id": "2017-11-21",
+  "fights": 786,
+  "numberOfUNames": 60
+ },
+ {
+  "_id": "2017-11-22",
+  "fights": 1044,
+  "numberOfUNames": 54
+ },
+ {
+  "_id": "2017-11-23",
+  "fights": 542,
+  "numberOfUNames": 57
+ },
+ {
+  "_id": "2017-11-24",
+  "fights": 595,
+  "numberOfUNames": 54
+ },
+ {
+  "_id": "2017-11-25",
+  "fights": 947,
+  "numberOfUNames": 62
+ },
+ {
+  "_id": "2017-11-26",
+  "fights": 1090,
+  "numberOfUNames": 65
+ },
+ {
+  "_id": "2017-11-27",
+  "fights": 819,
+  "numberOfUNames": 61
+ },
+ {
+  "_id": "2017-11-28",
+  "fights": 840,
+  "numberOfUNames": 61
+ },
+ {
+  "_id": "2017-11-29",
+  "fights": 652,
+  "numberOfUNames": 53
+ },
+ {
+  "_id": "2017-11-30",
+  "fights": 658,
+  "numberOfUNames": 51
+ },
+ {
+  "_id": "2017-12-01",
+  "fights": 621,
+  "numberOfUNames": 49
+ },
+ {
+  "_id": "2017-12-02",
+  "fights": 906,
+  "numberOfUNames": 60
+ },
+ {
+  "_id": "2017-12-03",
+  "fights": 1114,
+  "numberOfUNames": 72
+ },
+ {
+  "_id": "2017-12-04",
+  "fights": 1032,
+  "numberOfUNames": 65
+ },
+ {
+  "_id": "2017-12-05",
+  "fights": 1120,
+  "numberOfUNames": 65
+ },
+ {
+  "_id": "2017-12-06",
+  "fights": 904,
+  "numberOfUNames": 65
+ },
+ {
+  "_id": "2017-12-07",
+  "fights": 1179,
+  "numberOfUNames": 67
+ },
+ {
+  "_id": "2017-12-08",
+  "fights": 847,
+  "numberOfUNames": 51
+ },
+ {
+  "_id": "2017-12-09",
+  "fights": 1468,
+  "numberOfUNames": 65
+ },
+ {
+  "_id": "2017-12-10",
+  "fights": 1165,
+  "numberOfUNames": 76
+ },
+ {
+  "_id": "2017-12-11",
+  "fights": 1041,
+  "numberOfUNames": 63
+ },
+ {
+  "_id": "2017-12-12",
+  "fights": 1271,
+  "numberOfUNames": 69
+ },
+ {
+  "_id": "2017-12-13",
+  "fights": 764,
+  "numberOfUNames": 58
+ },
+ {
+  "_id": "2017-12-14",
+  "fights": 869,
+  "numberOfUNames": 56
+ },
+ {
+  "_id": "2017-12-15",
+  "fights": 610,
+  "numberOfUNames": 52
+ },
+ {
+  "_id": "2017-12-16",
+  "fights": 777,
+  "numberOfUNames": 65
+ },
+ {
+  "_id": "2017-12-17",
+  "fights": 975,
+  "numberOfUNames": 52
+ },
+ {
+  "_id": "2017-12-18",
+  "fights": 499,
+  "numberOfUNames": 51
+ },
+ {
+  "_id": "2017-12-19",
+  "fights": 589,
+  "numberOfUNames": 58
+ },
+ {
+  "_id": "2017-12-20",
+  "fights": 671,
+  "numberOfUNames": 57
+ },
+ {
+  "_id": "2017-12-21",
+  "fights": 923,
+  "numberOfUNames": 54
+ },
+ {
+  "_id": "2017-12-22",
+  "fights": 936,
+  "numberOfUNames": 56
+ },
+ {
+  "_id": "2017-12-23",
+  "fights": 735,
+  "numberOfUNames": 47
+ },
+ {
+  "_id": "2017-12-24",
+  "fights": 340,
+  "numberOfUNames": 32
+ },
+ {
+  "_id": "2017-12-25",
+  "fights": 434,
+  "numberOfUNames": 28
+ },
+ {
+  "_id": "2017-12-26",
+  "fights": 756,
+  "numberOfUNames": 41
+ },
+ {
+  "_id": "2017-12-27",
+  "fights": 883,
+  "numberOfUNames": 35
+ },
+ {
+  "_id": "2017-12-28",
+  "fights": 714,
+  "numberOfUNames": 53
+ },
+ {
+  "_id": "2017-12-29",
+  "fights": 632,
+  "numberOfUNames": 40
+ },
+ {
+  "_id": "2017-12-30",
+  "fights": 805,
+  "numberOfUNames": 43
+ },
+ {
+  "_id": "2017-12-31",
+  "fights": 1031,
+  "numberOfUNames": 61
+ },
+ {
+  "_id": "2018-01-01",
+  "fights": 884,
+  "numberOfUNames": 58
+ },
+ {
+  "_id": "2018-01-02",
+  "fights": 750,
+  "numberOfUNames": 51
+ },
+ {
+  "_id": "2018-01-03",
+  "fights": 740,
+  "numberOfUNames": 48
+ },
+ {
+  "_id": "2018-01-04",
+  "fights": 736,
+  "numberOfUNames": 47
+ },
+ {
+  "_id": "2018-01-05",
+  "fights": 701,
+  "numberOfUNames": 63
+ },
+ {
+  "_id": "2018-01-06",
+  "fights": 805,
+  "numberOfUNames": 55
+ },
+ {
+  "_id": "2018-01-07",
+  "fights": 986,
+  "numberOfUNames": 55
+ },
+ {
+  "_id": "2018-01-08",
+  "fights": 872,
+  "numberOfUNames": 50
+ },
+ {
+  "_id": "2018-01-09",
+  "fights": 630,
+  "numberOfUNames": 49
+ },
+ {
+  "_id": "2018-01-10",
+  "fights": 590,
+  "numberOfUNames": 50
+ },
+ {
+  "_id": "2018-01-11",
+  "fights": 627,
+  "numberOfUNames": 50
+ },
+ {
+  "_id": "2018-01-12",
+  "fights": 759,
+  "numberOfUNames": 45
+ },
+ {
+  "_id": "2018-01-13",
+  "fights": 834,
+  "numberOfUNames": 54
+ },
+ {
+  "_id": "2018-01-14",
+  "fights": 840,
+  "numberOfUNames": 51
+ },
+ {
+  "_id": "2018-01-15",
+  "fights": 686,
+  "numberOfUNames": 40
+ },
+ {
+  "_id": "2018-01-16",
+  "fights": 603,
+  "numberOfUNames": 36
+ },
+ {
+  "_id": "2018-01-17",
+  "fights": 411,
+  "numberOfUNames": 41
+ },
+ {
+  "_id": "2018-01-18",
+  "fights": 573,
+  "numberOfUNames": 40
+ },
+ {
+  "_id": "2018-01-19",
+  "fights": 432,
+  "numberOfUNames": 40
+ },
+ {
+  "_id": "2018-01-20",
+  "fights": 576,
+  "numberOfUNames": 41
+ },
+ {
+  "_id": "2018-01-21",
+  "fights": 492,
+  "numberOfUNames": 42
+ },
+ {
+  "_id": "2018-01-22",
+  "fights": 755,
+  "numberOfUNames": 42
+ },
+ {
+  "_id": "2018-01-23",
+  "fights": 463,
+  "numberOfUNames": 42
+ },
+ {
+  "_id": "2018-01-24",
+  "fights": 340,
+  "numberOfUNames": 42
+ },
+ {
+  "_id": "2018-01-25",
+  "fights": 221,
+  "numberOfUNames": 29
+ },
+ {
+  "_id": "2018-01-26",
+  "fights": 561,
+  "numberOfUNames": 50
+ },
+ {
+  "_id": "2018-01-27",
+  "fights": 558,
+  "numberOfUNames": 55
+ },
+ {
+  "_id": "2018-01-28",
+  "fights": 667,
+  "numberOfUNames": 49
+ },
+ {
+  "_id": "2018-01-29",
+  "fights": 485,
+  "numberOfUNames": 45
+ },
+ {
+  "_id": "2018-01-30",
+  "fights": 338,
+  "numberOfUNames": 36
+ },
+ {
+  "_id": "2018-01-31",
+  "fights": 340,
+  "numberOfUNames": 39
+ },
+ {
+  "_id": "2018-02-01",
+  "fights": 454,
+  "numberOfUNames": 43
+ },
+ {
+  "_id": "2018-02-02",
+  "fights": 355,
+  "numberOfUNames": 41
+ },
+ {
+  "_id": "2018-02-03",
+  "fights": 502,
+  "numberOfUNames": 46
+ },
+ {
+  "_id": "2018-02-04",
+  "fights": 604,
+  "numberOfUNames": 45
+ },
+ {
+  "_id": "2018-02-05",
+  "fights": 450,
+  "numberOfUNames": 40
+ },
+ {
+  "_id": "2018-02-06",
+  "fights": 710,
+  "numberOfUNames": 39
+ },
+ {
+  "_id": "2018-02-07",
+  "fights": 428,
+  "numberOfUNames": 42
+ },
+ {
+  "_id": "2018-02-08",
+  "fights": 618,
+  "numberOfUNames": 30
+ },
+ {
+  "_id": "2018-02-09",
+  "fights": 565,
+  "numberOfUNames": 39
+ },
+ {
+  "_id": "2018-02-10",
+  "fights": 709,
+  "numberOfUNames": 34
+ },
+ {
+  "_id": "2018-02-11",
+  "fights": 717,
+  "numberOfUNames": 46
+ },
+ {
+  "_id": "2018-02-12",
+  "fights": 709,
+  "numberOfUNames": 44
+ },
+ {
+  "_id": "2018-02-13",
+  "fights": 354,
+  "numberOfUNames": 38
+ },
+ {
+  "_id": "2018-02-14",
+  "fights": 535,
+  "numberOfUNames": 39
+ },
+ {
+  "_id": "2018-02-15",
+  "fights": 576,
+  "numberOfUNames": 38
+ },
+ {
+  "_id": "2018-02-16",
+  "fights": 639,
+  "numberOfUNames": 41
+ },
+ {
+  "_id": "2018-02-17",
+  "fights": 775,
+  "numberOfUNames": 55
+ },
+ {
+  "_id": "2018-02-18",
+  "fights": 488,
+  "numberOfUNames": 50
+ },
+ {
+  "_id": "2018-02-19",
+  "fights": 475,
+  "numberOfUNames": 38
+ },
+ {
+  "_id": "2018-02-20",
+  "fights": 455,
+  "numberOfUNames": 38
+ },
+ {
+  "_id": "2018-02-21",
+  "fights": 704,
+  "numberOfUNames": 58
+ },
+ {
+  "_id": "2018-02-22",
+  "fights": 684,
+  "numberOfUNames": 47
+ },
+ {
+  "_id": "2018-02-23",
+  "fights": 915,
+  "numberOfUNames": 50
+ },
+ {
+  "_id": "2018-02-24",
+  "fights": 660,
+  "numberOfUNames": 45
+ },
+ {
+  "_id": "2018-02-25",
+  "fights": 577,
+  "numberOfUNames": 45
+ },
+ {
+  "_id": "2018-02-26",
+  "fights": 524,
+  "numberOfUNames": 52
+ },
+ {
+  "_id": "2018-02-27",
+  "fights": 389,
+  "numberOfUNames": 43
+ },
+ {
+  "_id": "2018-02-28",
+  "fights": 383,
+  "numberOfUNames": 37
+ },
+ {
+  "_id": "2018-03-01",
+  "fights": 493,
+  "numberOfUNames": 40
+ },
+ {
+  "_id": "2018-03-02",
+  "fights": 328,
+  "numberOfUNames": 37
+ },
+ {
+  "_id": "2018-03-03",
+  "fights": 409,
+  "numberOfUNames": 44
+ },
+ {
+  "_id": "2018-03-04",
+  "fights": 455,
+  "numberOfUNames": 37
+ },
+ {
+  "_id": "2018-03-05",
+  "fights": 505,
+  "numberOfUNames": 37
+ },
+ {
+  "_id": "2018-03-06",
+  "fights": 385,
+  "numberOfUNames": 30
+ },
+ {
+  "_id": "2018-03-07",
+  "fights": 455,
+  "numberOfUNames": 35
+ },
+ {
+  "_id": "2018-03-08",
+  "fights": 448,
+  "numberOfUNames": 34
+ },
+ {
+  "_id": "2018-03-09",
+  "fights": 299,
+  "numberOfUNames": 32
+ },
+ {
+  "_id": "2018-03-10",
+  "fights": 646,
+  "numberOfUNames": 50
+ },
+ {
+  "_id": "2018-03-11",
+  "fights": 559,
+  "numberOfUNames": 50
+ },
+ {
+  "_id": "2018-03-12",
+  "fights": 509,
+  "numberOfUNames": 39
+ },
+ {
+  "_id": "2018-03-13",
+  "fights": 388,
+  "numberOfUNames": 32
+ },
+ {
+  "_id": "2018-03-14",
+  "fights": 706,
+  "numberOfUNames": 45
+ },
+ {
+  "_id": "2018-03-15",
+  "fights": 539,
+  "numberOfUNames": 36
+ },
+ {
+  "_id": "2018-03-16",
+  "fights": 318,
+  "numberOfUNames": 32
+ },
+ {
+  "_id": "2018-03-17",
+  "fights": 475,
+  "numberOfUNames": 38
+ },
+ {
+  "_id": "2018-03-18",
+  "fights": 607,
+  "numberOfUNames": 44
+ },
+ {
+  "_id": "2018-03-19",
+  "fights": 411,
+  "numberOfUNames": 37
+ },
+ {
+  "_id": "2018-03-20",
+  "fights": 284,
+  "numberOfUNames": 34
+ },
+ {
+  "_id": "2018-03-21",
+  "fights": 375,
+  "numberOfUNames": 37
+ },
+ {
+  "_id": "2018-03-22",
+  "fights": 467,
+  "numberOfUNames": 34
+ },
+ {
+  "_id": "2018-03-23",
+  "fights": 522,
+  "numberOfUNames": 39
+ },
+ {
+  "_id": "2018-03-24",
+  "fights": 571,
+  "numberOfUNames": 41
+ },
+ {
+  "_id": "2018-03-25",
+  "fights": 726,
+  "numberOfUNames": 47
+ },
+ {
+  "_id": "2018-03-26",
+  "fights": 433,
+  "numberOfUNames": 47
+ },
+ {
+  "_id": "2018-03-27",
+  "fights": 673,
+  "numberOfUNames": 51
+ },
+ {
+  "_id": "2018-03-28",
+  "fights": 688,
+  "numberOfUNames": 54
+ },
+ {
+  "_id": "2018-03-29",
+  "fights": 820,
+  "numberOfUNames": 53
+ },
+ {
+  "_id": "2018-03-30",
+  "fights": 725,
+  "numberOfUNames": 52
+ },
+ {
+  "_id": "2018-03-31",
+  "fights": 801,
+  "numberOfUNames": 58
+ },
+ {
+  "_id": "2018-04-01",
+  "fights": 1020,
+  "numberOfUNames": 62
+ },
+ {
+  "_id": "2018-04-02",
+  "fights": 850,
+  "numberOfUNames": 52
+ },
+ {
+  "_id": "2018-04-03",
+  "fights": 919,
+  "numberOfUNames": 56
+ },
+ {
+  "_id": "2018-04-04",
+  "fights": 531,
+  "numberOfUNames": 43
+ },
+ {
+  "_id": "2018-04-05",
+  "fights": 843,
+  "numberOfUNames": 51
+ },
+ {
+  "_id": "2018-04-06",
+  "fights": 568,
+  "numberOfUNames": 50
+ },
+ {
+  "_id": "2018-04-07",
+  "fights": 853,
+  "numberOfUNames": 57
+ },
+ {
+  "_id": "2018-04-08",
+  "fights": 748,
+  "numberOfUNames": 63
+ },
+ {
+  "_id": "2018-04-09",
+  "fights": 408,
+  "numberOfUNames": 40
+ },
+ {
+  "_id": "2018-04-10",
+  "fights": 592,
+  "numberOfUNames": 59
+ },
+ {
+  "_id": "2018-04-11",
+  "fights": 581,
+  "numberOfUNames": 47
+ },
+ {
+  "_id": "2018-04-12",
+  "fights": 534,
+  "numberOfUNames": 51
+ },
+ {
+  "_id": "2018-04-13",
+  "fights": 885,
+  "numberOfUNames": 53
+ },
+ {
+  "_id": "2018-04-14",
+  "fights": 733,
+  "numberOfUNames": 53
+ },
+ {
+  "_id": "2018-04-15",
+  "fights": 1152,
+  "numberOfUNames": 71
+ },
+ {
+  "_id": "2018-04-16",
+  "fights": 773,
+  "numberOfUNames": 61
+ },
+ {
+  "_id": "2018-04-17",
+  "fights": 890,
+  "numberOfUNames": 54
+ },
+ {
+  "_id": "2018-04-18",
+  "fights": 708,
+  "numberOfUNames": 55
+ },
+ {
+  "_id": "2018-04-19",
+  "fights": 824,
+  "numberOfUNames": 53
+ },
+ {
+  "_id": "2018-04-20",
+  "fights": 864,
+  "numberOfUNames": 49
+ },
+ {
+  "_id": "2018-04-21",
+  "fights": 1011,
+  "numberOfUNames": 52
+ },
+ {
+  "_id": "2018-04-22",
+  "fights": 1074,
+  "numberOfUNames": 58
+ },
+ {
+  "_id": "2018-04-23",
+  "fights": 725,
+  "numberOfUNames": 45
+ },
+ {
+  "_id": "2018-04-24",
+  "fights": 780,
+  "numberOfUNames": 44
+ },
+ {
+  "_id": "2018-04-25",
+  "fights": 560,
+  "numberOfUNames": 48
+ },
+ {
+  "_id": "2018-04-26",
+  "fights": 718,
+  "numberOfUNames": 51
+ },
+ {
+  "_id": "2018-04-27",
+  "fights": 723,
+  "numberOfUNames": 51
+ },
+ {
+  "_id": "2018-04-28",
+  "fights": 1002,
+  "numberOfUNames": 62
+ },
+ {
+  "_id": "2018-04-29",
+  "fights": 893,
+  "numberOfUNames": 53
+ },
+ {
+  "_id": "2018-04-30",
+  "fights": 823,
+  "numberOfUNames": 56
+ },
+ {
+  "_id": "2018-05-01",
+  "fights": 819,
+  "numberOfUNames": 49
+ },
+ {
+  "_id": "2018-05-02",
+  "fights": 664,
+  "numberOfUNames": 48
+ },
+ {
+  "_id": "2018-05-03",
+  "fights": 668,
+  "numberOfUNames": 46
+ },
+ {
+  "_id": "2018-05-04",
+  "fights": 592,
+  "numberOfUNames": 51
+ },
+ {
+  "_id": "2018-05-05",
+  "fights": 802,
+  "numberOfUNames": 64
+ },
+ {
+  "_id": "2018-05-06",
+  "fights": 818,
+  "numberOfUNames": 56
+ },
+ {
+  "_id": "2018-05-07",
+  "fights": 835,
+  "numberOfUNames": 61
+ },
+ {
+  "_id": "2018-05-08",
+  "fights": 668,
+  "numberOfUNames": 55
+ },
+ {
+  "_id": "2018-05-09",
+  "fights": 629,
+  "numberOfUNames": 42
+ },
+ {
+  "_id": "2018-05-10",
+  "fights": 664,
+  "numberOfUNames": 50
+ },
+ {
+  "_id": "2018-05-11",
+  "fights": 655,
+  "numberOfUNames": 63
+ },
+ {
+  "_id": "2018-05-12",
+  "fights": 1036,
+  "numberOfUNames": 60
+ },
+ {
+  "_id": "2018-05-13",
+  "fights": 951,
+  "numberOfUNames": 51
+ },
+ {
+  "_id": "2018-05-14",
+  "fights": 807,
+  "numberOfUNames": 56
+ },
+ {
+  "_id": "2018-05-15",
+  "fights": 722,
+  "numberOfUNames": 46
+ },
+ {
+  "_id": "2018-05-16",
+  "fights": 949,
+  "numberOfUNames": 55
+ },
+ {
+  "_id": "2018-05-17",
+  "fights": 709,
+  "numberOfUNames": 52
+ },
+ {
+  "_id": "2018-05-18",
+  "fights": 632,
+  "numberOfUNames": 44
+ },
+ {
+  "_id": "2018-05-19",
+  "fights": 1097,
+  "numberOfUNames": 61
+ },
+ {
+  "_id": "2018-05-20",
+  "fights": 963,
+  "numberOfUNames": 51
+ },
+ {
+  "_id": "2018-05-21",
+  "fights": 611,
+  "numberOfUNames": 59
+ },
+ {
+  "_id": "2018-05-22",
+  "fights": 1038,
+  "numberOfUNames": 48
+ },
+ {
+  "_id": "2018-05-23",
+  "fights": 568,
+  "numberOfUNames": 33
+ },
+ {
+  "_id": "2018-05-24",
+  "fights": 513,
+  "numberOfUNames": 42
+ },
+ {
+  "_id": "2018-05-25",
+  "fights": 409,
+  "numberOfUNames": 41
+ },
+ {
+  "_id": "2018-05-26",
+  "fights": 548,
+  "numberOfUNames": 30
+ },
+ {
+  "_id": "2018-05-27",
+  "fights": 826,
+  "numberOfUNames": 37
+ },
+ {
+  "_id": "2018-05-28",
+  "fights": 683,
+  "numberOfUNames": 40
+ },
+ {
+  "_id": "2018-05-29",
+  "fights": 479,
+  "numberOfUNames": 30
+ },
+ {
+  "_id": "2018-05-30",
+  "fights": 818,
+  "numberOfUNames": 41
+ },
+ {
+  "_id": "2018-05-31",
+  "fights": 744,
+  "numberOfUNames": 46
+ },
+ {
+  "_id": "2018-06-01",
+  "fights": 543,
+  "numberOfUNames": 48
+ },
+ {
+  "_id": "2018-06-02",
+  "fights": 449,
+  "numberOfUNames": 50
+ },
+ {
+  "_id": "2018-06-03",
+  "fights": 487,
+  "numberOfUNames": 49
+ },
+ {
+  "_id": "2018-06-04",
+  "fights": 493,
+  "numberOfUNames": 33
+ },
+ {
+  "_id": "2018-06-05",
+  "fights": 340,
+  "numberOfUNames": 28
+ },
+ {
+  "_id": "2018-06-06",
+  "fights": 304,
+  "numberOfUNames": 25
+ },
+ {
+  "_id": "2018-06-07",
+  "fights": 387,
+  "numberOfUNames": 25
+ },
+ {
+  "_id": "2018-06-08",
+  "fights": 154,
+  "numberOfUNames": 17
+ },
+ {
+  "_id": "2018-06-09",
+  "fights": 392,
+  "numberOfUNames": 26
+ },
+ {
+  "_id": "2018-06-10",
+  "fights": 226,
+  "numberOfUNames": 28
+ },
+ {
+  "_id": "2018-06-11",
+  "fights": 340,
+  "numberOfUNames": 31
+ },
+ {
+  "_id": "2018-06-12",
+  "fights": 387,
+  "numberOfUNames": 40
+ },
+ {
+  "_id": "2018-06-13",
+  "fights": 471,
+  "numberOfUNames": 35
+ },
+ {
+  "_id": "2018-06-14",
+  "fights": 230,
+  "numberOfUNames": 27
+ },
+ {
+  "_id": "2018-06-15",
+  "fights": 344,
+  "numberOfUNames": 28
+ },
+ {
+  "_id": "2018-06-16",
+  "fights": 299,
+  "numberOfUNames": 25
+ },
+ {
+  "_id": "2018-06-17",
+  "fights": 243,
+  "numberOfUNames": 25
+ },
+ {
+  "_id": "2018-06-18",
+  "fights": 325,
+  "numberOfUNames": 41
+ },
+ {
+  "_id": "2018-06-19",
+  "fights": 263,
+  "numberOfUNames": 31
+ },
+ {
+  "_id": "2018-06-20",
+  "fights": 254,
+  "numberOfUNames": 31
+ },
+ {
+  "_id": "2018-06-21",
+  "fights": 192,
+  "numberOfUNames": 23
+ },
+ {
+  "_id": "2018-06-22",
+  "fights": 215,
+  "numberOfUNames": 23
+ },
+ {
+  "_id": "2018-06-23",
+  "fights": 397,
+  "numberOfUNames": 37
+ },
+ {
+  "_id": "2018-06-24",
+  "fights": 317,
+  "numberOfUNames": 42
+ },
+ {
+  "_id": "2018-06-25",
+  "fights": 277,
+  "numberOfUNames": 35
+ },
+ {
+  "_id": "2018-06-26",
+  "fights": 402,
+  "numberOfUNames": 32
+ },
+ {
+  "_id": "2018-06-27",
+  "fights": 226,
+  "numberOfUNames": 30
+ },
+ {
+  "_id": "2018-06-28",
+  "fights": 409,
+  "numberOfUNames": 30
+ },
+ {
+  "_id": "2018-06-29",
+  "fights": 491,
+  "numberOfUNames": 28
+ },
+ {
+  "_id": "2018-06-30",
+  "fights": 326,
+  "numberOfUNames": 34
+ },
+ {
+  "_id": "2018-07-01",
+  "fights": 215,
+  "numberOfUNames": 31
+ },
+ {
+  "_id": "2018-07-02",
+  "fights": 249,
+  "numberOfUNames": 30
+ },
+ {
+  "_id": "2018-07-03",
+  "fights": 221,
+  "numberOfUNames": 28
+ },
+ {
+  "_id": "2018-07-04",
+  "fights": 207,
+  "numberOfUNames": 32
+ },
+ {
+  "_id": "2018-07-05",
+  "fights": 278,
+  "numberOfUNames": 32
+ },
+ {
+  "_id": "2018-07-06",
+  "fights": 365,
+  "numberOfUNames": 39
+ },
+ {
+  "_id": "2018-07-07",
+  "fights": 243,
+  "numberOfUNames": 36
+ },
+ {
+  "_id": "2018-07-08",
+  "fights": 303,
+  "numberOfUNames": 33
+ },
+ {
+  "_id": "2018-07-09",
+  "fights": 225,
+  "numberOfUNames": 29
+ },
+ {
+  "_id": "2018-07-10",
+  "fights": 180,
+  "numberOfUNames": 30
+ },
+ {
+  "_id": "2018-07-11",
+  "fights": 350,
+  "numberOfUNames": 36
+ },
+ {
+  "_id": "2018-07-12",
+  "fights": 275,
+  "numberOfUNames": 30
+ },
+ {
+  "_id": "2018-07-13",
+  "fights": 246,
+  "numberOfUNames": 29
+ },
+ {
+  "_id": "2018-07-14",
+  "fights": 373,
+  "numberOfUNames": 43
+ },
+ {
+  "_id": "2018-07-15",
+  "fights": 314,
+  "numberOfUNames": 37
+ },
+ {
+  "_id": "2018-07-16",
+  "fights": 342,
+  "numberOfUNames": 40
+ },
+ {
+  "_id": "2018-07-17",
+  "fights": 278,
+  "numberOfUNames": 33
+ },
+ {
+  "_id": "2018-07-18",
+  "fights": 467,
+  "numberOfUNames": 36
+ },
+ {
+  "_id": "2018-07-19",
+  "fights": 556,
+  "numberOfUNames": 38
+ },
+ {
+  "_id": "2018-07-20",
+  "fights": 346,
+  "numberOfUNames": 30
+ },
+ {
+  "_id": "2018-07-21",
+  "fights": 559,
+  "numberOfUNames": 36
+ },
+ {
+  "_id": "2018-07-22",
+  "fights": 586,
+  "numberOfUNames": 47
+ },
+ {
+  "_id": "2018-07-23",
+  "fights": 369,
+  "numberOfUNames": 40
+ },
+ {
+  "_id": "2018-07-24",
+  "fights": 277,
+  "numberOfUNames": 32
+ },
+ {
+  "_id": "2018-07-27",
+  "fights": 126,
+  "numberOfUNames": 8
+ },
+ {
+  "_id": "2018-07-28",
+  "fights": 461,
+  "numberOfUNames": 32
+ },
+ {
+  "_id": "2018-07-29",
+  "fights": 596,
+  "numberOfUNames": 41
+ },
+ {
+  "_id": "2018-07-30",
+  "fights": 446,
+  "numberOfUNames": 36
+ },
+ {
+  "_id": "2018-07-31",
+  "fights": 379,
+  "numberOfUNames": 43
+ },
+ {
+  "_id": "2018-08-01",
+  "fights": 393,
+  "numberOfUNames": 38
+ },
+ {
+  "_id": "2018-08-02",
+  "fights": 503,
+  "numberOfUNames": 36
+ },
+ {
+  "_id": "2018-08-03",
+  "fights": 444,
+  "numberOfUNames": 32
+ },
+ {
+  "_id": "2018-08-04",
+  "fights": 393,
+  "numberOfUNames": 36
+ },
+ {
+  "_id": "2018-08-05",
+  "fights": 633,
+  "numberOfUNames": 32
+ },
+ {
+  "_id": "2018-08-06",
+  "fights": 437,
+  "numberOfUNames": 42
+ },
+ {
+  "_id": "2018-08-07",
+  "fights": 509,
+  "numberOfUNames": 45
+ },
+ {
+  "_id": "2018-08-08",
+  "fights": 434,
+  "numberOfUNames": 31
+ },
+ {
+  "_id": "2018-08-09",
+  "fights": 340,
+  "numberOfUNames": 23
+ },
+ {
+  "_id": "2018-08-10",
+  "fights": 433,
+  "numberOfUNames": 35
+ },
+ {
+  "_id": "2018-08-11",
+  "fights": 413,
+  "numberOfUNames": 45
+ },
+ {
+  "_id": "2018-08-12",
+  "fights": 844,
+  "numberOfUNames": 52
+ },
+ {
+  "_id": "2018-08-13",
+  "fights": 629,
+  "numberOfUNames": 48
+ },
+ {
+  "_id": "2018-08-14",
+  "fights": 550,
+  "numberOfUNames": 30
+ },
+ {
+  "_id": "2018-08-15",
+  "fights": 589,
+  "numberOfUNames": 41
+ },
+ {
+  "_id": "2018-08-16",
+  "fights": 339,
+  "numberOfUNames": 36
+ },
+ {
+  "_id": "2018-08-17",
+  "fights": 522,
+  "numberOfUNames": 39
+ },
+ {
+  "_id": "2018-08-18",
+  "fights": 679,
+  "numberOfUNames": 48
+ },
+ {
+  "_id": "2018-08-19",
+  "fights": 1043,
+  "numberOfUNames": 53
+ },
+ {
+  "_id": "2018-08-20",
+  "fights": 569,
+  "numberOfUNames": 46
+ },
+ {
+  "_id": "2018-08-21",
+  "fights": 545,
+  "numberOfUNames": 41
+ },
+ {
+  "_id": "2018-08-22",
+  "fights": 526,
+  "numberOfUNames": 37
+ },
+ {
+  "_id": "2018-08-23",
+  "fights": 392,
+  "numberOfUNames": 38
+ },
+ {
+  "_id": "2018-08-24",
+  "fights": 337,
+  "numberOfUNames": 40
+ },
+ {
+  "_id": "2018-08-25",
+  "fights": 622,
+  "numberOfUNames": 37
+ },
+ {
+  "_id": "2018-08-26",
+  "fights": 502,
+  "numberOfUNames": 48
+ },
+ {
+  "_id": "2018-08-27",
+  "fights": 683,
+  "numberOfUNames": 49
+ },
+ {
+  "_id": "2018-08-28",
+  "fights": 407,
+  "numberOfUNames": 36
+ },
+ {
+  "_id": "2018-08-29",
+  "fights": 231,
+  "numberOfUNames": 30
+ },
+ {
+  "_id": "2018-08-30",
+  "fights": 406,
+  "numberOfUNames": 41
+ },
+ {
+  "_id": "2018-08-31",
+  "fights": 405,
+  "numberOfUNames": 47
+ },
+ {
+  "_id": "2018-09-01",
+  "fights": 453,
+  "numberOfUNames": 46
+ },
+ {
+  "_id": "2018-09-02",
+  "fights": 475,
+  "numberOfUNames": 45
+ },
+ {
+  "_id": "2018-09-03",
+  "fights": 607,
+  "numberOfUNames": 48
+ },
+ {
+  "_id": "2018-09-04",
+  "fights": 301,
+  "numberOfUNames": 31
+ },
+ {
+  "_id": "2018-09-05",
+  "fights": 424,
+  "numberOfUNames": 44
+ },
+ {
+  "_id": "2018-09-06",
+  "fights": 356,
+  "numberOfUNames": 38
+ },
+ {
+  "_id": "2018-09-07",
+  "fights": 195,
+  "numberOfUNames": 29
+ },
+ {
+  "_id": "2018-09-08",
+  "fights": 382,
+  "numberOfUNames": 45
+ },
+ {
+  "_id": "2018-09-09",
+  "fights": 402,
+  "numberOfUNames": 44
+ },
+ {
+  "_id": "2018-09-10",
+  "fights": 414,
+  "numberOfUNames": 47
+ },
+ {
+  "_id": "2018-09-11",
+  "fights": 211,
+  "numberOfUNames": 33
+ },
+ {
+  "_id": "2018-09-12",
+  "fights": 213,
+  "numberOfUNames": 34
+ },
+ {
+  "_id": "2018-09-13",
+  "fights": 237,
+  "numberOfUNames": 34
+ },
+ {
+  "_id": "2018-09-14",
+  "fights": 224,
+  "numberOfUNames": 37
+ },
+ {
+  "_id": "2018-09-15",
+  "fights": 305,
+  "numberOfUNames": 35
+ },
+ {
+  "_id": "2018-09-16",
+  "fights": 379,
+  "numberOfUNames": 41
+ },
+ {
+  "_id": "2018-09-17",
+  "fights": 324,
+  "numberOfUNames": 38
+ },
+ {
+  "_id": "2018-09-18",
+  "fights": 223,
+  "numberOfUNames": 30
+ },
+ {
+  "_id": "2018-09-19",
+  "fights": 285,
+  "numberOfUNames": 28
+ },
+ {
+  "_id": "2018-09-20",
+  "fights": 350,
+  "numberOfUNames": 41
+ },
+ {
+  "_id": "2018-09-21",
+  "fights": 280,
+  "numberOfUNames": 26
+ },
+ {
+  "_id": "2018-09-22",
+  "fights": 397,
+  "numberOfUNames": 35
+ },
+ {
+  "_id": "2018-09-23",
+  "fights": 437,
+  "numberOfUNames": 36
+ },
+ {
+  "_id": "2018-09-24",
+  "fights": 341,
+  "numberOfUNames": 37
+ },
+ {
+  "_id": "2018-09-25",
+  "fights": 366,
+  "numberOfUNames": 43
+ },
+ {
+  "_id": "2018-09-26",
+  "fights": 274,
+  "numberOfUNames": 34
+ },
+ {
+  "_id": "2018-09-27",
+  "fights": 445,
+  "numberOfUNames": 33
+ },
+ {
+  "_id": "2018-09-28",
+  "fights": 307,
+  "numberOfUNames": 26
+ },
+ {
+  "_id": "2018-09-29",
+  "fights": 392,
+  "numberOfUNames": 39
+ },
+ {
+  "_id": "2018-09-30",
+  "fights": 369,
+  "numberOfUNames": 30
+ },
+ {
+  "_id": "2018-10-01",
+  "fights": 162,
+  "numberOfUNames": 28
+ },
+ {
+  "_id": "2018-10-02",
+  "fights": 282,
+  "numberOfUNames": 34
+ },
+ {
+  "_id": "2018-10-03",
+  "fights": 472,
+  "numberOfUNames": 33
+ },
+ {
+  "_id": "2018-10-04",
+  "fights": 315,
+  "numberOfUNames": 26
+ },
+ {
+  "_id": "2018-10-05",
+  "fights": 146,
+  "numberOfUNames": 26
+ },
+ {
+  "_id": "2018-10-06",
+  "fights": 228,
+  "numberOfUNames": 29
+ },
+ {
+  "_id": "2018-10-07",
+  "fights": 346,
+  "numberOfUNames": 30
+ },
+ {
+  "_id": "2018-10-08",
+  "fights": 284,
+  "numberOfUNames": 31
+ },
+ {
+  "_id": "2018-10-09",
+  "fights": 210,
+  "numberOfUNames": 27
+ },
+ {
+  "_id": "2018-10-10",
+  "fights": 202,
+  "numberOfUNames": 29
+ },
+ {
+  "_id": "2018-10-11",
+  "fights": 291,
+  "numberOfUNames": 24
+ },
+ {
+  "_id": "2018-10-12",
+  "fights": 150,
+  "numberOfUNames": 23
+ },
+ {
+  "_id": "2018-10-13",
+  "fights": 300,
+  "numberOfUNames": 29
+ },
+ {
+  "_id": "2018-10-14",
+  "fights": 289,
+  "numberOfUNames": 41
+ },
+ {
+  "_id": "2018-10-15",
+  "fights": 342,
+  "numberOfUNames": 39
+ },
+ {
+  "_id": "2018-10-17",
+  "fights": 98,
+  "numberOfUNames": 11
+ },
+ {
+  "_id": "2018-10-18",
+  "fights": 258,
+  "numberOfUNames": 29
+ },
+ {
+  "_id": "2018-10-19",
+  "fights": 228,
+  "numberOfUNames": 19
+ },
+ {
+  "_id": "2018-10-20",
+  "fights": 300,
+  "numberOfUNames": 23
+ },
+ {
+  "_id": "2018-10-21",
+  "fights": 410,
+  "numberOfUNames": 30
+ },
+ {
+  "_id": "2018-10-22",
+  "fights": 265,
+  "numberOfUNames": 33
+ },
+ {
+  "_id": "2018-10-23",
+  "fights": 165,
+  "numberOfUNames": 12
+ },
+ {
+  "_id": "2018-10-24",
+  "fights": 232,
+  "numberOfUNames": 21
+ },
+ {
+  "_id": "2018-10-25",
+  "fights": 218,
+  "numberOfUNames": 23
+ },
+ {
+  "_id": "2018-10-26",
+  "fights": 322,
+  "numberOfUNames": 31
+ },
+ {
+  "_id": "2018-10-27",
+  "fights": 513,
+  "numberOfUNames": 45
+ },
+ {
+  "_id": "2018-10-28",
+  "fights": 712,
+  "numberOfUNames": 43
+ },
+ {
+  "_id": "2018-10-29",
+  "fights": 563,
+  "numberOfUNames": 51
+ },
+ {
+  "_id": "2018-10-30",
+  "fights": 519,
+  "numberOfUNames": 50
+ },
+ {
+  "_id": "2018-10-31",
+  "fights": 456,
+  "numberOfUNames": 54
+ },
+ {
+  "_id": "2018-11-01",
+  "fights": 531,
+  "numberOfUNames": 52
+ },
+ {
+  "_id": "2018-11-02",
+  "fights": 578,
+  "numberOfUNames": 42
+ },
+ {
+  "_id": "2018-11-03",
+  "fights": 840,
+  "numberOfUNames": 56
+ },
+ {
+  "_id": "2018-11-04",
+  "fights": 936,
+  "numberOfUNames": 57
+ },
+ {
+  "_id": "2018-11-05",
+  "fights": 748,
+  "numberOfUNames": 69
+ },
+ {
+  "_id": "2018-11-06",
+  "fights": 484,
+  "numberOfUNames": 51
+ },
+ {
+  "_id": "2018-11-07",
+  "fights": 848,
+  "numberOfUNames": 70
+ },
+ {
+  "_id": "2018-11-08",
+  "fights": 1036,
+  "numberOfUNames": 60
+ },
+ {
+  "_id": "2018-11-09",
+  "fights": 802,
+  "numberOfUNames": 65
+ },
+ {
+  "_id": "2018-11-10",
+  "fights": 1172,
+  "numberOfUNames": 63
+ },
+ {
+  "_id": "2018-11-11",
+  "fights": 928,
+  "numberOfUNames": 63
+ },
+ {
+  "_id": "2018-11-12",
+  "fights": 1173,
+  "numberOfUNames": 74
+ },
+ {
+  "_id": "2018-11-13",
+  "fights": 974,
+  "numberOfUNames": 60
+ },
+ {
+  "_id": "2018-11-14",
+  "fights": 844,
+  "numberOfUNames": 55
+ },
+ {
+  "_id": "2018-11-15",
+  "fights": 950,
+  "numberOfUNames": 70
+ },
+ {
+  "_id": "2018-11-16",
+  "fights": 914,
+  "numberOfUNames": 73
+ },
+ {
+  "_id": "2018-11-17",
+  "fights": 1093,
+  "numberOfUNames": 66
+ },
+ {
+  "_id": "2018-11-18",
+  "fights": 1442,
+  "numberOfUNames": 86
+ },
+ {
+  "_id": "2018-11-19",
+  "fights": 1068,
+  "numberOfUNames": 94
+ },
+ {
+  "_id": "2018-11-20",
+  "fights": 1051,
+  "numberOfUNames": 64
+ },
+ {
+  "_id": "2018-11-21",
+  "fights": 1386,
+  "numberOfUNames": 87
+ },
+ {
+  "_id": "2018-11-22",
+  "fights": 1443,
+  "numberOfUNames": 95
+ },
+ {
+  "_id": "2018-11-23",
+  "fights": 1265,
+  "numberOfUNames": 81
+ },
+ {
+  "_id": "2018-11-24",
+  "fights": 1668,
+  "numberOfUNames": 87
+ },
+ {
+  "_id": "2018-11-25",
+  "fights": 1853,
+  "numberOfUNames": 97
+ },
+ {
+  "_id": "2018-11-26",
+  "fights": 1800,
+  "numberOfUNames": 94
+ },
+ {
+  "_id": "2018-11-27",
+  "fights": 1114,
+  "numberOfUNames": 90
+ },
+ {
+  "_id": "2018-11-28",
+  "fights": 1821,
+  "numberOfUNames": 100
+ },
+ {
+  "_id": "2018-11-29",
+  "fights": 1518,
+  "numberOfUNames": 79
+ },
+ {
+  "_id": "2018-11-30",
+  "fights": 1923,
+  "numberOfUNames": 94
+ },
+ {
+  "_id": "2018-12-01",
+  "fights": 1809,
+  "numberOfUNames": 88
+ },
+ {
+  "_id": "2018-12-02",
+  "fights": 1677,
+  "numberOfUNames": 95
+ },
+ {
+  "_id": "2018-12-03",
+  "fights": 1237,
+  "numberOfUNames": 93
+ },
+ {
+  "_id": "2018-12-04",
+  "fights": 1459,
+  "numberOfUNames": 84
+ },
+ {
+  "_id": "2018-12-05",
+  "fights": 1443,
+  "numberOfUNames": 85
+ },
+ {
+  "_id": "2018-12-06",
+  "fights": 1382,
+  "numberOfUNames": 92
+ },
+ {
+  "_id": "2018-12-07",
+  "fights": 1033,
+  "numberOfUNames": 90
+ },
+ {
+  "_id": "2018-12-08",
+  "fights": 1233,
+  "numberOfUNames": 84
+ },
+ {
+  "_id": "2018-12-09",
+  "fights": 1449,
+  "numberOfUNames": 100
+ },
+ {
+  "_id": "2018-12-10",
+  "fights": 1334,
+  "numberOfUNames": 84
+ },
+ {
+  "_id": "2018-12-11",
+  "fights": 1363,
+  "numberOfUNames": 87
+ },
+ {
+  "_id": "2018-12-12",
+  "fights": 1498,
+  "numberOfUNames": 89
+ },
+ {
+  "_id": "2018-12-13",
+  "fights": 1279,
+  "numberOfUNames": 83
+ },
+ {
+  "_id": "2018-12-14",
+  "fights": 1133,
+  "numberOfUNames": 83
+ },
+ {
+  "_id": "2018-12-15",
+  "fights": 1277,
+  "numberOfUNames": 76
+ },
+ {
+  "_id": "2018-12-16",
+  "fights": 1616,
+  "numberOfUNames": 87
+ },
+ {
+  "_id": "2018-12-17",
+  "fights": 1495,
+  "numberOfUNames": 86
+ },
+ {
+  "_id": "2018-12-18",
+  "fights": 1474,
+  "numberOfUNames": 83
+ },
+ {
+  "_id": "2018-12-19",
+  "fights": 1006,
+  "numberOfUNames": 70
+ },
+ {
+  "_id": "2018-12-20",
+  "fights": 987,
+  "numberOfUNames": 73
+ },
+ {
+  "_id": "2018-12-21",
+  "fights": 1043,
+  "numberOfUNames": 67
+ },
+ {
+  "_id": "2018-12-22",
+  "fights": 1130,
+  "numberOfUNames": 81
+ },
+ {
+  "_id": "2018-12-23",
+  "fights": 973,
+  "numberOfUNames": 57
+ },
+ {
+  "_id": "2018-12-24",
+  "fights": 645,
+  "numberOfUNames": 61
+ },
+ {
+  "_id": "2018-12-25",
+  "fights": 458,
+  "numberOfUNames": 48
+ },
+ {
+  "_id": "2018-12-26",
+  "fights": 656,
+  "numberOfUNames": 47
+ },
+ {
+  "_id": "2018-12-27",
+  "fights": 783,
+  "numberOfUNames": 55
+ },
+ {
+  "_id": "2018-12-28",
+  "fights": 884,
+  "numberOfUNames": 63
+ },
+ {
+  "_id": "2018-12-29",
+  "fights": 1001,
+  "numberOfUNames": 70
+ },
+ {
+  "_id": "2018-12-30",
+  "fights": 1057,
+  "numberOfUNames": 68
+ },
+ {
+  "_id": "2018-12-31",
+  "fights": 902,
+  "numberOfUNames": 74
+ },
+ {
+  "_id": "2019-01-01",
+  "fights": 1233,
+  "numberOfUNames": 67
+ },
+ {
+  "_id": "2019-01-02",
+  "fights": 1180,
+  "numberOfUNames": 80
+ },
+ {
+  "_id": "2019-01-03",
+  "fights": 1367,
+  "numberOfUNames": 73
+ },
+ {
+  "_id": "2019-01-04",
+  "fights": 985,
+  "numberOfUNames": 60
+ },
+ {
+  "_id": "2019-01-05",
+  "fights": 1313,
+  "numberOfUNames": 66
+ },
+ {
+  "_id": "2019-01-06",
+  "fights": 1216,
+  "numberOfUNames": 71
+ },
+ {
+  "_id": "2019-01-07",
+  "fights": 1082,
+  "numberOfUNames": 69
+ },
+ {
+  "_id": "2019-01-08",
+  "fights": 893,
+  "numberOfUNames": 60
+ },
+ {
+  "_id": "2019-01-09",
+  "fights": 1041,
+  "numberOfUNames": 72
+ },
+ {
+  "_id": "2019-01-10",
+  "fights": 931,
+  "numberOfUNames": 78
+ },
+ {
+  "_id": "2019-01-11",
+  "fights": 925,
+  "numberOfUNames": 59
+ },
+ {
+  "_id": "2019-01-12",
+  "fights": 950,
+  "numberOfUNames": 70
+ },
+ {
+  "_id": "2019-01-13",
+  "fights": 1325,
+  "numberOfUNames": 92
+ },
+ {
+  "_id": "2019-01-14",
+  "fights": 1433,
+  "numberOfUNames": 84
+ },
+ {
+  "_id": "2019-01-15",
+  "fights": 1448,
+  "numberOfUNames": 74
+ },
+ {
+  "_id": "2019-01-16",
+  "fights": 1404,
+  "numberOfUNames": 80
+ },
+ {
+  "_id": "2019-01-17",
+  "fights": 1168,
+  "numberOfUNames": 77
+ },
+ {
+  "_id": "2019-01-18",
+  "fights": 1327,
+  "numberOfUNames": 81
+ },
+ {
+  "_id": "2019-01-19",
+  "fights": 1660,
+  "numberOfUNames": 82
+ },
+ {
+  "_id": "2019-01-20",
+  "fights": 1848,
+  "numberOfUNames": 89
+ },
+ {
+  "_id": "2019-01-21",
+  "fights": 1308,
+  "numberOfUNames": 85
+ },
+ {
+  "_id": "2019-01-22",
+  "fights": 1280,
+  "numberOfUNames": 91
+ },
+ {
+  "_id": "2019-01-23",
+  "fights": 1788,
+  "numberOfUNames": 87
+ },
+ {
+  "_id": "2019-01-24",
+  "fights": 1287,
+  "numberOfUNames": 87
+ },
+ {
+  "_id": "2019-01-25",
+  "fights": 1276,
+  "numberOfUNames": 82
+ },
+ {
+  "_id": "2019-01-26",
+  "fights": 2071,
+  "numberOfUNames": 80
+ },
+ {
+  "_id": "2019-01-27",
+  "fights": 1768,
+  "numberOfUNames": 86
+ },
+ {
+  "_id": "2019-01-28",
+  "fights": 1368,
+  "numberOfUNames": 98
+ },
+ {
+  "_id": "2019-01-29",
+  "fights": 1521,
+  "numberOfUNames": 81
+ },
+ {
+  "_id": "2019-01-30",
+  "fights": 1487,
+  "numberOfUNames": 87
+ },
+ {
+  "_id": "2019-01-31",
+  "fights": 1255,
+  "numberOfUNames": 85
+ },
+ {
+  "_id": "2019-02-01",
+  "fights": 1229,
+  "numberOfUNames": 86
+ },
+ {
+  "_id": "2019-02-02",
+  "fights": 1739,
+  "numberOfUNames": 88
+ },
+ {
+  "_id": "2019-02-03",
+  "fights": 1643,
+  "numberOfUNames": 90
+ },
+ {
+  "_id": "2019-02-04",
+  "fights": 1124,
+  "numberOfUNames": 81
+ },
+ {
+  "_id": "2019-02-05",
+  "fights": 1419,
+  "numberOfUNames": 85
+ },
+ {
+  "_id": "2019-02-06",
+  "fights": 1145,
+  "numberOfUNames": 68
+ },
+ {
+  "_id": "2019-02-07",
+  "fights": 703,
+  "numberOfUNames": 67
+ },
+ {
+  "_id": "2019-02-08",
+  "fights": 973,
+  "numberOfUNames": 68
+ },
+ {
+  "_id": "2019-02-09",
+  "fights": 888,
+  "numberOfUNames": 78
+ },
+ {
+  "_id": "2019-02-10",
+  "fights": 1261,
+  "numberOfUNames": 85
+ },
+ {
+  "_id": "2019-02-11",
+  "fights": 706,
+  "numberOfUNames": 55
+ },
+ {
+  "_id": "2019-02-12",
+  "fights": 607,
+  "numberOfUNames": 57
+ },
+ {
+  "_id": "2019-02-13",
+  "fights": 804,
+  "numberOfUNames": 68
+ },
+ {
+  "_id": "2019-02-14",
+  "fights": 882,
+  "numberOfUNames": 74
+ },
+ {
+  "_id": "2019-02-15",
+  "fights": 624,
+  "numberOfUNames": 56
+ },
+ {
+  "_id": "2019-02-16",
+  "fights": 450,
+  "numberOfUNames": 45
+ },
+ {
+  "_id": "2019-02-17",
+  "fights": 1229,
+  "numberOfUNames": 69
+ },
+ {
+  "_id": "2019-02-18",
+  "fights": 1138,
+  "numberOfUNames": 85
+ },
+ {
+  "_id": "2019-02-19",
+  "fights": 847,
+  "numberOfUNames": 74
+ },
+ {
+  "_id": "2019-02-20",
+  "fights": 818,
+  "numberOfUNames": 64
+ },
+ {
+  "_id": "2019-02-21",
+  "fights": 776,
+  "numberOfUNames": 65
+ },
+ {
+  "_id": "2019-02-22",
+  "fights": 793,
+  "numberOfUNames": 58
+ },
+ {
+  "_id": "2019-02-23",
+  "fights": 857,
+  "numberOfUNames": 70
+ },
+ {
+  "_id": "2019-02-24",
+  "fights": 928,
+  "numberOfUNames": 55
+ },
+ {
+  "_id": "2019-02-25",
+  "fights": 640,
+  "numberOfUNames": 62
+ },
+ {
+  "_id": "2019-02-26",
+  "fights": 712,
+  "numberOfUNames": 73
+ },
+ {
+  "_id": "2019-02-27",
+  "fights": 877,
+  "numberOfUNames": 63
+ },
+ {
+  "_id": "2019-02-28",
+  "fights": 456,
+  "numberOfUNames": 45
+ },
+ {
+  "_id": "2019-03-01",
+  "fights": 710,
+  "numberOfUNames": 58
+ },
+ {
+  "_id": "2019-03-02",
+  "fights": 1173,
+  "numberOfUNames": 82
+ },
+ {
+  "_id": "2019-03-03",
+  "fights": 1410,
+  "numberOfUNames": 94
+ },
+ {
+  "_id": "2019-03-04",
+  "fights": 798,
+  "numberOfUNames": 77
+ },
+ {
+  "_id": "2019-03-05",
+  "fights": 1094,
+  "numberOfUNames": 80
+ },
+ {
+  "_id": "2019-03-06",
+  "fights": 903,
+  "numberOfUNames": 63
+ },
+ {
+  "_id": "2019-03-07",
+  "fights": 1179,
+  "numberOfUNames": 64
+ },
+ {
+  "_id": "2019-03-08",
+  "fights": 1038,
+  "numberOfUNames": 72
+ },
+ {
+  "_id": "2019-03-09",
+  "fights": 1557,
+  "numberOfUNames": 94
+ },
+ {
+  "_id": "2019-03-10",
+  "fights": 1454,
+  "numberOfUNames": 83
+ },
+ {
+  "_id": "2019-03-11",
+  "fights": 1008,
+  "numberOfUNames": 68
+ },
+ {
+  "_id": "2019-03-12",
+  "fights": 1340,
+  "numberOfUNames": 93
+ },
+ {
+  "_id": "2019-03-13",
+  "fights": 1302,
+  "numberOfUNames": 99
+ },
+ {
+  "_id": "2019-03-14",
+  "fights": 1307,
+  "numberOfUNames": 92
+ },
+ {
+  "_id": "2019-03-15",
+  "fights": 1245,
+  "numberOfUNames": 79
+ },
+ {
+  "_id": "2019-03-16",
+  "fights": 1708,
+  "numberOfUNames": 88
+ },
+ {
+  "_id": "2019-03-17",
+  "fights": 2164,
+  "numberOfUNames": 93
+ },
+ {
+  "_id": "2019-03-18",
+  "fights": 1293,
+  "numberOfUNames": 87
+ },
+ {
+  "_id": "2019-03-19",
+  "fights": 1163,
+  "numberOfUNames": 82
+ },
+ {
+  "_id": "2019-03-20",
+  "fights": 1009,
+  "numberOfUNames": 79
+ },
+ {
+  "_id": "2019-03-21",
+  "fights": 894,
+  "numberOfUNames": 66
+ },
+ {
+  "_id": "2019-03-22",
+  "fights": 990,
+  "numberOfUNames": 74
+ },
+ {
+  "_id": "2019-03-23",
+  "fights": 1652,
+  "numberOfUNames": 90
+ },
+ {
+  "_id": "2019-03-24",
+  "fights": 1583,
+  "numberOfUNames": 97
+ },
+ {
+  "_id": "2019-03-25",
+  "fights": 1436,
+  "numberOfUNames": 93
+ },
+ {
+  "_id": "2019-03-26",
+  "fights": 1175,
+  "numberOfUNames": 94
+ },
+ {
+  "_id": "2019-03-27",
+  "fights": 1247,
+  "numberOfUNames": 99
+ },
+ {
+  "_id": "2019-03-28",
+  "fights": 1330,
+  "numberOfUNames": 97
+ },
+ {
+  "_id": "2019-03-29",
+  "fights": 1267,
+  "numberOfUNames": 87
+ },
+ {
+  "_id": "2019-03-30",
+  "fights": 1940,
+  "numberOfUNames": 111
+ },
+ {
+  "_id": "2019-03-31",
+  "fights": 1938,
+  "numberOfUNames": 111
+ },
+ {
+  "_id": "2019-04-01",
+  "fights": 1537,
+  "numberOfUNames": 105
+ },
+ {
+  "_id": "2019-04-02",
+  "fights": 1624,
+  "numberOfUNames": 103
+ },
+ {
+  "_id": "2019-04-03",
+  "fights": 1593,
+  "numberOfUNames": 99
+ },
+ {
+  "_id": "2019-04-04",
+  "fights": 1344,
+  "numberOfUNames": 89
+ },
+ {
+  "_id": "2019-04-05",
+  "fights": 1443,
+  "numberOfUNames": 98
+ },
+ {
+  "_id": "2019-04-06",
+  "fights": 1687,
+  "numberOfUNames": 87
+ },
+ {
+  "_id": "2019-04-07",
+  "fights": 1609,
+  "numberOfUNames": 108
+ },
+ {
+  "_id": "2019-04-08",
+  "fights": 1590,
+  "numberOfUNames": 100
+ },
+ {
+  "_id": "2019-04-09",
+  "fights": 1635,
+  "numberOfUNames": 88
+ },
+ {
+  "_id": "2019-04-10",
+  "fights": 1541,
+  "numberOfUNames": 92
+ },
+ {
+  "_id": "2019-04-11",
+  "fights": 1427,
+  "numberOfUNames": 92
+ },
+ {
+  "_id": "2019-04-12",
+  "fights": 1601,
+  "numberOfUNames": 109
+ },
+ {
+  "_id": "2019-04-13",
+  "fights": 1778,
+  "numberOfUNames": 103
+ },
+ {
+  "_id": "2019-04-14",
+  "fights": 1288,
+  "numberOfUNames": 94
+ },
+ {
+  "_id": "2019-04-15",
+  "fights": 1120,
+  "numberOfUNames": 86
+ },
+ {
+  "_id": "2019-04-16",
+  "fights": 1720,
+  "numberOfUNames": 93
+ },
+ {
+  "_id": "2019-04-17",
+  "fights": 1310,
+  "numberOfUNames": 96
+ },
+ {
+  "_id": "2019-04-18",
+  "fights": 1156,
+  "numberOfUNames": 86
+ },
+ {
+  "_id": "2019-04-19",
+  "fights": 1496,
+  "numberOfUNames": 97
+ },
+ {
+  "_id": "2019-04-20",
+  "fights": 1161,
+  "numberOfUNames": 80
+ },
+ {
+  "_id": "2019-04-21",
+  "fights": 1216,
+  "numberOfUNames": 85
+ },
+ {
+  "_id": "2019-04-22",
+  "fights": 893,
+  "numberOfUNames": 70
+ },
+ {
+  "_id": "2019-04-23",
+  "fights": 1172,
+  "numberOfUNames": 82
+ },
+ {
+  "_id": "2019-04-24",
+  "fights": 1377,
+  "numberOfUNames": 84
+ },
+ {
+  "_id": "2019-04-25",
+  "fights": 1262,
+  "numberOfUNames": 104
+ },
+ {
+  "_id": "2019-04-26",
+  "fights": 1446,
+  "numberOfUNames": 84
+ },
+ {
+  "_id": "2019-04-27",
+  "fights": 1298,
+  "numberOfUNames": 88
+ },
+ {
+  "_id": "2019-04-28",
+  "fights": 1828,
+  "numberOfUNames": 105
+ },
+ {
+  "_id": "2019-04-29",
+  "fights": 1139,
+  "numberOfUNames": 88
+ },
+ {
+  "_id": "2019-04-30",
+  "fights": 1592,
+  "numberOfUNames": 89
+ },
+ {
+  "_id": "2019-05-01",
+  "fights": 1147,
+  "numberOfUNames": 89
+ },
+ {
+  "_id": "2019-05-02",
+  "fights": 1257,
+  "numberOfUNames": 91
+ },
+ {
+  "_id": "2019-05-03",
+  "fights": 1282,
+  "numberOfUNames": 88
+ },
+ {
+  "_id": "2019-05-04",
+  "fights": 1281,
+  "numberOfUNames": 90
+ },
+ {
+  "_id": "2019-05-05",
+  "fights": 1563,
+  "numberOfUNames": 82
+ },
+ {
+  "_id": "2019-05-06",
+  "fights": 932,
+  "numberOfUNames": 83
+ },
+ {
+  "_id": "2019-05-07",
+  "fights": 910,
+  "numberOfUNames": 78
+ },
+ {
+  "_id": "2019-05-08",
+  "fights": 1266,
+  "numberOfUNames": 81
+ },
+ {
+  "_id": "2019-05-09",
+  "fights": 950,
+  "numberOfUNames": 74
+ },
+ {
+  "_id": "2019-05-10",
+  "fights": 1073,
+  "numberOfUNames": 83
+ },
+ {
+  "_id": "2019-05-11",
+  "fights": 1480,
+  "numberOfUNames": 96
+ },
+ {
+  "_id": "2019-05-12",
+  "fights": 1486,
+  "numberOfUNames": 99
+ },
+ {
+  "_id": "2019-05-13",
+  "fights": 694,
+  "numberOfUNames": 64
+ },
+ {
+  "_id": "2019-05-14",
+  "fights": 742,
+  "numberOfUNames": 61
+ },
+ {
+  "_id": "2019-05-15",
+  "fights": 1118,
+  "numberOfUNames": 81
+ },
+ {
+  "_id": "2019-05-16",
+  "fights": 1048,
+  "numberOfUNames": 76
+ },
+ {
+  "_id": "2019-05-17",
+  "fights": 793,
+  "numberOfUNames": 73
+ },
+ {
+  "_id": "2019-05-18",
+  "fights": 1120,
+  "numberOfUNames": 95
+ },
+ {
+  "_id": "2019-05-19",
+  "fights": 964,
+  "numberOfUNames": 87
+ },
+ {
+  "_id": "2019-05-20",
+  "fights": 725,
+  "numberOfUNames": 72
+ },
+ {
+  "_id": "2019-05-21",
+  "fights": 948,
+  "numberOfUNames": 83
+ },
+ {
+  "_id": "2019-05-22",
+  "fights": 837,
+  "numberOfUNames": 87
+ },
+ {
+  "_id": "2019-05-23",
+  "fights": 1069,
+  "numberOfUNames": 76
+ },
+ {
+  "_id": "2019-05-24",
+  "fights": 787,
+  "numberOfUNames": 66
+ },
+ {
+  "_id": "2019-05-25",
+  "fights": 1320,
+  "numberOfUNames": 94
+ },
+ {
+  "_id": "2019-05-26",
+  "fights": 740,
+  "numberOfUNames": 81
+ },
+ {
+  "_id": "2019-05-27",
+  "fights": 977,
+  "numberOfUNames": 88
+ },
+ {
+  "_id": "2019-05-28",
+  "fights": 999,
+  "numberOfUNames": 74
+ },
+ {
+  "_id": "2019-05-29",
+  "fights": 1344,
+  "numberOfUNames": 100
+ },
+ {
+  "_id": "2019-05-30",
+  "fights": 557,
+  "numberOfUNames": 65
+ },
+ {
+  "_id": "2019-05-31",
+  "fights": 707,
+  "numberOfUNames": 66
+ },
+ {
+  "_id": "2019-06-01",
+  "fights": 849,
+  "numberOfUNames": 72
+ },
+ {
+  "_id": "2019-06-02",
+  "fights": 1127,
+  "numberOfUNames": 83
+ },
+ {
+  "_id": "2019-06-03",
+  "fights": 600,
+  "numberOfUNames": 57
+ },
+ {
+  "_id": "2019-06-04",
+  "fights": 858,
+  "numberOfUNames": 66
+ },
+ {
+  "_id": "2019-06-05",
+  "fights": 828,
+  "numberOfUNames": 66
+ },
+ {
+  "_id": "2019-06-06",
+  "fights": 700,
+  "numberOfUNames": 66
+ },
+ {
+  "_id": "2019-06-07",
+  "fights": 752,
+  "numberOfUNames": 81
+ },
+ {
+  "_id": "2019-06-08",
+  "fights": 739,
+  "numberOfUNames": 69
+ },
+ {
+  "_id": "2019-06-09",
+  "fights": 717,
+  "numberOfUNames": 52
+ },
+ {
+  "_id": "2019-06-10",
+  "fights": 924,
+  "numberOfUNames": 80
+ },
+ {
+  "_id": "2019-06-11",
+  "fights": 675,
+  "numberOfUNames": 52
+ },
+ {
+  "_id": "2019-06-12",
+  "fights": 591,
+  "numberOfUNames": 46
+ },
+ {
+  "_id": "2019-06-13",
+  "fights": 641,
+  "numberOfUNames": 51
+ },
+ {
+  "_id": "2019-06-14",
+  "fights": 1121,
+  "numberOfUNames": 66
+ },
+ {
+  "_id": "2019-06-15",
+  "fights": 1249,
+  "numberOfUNames": 78
+ },
+ {
+  "_id": "2019-06-16",
+  "fights": 1058,
+  "numberOfUNames": 60
+ },
+ {
+  "_id": "2019-06-17",
+  "fights": 964,
+  "numberOfUNames": 71
+ },
+ {
+  "_id": "2019-06-18",
+  "fights": 701,
+  "numberOfUNames": 54
+ },
+ {
+  "_id": "2019-06-19",
+  "fights": 665,
+  "numberOfUNames": 55
+ },
+ {
+  "_id": "2019-06-20",
+  "fights": 657,
+  "numberOfUNames": 48
+ },
+ {
+  "_id": "2019-06-21",
+  "fights": 489,
+  "numberOfUNames": 37
+ },
+ {
+  "_id": "2019-06-22",
+  "fights": 504,
+  "numberOfUNames": 48
+ },
+ {
+  "_id": "2019-06-23",
+  "fights": 825,
+  "numberOfUNames": 70
+ },
+ {
+  "_id": "2019-06-24",
+  "fights": 618,
+  "numberOfUNames": 67
+ },
+ {
+  "_id": "2019-06-25",
+  "fights": 516,
+  "numberOfUNames": 55
+ },
+ {
+  "_id": "2019-06-26",
+  "fights": 822,
+  "numberOfUNames": 62
+ },
+ {
+  "_id": "2019-06-27",
+  "fights": 644,
+  "numberOfUNames": 54
+ },
+ {
+  "_id": "2019-06-28",
+  "fights": 413,
+  "numberOfUNames": 44
+ },
+ {
+  "_id": "2019-06-29",
+  "fights": 626,
+  "numberOfUNames": 44
+ },
+ {
+  "_id": "2019-06-30",
+  "fights": 574,
+  "numberOfUNames": 47
+ },
+ {
+  "_id": "2019-07-01",
+  "fights": 283,
+  "numberOfUNames": 33
+ },
+ {
+  "_id": "2019-07-02",
+  "fights": 121,
+  "numberOfUNames": 28
+ },
+ {
+  "_id": "2019-07-03",
+  "fights": 391,
+  "numberOfUNames": 37
+ },
+ {
+  "_id": "2019-07-04",
+  "fights": 583,
+  "numberOfUNames": 56
+ },
+ {
+  "_id": "2019-07-05",
+  "fights": 390,
+  "numberOfUNames": 43
+ },
+ {
+  "_id": "2019-07-06",
+  "fights": 465,
+  "numberOfUNames": 50
+ },
+ {
+  "_id": "2019-07-07",
+  "fights": 290,
+  "numberOfUNames": 33
+ },
+ {
+  "_id": "2019-07-08",
+  "fights": 274,
+  "numberOfUNames": 36
+ },
+ {
+  "_id": "2019-07-09",
+  "fights": 302,
+  "numberOfUNames": 43
+ },
+ {
+  "_id": "2019-07-10",
+  "fights": 378,
+  "numberOfUNames": 35
+ },
+ {
+  "_id": "2019-07-11",
+  "fights": 214,
+  "numberOfUNames": 33
+ },
+ {
+  "_id": "2019-07-12",
+  "fights": 499,
+  "numberOfUNames": 43
+ },
+ {
+  "_id": "2019-07-13",
+  "fights": 464,
+  "numberOfUNames": 42
+ },
+ {
+  "_id": "2019-07-14",
+  "fights": 333,
+  "numberOfUNames": 31
+ },
+ {
+  "_id": "2019-07-15",
+  "fights": 282,
+  "numberOfUNames": 37
+ },
+ {
+  "_id": "2019-07-16",
+  "fights": 249,
+  "numberOfUNames": 30
+ },
+ {
+  "_id": "2019-07-17",
+  "fights": 203,
+  "numberOfUNames": 24
+ },
+ {
+  "_id": "2019-07-18",
+  "fights": 282,
+  "numberOfUNames": 31
+ },
+ {
+  "_id": "2019-07-19",
+  "fights": 172,
+  "numberOfUNames": 35
+ },
+ {
+  "_id": "2019-07-20",
+  "fights": 252,
+  "numberOfUNames": 38
+ },
+ {
+  "_id": "2019-07-21",
+  "fights": 198,
+  "numberOfUNames": 25
+ },
+ {
+  "_id": "2019-07-22",
+  "fights": 225,
+  "numberOfUNames": 32
+ },
+ {
+  "_id": "2019-07-23",
+  "fights": 364,
+  "numberOfUNames": 33
+ },
+ {
+  "_id": "2019-07-24",
+  "fights": 295,
+  "numberOfUNames": 34
+ },
+ {
+  "_id": "2019-07-25",
+  "fights": 453,
+  "numberOfUNames": 45
+ },
+ {
+  "_id": "2019-07-26",
+  "fights": 526,
+  "numberOfUNames": 45
+ },
+ {
+  "_id": "2019-07-27",
+  "fights": 358,
+  "numberOfUNames": 37
+ },
+ {
+  "_id": "2019-07-28",
+  "fights": 438,
+  "numberOfUNames": 43
+ },
+ {
+  "_id": "2019-07-29",
+  "fights": 439,
+  "numberOfUNames": 45
+ },
+ {
+  "_id": "2019-07-30",
+  "fights": 250,
+  "numberOfUNames": 33
+ },
+ {
+  "_id": "2019-07-31",
+  "fights": 288,
+  "numberOfUNames": 27
+ },
+ {
+  "_id": "2019-08-01",
+  "fights": 216,
+  "numberOfUNames": 27
+ },
+ {
+  "_id": "2019-08-02",
+  "fights": 337,
+  "numberOfUNames": 40
+ },
+ {
+  "_id": "2019-08-03",
+  "fights": 273,
+  "numberOfUNames": 35
+ },
+ {
+  "_id": "2019-08-04",
+  "fights": 271,
+  "numberOfUNames": 33
+ },
+ {
+  "_id": "2019-08-05",
+  "fights": 282,
+  "numberOfUNames": 43
+ },
+ {
+  "_id": "2019-08-06",
+  "fights": 571,
+  "numberOfUNames": 31
+ },
+ {
+  "_id": "2019-08-07",
+  "fights": 282,
+  "numberOfUNames": 23
+ },
+ {
+  "_id": "2019-08-08",
+  "fights": 208,
+  "numberOfUNames": 34
+ },
+ {
+  "_id": "2019-08-09",
+  "fights": 103,
+  "numberOfUNames": 16
+ },
+ {
+  "_id": "2019-08-10",
+  "fights": 208,
+  "numberOfUNames": 33
+ },
+ {
+  "_id": "2019-08-11",
+  "fights": 234,
+  "numberOfUNames": 40
+ },
+ {
+  "_id": "2019-08-12",
+  "fights": 165,
+  "numberOfUNames": 21
+ },
+ {
+  "_id": "2019-08-13",
+  "fights": 191,
+  "numberOfUNames": 19
+ },
+ {
+  "_id": "2019-08-14",
+  "fights": 51,
+  "numberOfUNames": 13
+ },
+ {
+  "_id": "2019-08-15",
+  "fights": 132,
+  "numberOfUNames": 21
+ },
+ {
+  "_id": "2019-08-16",
+  "fights": 182,
+  "numberOfUNames": 22
+ },
+ {
+  "_id": "2019-08-17",
+  "fights": 419,
+  "numberOfUNames": 41
+ },
+ {
+  "_id": "2019-08-18",
+  "fights": 332,
+  "numberOfUNames": 38
+ },
+ {
+  "_id": "2019-08-19",
+  "fights": 240,
+  "numberOfUNames": 27
+ },
+ {
+  "_id": "2019-08-20",
+  "fights": 106,
+  "numberOfUNames": 20
+ },
+ {
+  "_id": "2019-08-21",
+  "fights": 211,
+  "numberOfUNames": 28
+ },
+ {
+  "_id": "2019-08-22",
+  "fights": 172,
+  "numberOfUNames": 44
+ },
+ {
+  "_id": "2019-08-23",
+  "fights": 296,
+  "numberOfUNames": 42
+ },
+ {
+  "_id": "2019-08-24",
+  "fights": 283,
+  "numberOfUNames": 20
+ },
+ {
+  "_id": "2019-08-25",
+  "fights": 396,
+  "numberOfUNames": 26
+ },
+ {
+  "_id": "2019-08-26",
+  "fights": 130,
+  "numberOfUNames": 23
+ },
+ {
+  "_id": "2019-08-27",
+  "fights": 69,
+  "numberOfUNames": 14
+ },
+ {
+  "_id": "2019-08-28",
+  "fights": 80,
+  "numberOfUNames": 13
+ },
+ {
+  "_id": "2019-08-29",
+  "fights": 105,
+  "numberOfUNames": 14
+ },
+ {
+  "_id": "2019-08-30",
+  "fights": 83,
+  "numberOfUNames": 13
+ },
+ {
+  "_id": "2019-08-31",
+  "fights": 154,
+  "numberOfUNames": 15
+ },
+ {
+  "_id": "2019-09-01",
+  "fights": 116,
+  "numberOfUNames": 14
+ },
+ {
+  "_id": "2019-09-02",
+  "fights": 146,
+  "numberOfUNames": 13
+ },
+ {
+  "_id": "2019-09-03",
+  "fights": 69,
+  "numberOfUNames": 12
+ },
+ {
+  "_id": "2019-09-04",
+  "fights": 47,
+  "numberOfUNames": 12
+ },
+ {
+  "_id": "2019-09-05",
+  "fights": 128,
+  "numberOfUNames": 18
+ },
+ {
+  "_id": "2019-09-06",
+  "fights": 145,
+  "numberOfUNames": 20
+ },
+ {
+  "_id": "2019-09-07",
+  "fights": 67,
+  "numberOfUNames": 14
+ },
+ {
+  "_id": "2019-09-08",
+  "fights": 185,
+  "numberOfUNames": 17
+ },
+ {
+  "_id": "2019-09-09",
+  "fights": 122,
+  "numberOfUNames": 17
+ },
+ {
+  "_id": "2019-09-10",
+  "fights": 92,
+  "numberOfUNames": 13
+ },
+ {
+  "_id": "2019-09-11",
+  "fights": 69,
+  "numberOfUNames": 10
+ },
+ {
+  "_id": "2019-09-12",
+  "fights": 92,
+  "numberOfUNames": 13
+ },
+ {
+  "_id": "2019-09-13",
+  "fights": 132,
+  "numberOfUNames": 12
+ },
+ {
+  "_id": "2019-09-14",
+  "fights": 112,
+  "numberOfUNames": 18
+ },
+ {
+  "_id": "2019-09-15",
+  "fights": 177,
+  "numberOfUNames": 12
+ },
+ {
+  "_id": "2019-09-16",
+  "fights": 161,
+  "numberOfUNames": 13
+ },
+ {
+  "_id": "2019-09-17",
+  "fights": 158,
+  "numberOfUNames": 19
+ },
+ {
+  "_id": "2019-09-18",
+  "fights": 156,
+  "numberOfUNames": 17
+ },
+ {
+  "_id": "2019-09-19",
+  "fights": 240,
+  "numberOfUNames": 17
+ },
+ {
+  "_id": "2019-09-20",
+  "fights": 181,
+  "numberOfUNames": 19
+ },
+ {
+  "_id": "2019-09-21",
+  "fights": 140,
+  "numberOfUNames": 25
+ },
+ {
+  "_id": "2019-09-22",
+  "fights": 149,
+  "numberOfUNames": 31
+ },
+ {
+  "_id": "2019-09-23",
+  "fights": 101,
+  "numberOfUNames": 21
+ },
+ {
+  "_id": "2019-09-24",
+  "fights": 131,
+  "numberOfUNames": 24
+ },
+ {
+  "_id": "2019-09-25",
+  "fights": 160,
+  "numberOfUNames": 16
+ },
+ {
+  "_id": "2019-09-26",
+  "fights": 89,
+  "numberOfUNames": 21
+ },
+ {
+  "_id": "2019-09-27",
+  "fights": 149,
+  "numberOfUNames": 20
+ },
+ {
+  "_id": "2019-09-28",
+  "fights": 159,
+  "numberOfUNames": 24
+ },
+ {
+  "_id": "2019-09-29",
+  "fights": 151,
+  "numberOfUNames": 17
+ },
+ {
+  "_id": "2019-09-30",
+  "fights": 110,
+  "numberOfUNames": 25
+ },
+ {
+  "_id": "2019-10-01",
+  "fights": 77,
+  "numberOfUNames": 14
+ },
+ {
+  "_id": "2019-10-02",
+  "fights": 102,
+  "numberOfUNames": 20
+ },
+ {
+  "_id": "2019-10-03",
+  "fights": 187,
+  "numberOfUNames": 21
+ },
+ {
+  "_id": "2019-10-04",
+  "fights": 143,
+  "numberOfUNames": 11
+ },
+ {
+  "_id": "2019-10-05",
+  "fights": 58,
+  "numberOfUNames": 10
+ },
+ {
+  "_id": "2019-10-06",
+  "fights": 192,
+  "numberOfUNames": 17
+ },
+ {
+  "_id": "2019-10-07",
+  "fights": 157,
+  "numberOfUNames": 23
+ },
+ {
+  "_id": "2019-10-08",
+  "fights": 106,
+  "numberOfUNames": 22
+ },
+ {
+  "_id": "2019-10-09",
+  "fights": 95,
+  "numberOfUNames": 24
+ },
+ {
+  "_id": "2019-10-10",
+  "fights": 173,
+  "numberOfUNames": 27
+ },
+ {
+  "_id": "2019-10-11",
+  "fights": 205,
+  "numberOfUNames": 23
+ },
+ {
+  "_id": "2019-10-12",
+  "fights": 146,
+  "numberOfUNames": 20
+ },
+ {
+  "_id": "2019-10-13",
+  "fights": 159,
+  "numberOfUNames": 20
+ },
+ {
+  "_id": "2019-10-14",
+  "fights": 110,
+  "numberOfUNames": 26
+ },
+ {
+  "_id": "2019-10-15",
+  "fights": 46,
+  "numberOfUNames": 13
+ },
+ {
+  "_id": "2019-10-16",
+  "fights": 121,
+  "numberOfUNames": 14
+ },
+ {
+  "_id": "2019-10-17",
+  "fights": 148,
+  "numberOfUNames": 15
+ },
+ {
+  "_id": "2019-10-18",
+  "fights": 92,
+  "numberOfUNames": 22
+ },
+ {
+  "_id": "2019-10-19",
+  "fights": 90,
+  "numberOfUNames": 19
+ },
+ {
+  "_id": "2019-10-20",
+  "fights": 91,
+  "numberOfUNames": 25
+ },
+ {
+  "_id": "2019-10-21",
+  "fights": 118,
+  "numberOfUNames": 21
+ },
+ {
+  "_id": "2019-10-22",
+  "fights": 46,
+  "numberOfUNames": 19
+ },
+ {
+  "_id": "2019-10-23",
+  "fights": 169,
+  "numberOfUNames": 19
+ },
+ {
+  "_id": "2019-10-24",
+  "fights": 52,
+  "numberOfUNames": 11
+ },
+ {
+  "_id": "2019-10-25",
+  "fights": 149,
+  "numberOfUNames": 31
+ },
+ {
+  "_id": "2019-10-26",
+  "fights": 129,
+  "numberOfUNames": 32
+ },
+ {
+  "_id": "2019-10-27",
+  "fights": 179,
+  "numberOfUNames": 19
+ },
+ {
+  "_id": "2019-10-28",
+  "fights": 82,
+  "numberOfUNames": 18
+ },
+ {
+  "_id": "2019-10-29",
+  "fights": 127,
+  "numberOfUNames": 23
+ },
+ {
+  "_id": "2019-10-30",
+  "fights": 51,
+  "numberOfUNames": 12
+ },
+ {
+  "_id": "2019-10-31",
+  "fights": 79,
+  "numberOfUNames": 22
+ },
+ {
+  "_id": "2019-11-01",
+  "fights": 117,
+  "numberOfUNames": 26
+ },
+ {
+  "_id": "2019-11-02",
+  "fights": 275,
+  "numberOfUNames": 42
+ },
+ {
+  "_id": "2019-11-03",
+  "fights": 173,
+  "numberOfUNames": 31
+ },
+ {
+  "_id": "2019-11-04",
+  "fights": 100,
+  "numberOfUNames": 16
+ },
+ {
+  "_id": "2019-11-05",
+  "fights": 253,
+  "numberOfUNames": 32
+ },
+ {
+  "_id": "2019-11-06",
+  "fights": 286,
+  "numberOfUNames": 30
+ },
+ {
+  "_id": "2019-11-07",
+  "fights": 167,
+  "numberOfUNames": 21
+ },
+ {
+  "_id": "2019-11-08",
+  "fights": 108,
+  "numberOfUNames": 25
+ },
+ {
+  "_id": "2019-11-09",
+  "fights": 306,
+  "numberOfUNames": 35
+ },
+ {
+  "_id": "2019-11-10",
+  "fights": 408,
+  "numberOfUNames": 50
+ },
+ {
+  "_id": "2019-11-11",
+  "fights": 418,
+  "numberOfUNames": 45
+ },
+ {
+  "_id": "2019-11-12",
+  "fights": 261,
+  "numberOfUNames": 20
+ },
+ {
+  "_id": "2019-11-13",
+  "fights": 179,
+  "numberOfUNames": 25
+ },
+ {
+  "_id": "2019-11-14",
+  "fights": 189,
+  "numberOfUNames": 25
+ },
+ {
+  "_id": "2019-11-15",
+  "fights": 273,
+  "numberOfUNames": 27
+ },
+ {
+  "_id": "2019-11-16",
+  "fights": 288,
+  "numberOfUNames": 23
+ },
+ {
+  "_id": "2019-11-17",
+  "fights": 267,
+  "numberOfUNames": 34
+ },
+ {
+  "_id": "2019-11-18",
+  "fights": 260,
+  "numberOfUNames": 27
+ },
+ {
+  "_id": "2019-11-19",
+  "fights": 212,
+  "numberOfUNames": 20
+ },
+ {
+  "_id": "2019-11-20",
+  "fights": 304,
+  "numberOfUNames": 23
+ },
+ {
+  "_id": "2019-11-21",
+  "fights": 301,
+  "numberOfUNames": 26
+ },
+ {
+  "_id": "2019-11-22",
+  "fights": 260,
+  "numberOfUNames": 37
+ },
+ {
+  "_id": "2019-11-23",
+  "fights": 397,
+  "numberOfUNames": 32
+ },
+ {
+  "_id": "2019-11-24",
+  "fights": 453,
+  "numberOfUNames": 44
+ },
+ {
+  "_id": "2019-11-25",
+  "fights": 357,
+  "numberOfUNames": 29
+ },
+ {
+  "_id": "2019-11-26",
+  "fights": 165,
+  "numberOfUNames": 21
+ },
+ {
+  "_id": "2019-11-27",
+  "fights": 359,
+  "numberOfUNames": 39
+ },
+ {
+  "_id": "2019-11-28",
+  "fights": 506,
+  "numberOfUNames": 37
+ },
+ {
+  "_id": "2019-11-29",
+  "fights": 442,
+  "numberOfUNames": 34
+ },
+ {
+  "_id": "2019-11-30",
+  "fights": 809,
+  "numberOfUNames": 63
+ },
+ {
+  "_id": "2019-12-01",
+  "fights": 613,
+  "numberOfUNames": 47
+ },
+ {
+  "_id": "2019-12-02",
+  "fights": 761,
+  "numberOfUNames": 70
+ },
+ {
+  "_id": "2019-12-03",
+  "fights": 685,
+  "numberOfUNames": 64
+ },
+ {
+  "_id": "2019-12-04",
+  "fights": 298,
+  "numberOfUNames": 28
+ },
+ {
+  "_id": "2019-12-05",
+  "fights": 302,
+  "numberOfUNames": 33
+ },
+ {
+  "_id": "2019-12-06",
+  "fights": 479,
+  "numberOfUNames": 63
+ },
+ {
+  "_id": "2019-12-07",
+  "fights": 570,
+  "numberOfUNames": 53
+ },
+ {
+  "_id": "2019-12-08",
+  "fights": 582,
+  "numberOfUNames": 55
+ },
+ {
+  "_id": "2019-12-09",
+  "fights": 670,
+  "numberOfUNames": 37
+ },
+ {
+  "_id": "2019-12-10",
+  "fights": 578,
+  "numberOfUNames": 55
+ },
+ {
+  "_id": "2019-12-11",
+  "fights": 389,
+  "numberOfUNames": 33
+ },
+ {
+  "_id": "2019-12-12",
+  "fights": 285,
+  "numberOfUNames": 29
+ },
+ {
+  "_id": "2019-12-13",
+  "fights": 368,
+  "numberOfUNames": 32
+ },
+ {
+  "_id": "2019-12-14",
+  "fights": 554,
+  "numberOfUNames": 52
+ },
+ {
+  "_id": "2019-12-15",
+  "fights": 538,
+  "numberOfUNames": 34
+ },
+ {
+  "_id": "2019-12-16",
+  "fights": 216,
+  "numberOfUNames": 26
+ },
+ {
+  "_id": "2019-12-17",
+  "fights": 227,
+  "numberOfUNames": 33
+ },
+ {
+  "_id": "2019-12-18",
+  "fights": 257,
+  "numberOfUNames": 40
+ },
+ {
+  "_id": "2019-12-19",
+  "fights": 137,
+  "numberOfUNames": 26
+ },
+ {
+  "_id": "2019-12-20",
+  "fights": 153,
+  "numberOfUNames": 26
+ },
+ {
+  "_id": "2019-12-21",
+  "fights": 294,
+  "numberOfUNames": 31
+ },
+ {
+  "_id": "2019-12-22",
+  "fights": 356,
+  "numberOfUNames": 51
+ },
+ {
+  "_id": "2019-12-23",
+  "fights": 293,
+  "numberOfUNames": 38
+ },
+ {
+  "_id": "2019-12-24",
+  "fights": 274,
+  "numberOfUNames": 34
+ },
+ {
+  "_id": "2019-12-25",
+  "fights": 358,
+  "numberOfUNames": 39
+ },
+ {
+  "_id": "2019-12-26",
+  "fights": 234,
+  "numberOfUNames": 31
+ },
+ {
+  "_id": "2019-12-27",
+  "fights": 127,
+  "numberOfUNames": 38
+ },
+ {
+  "_id": "2019-12-28",
+  "fights": 139,
+  "numberOfUNames": 25
+ },
+ {
+  "_id": "2019-12-29",
+  "fights": 308,
+  "numberOfUNames": 33
+ },
+ {
+  "_id": "2019-12-30",
+  "fights": 182,
+  "numberOfUNames": 35
+ },
+ {
+  "_id": "2019-12-31",
+  "fights": 149,
+  "numberOfUNames": 24
+ },
+ {
+  "_id": "2020-01-01",
+  "fights": 300,
+  "numberOfUNames": 27
+ },
+ {
+  "_id": "2020-01-02",
+  "fights": 128,
+  "numberOfUNames": 18
+ },
+ {
+  "_id": "2020-01-03",
+  "fights": 243,
+  "numberOfUNames": 34
+ },
+ {
+  "_id": "2020-01-04",
+  "fights": 263,
+  "numberOfUNames": 37
+ },
+ {
+  "_id": "2020-01-05",
+  "fights": 307,
+  "numberOfUNames": 48
+ },
+ {
+  "_id": "2020-01-06",
+  "fights": 102,
+  "numberOfUNames": 18
+ },
+ {
+  "_id": "2020-01-07",
+  "fights": 125,
+  "numberOfUNames": 19
+ },
+ {
+  "_id": "2020-01-08",
+  "fights": 172,
+  "numberOfUNames": 19
+ },
+ {
+  "_id": "2020-01-09",
+  "fights": 171,
+  "numberOfUNames": 29
+ },
+ {
+  "_id": "2020-01-10",
+  "fights": 275,
+  "numberOfUNames": 28
+ },
+ {
+  "_id": "2020-01-11",
+  "fights": 201,
+  "numberOfUNames": 39
+ },
+ {
+  "_id": "2020-01-12",
+  "fights": 463,
+  "numberOfUNames": 55
+ },
+ {
+  "_id": "2020-01-13",
+  "fights": 198,
+  "numberOfUNames": 27
+ },
+ {
+  "_id": "2020-01-14",
+  "fights": 185,
+  "numberOfUNames": 31
+ },
+ {
+  "_id": "2020-01-15",
+  "fights": 107,
+  "numberOfUNames": 25
+ },
+ {
+  "_id": "2020-01-16",
+  "fights": 335,
+  "numberOfUNames": 43
+ },
+ {
+  "_id": "2020-01-17",
+  "fights": 141,
+  "numberOfUNames": 22
+ },
+ {
+  "_id": "2020-01-18",
+  "fights": 370,
+  "numberOfUNames": 38
+ },
+ {
+  "_id": "2020-01-19",
+  "fights": 362,
+  "numberOfUNames": 43
+ },
+ {
+  "_id": "2020-01-20",
+  "fights": 460,
+  "numberOfUNames": 57
+ },
+ {
+  "_id": "2020-01-21",
+  "fights": 400,
+  "numberOfUNames": 36
+ },
+ {
+  "_id": "2020-01-22",
+  "fights": 307,
+  "numberOfUNames": 28
+ },
+ {
+  "_id": "2020-01-23",
+  "fights": 326,
+  "numberOfUNames": 44
+ },
+ {
+  "_id": "2020-01-24",
+  "fights": 367,
+  "numberOfUNames": 56
+ },
+ {
+  "_id": "2020-01-25",
+  "fights": 366,
+  "numberOfUNames": 53
+ },
+ {
+  "_id": "2020-01-26",
+  "fights": 249,
+  "numberOfUNames": 31
+ },
+ {
+  "_id": "2020-01-27",
+  "fights": 274,
+  "numberOfUNames": 33
+ },
+ {
+  "_id": "2020-01-28",
+  "fights": 362,
+  "numberOfUNames": 40
+ },
+ {
+  "_id": "2020-01-29",
+  "fights": 191,
+  "numberOfUNames": 25
+ },
+ {
+  "_id": "2020-01-30",
+  "fights": 251,
+  "numberOfUNames": 25
+ },
+ {
+  "_id": "2020-01-31",
+  "fights": 345,
+  "numberOfUNames": 43
+ },
+ {
+  "_id": "2020-02-01",
+  "fights": 509,
+  "numberOfUNames": 58
+ },
+ {
+  "_id": "2020-02-02",
+  "fights": 336,
+  "numberOfUNames": 42
+ },
+ {
+  "_id": "2020-02-03",
+  "fights": 238,
+  "numberOfUNames": 24
+ },
+ {
+  "_id": "2020-02-04",
+  "fights": 238,
+  "numberOfUNames": 27
+ },
+ {
+  "_id": "2020-02-05",
+  "fights": 267,
+  "numberOfUNames": 30
+ },
+ {
+  "_id": "2020-02-06",
+  "fights": 291,
+  "numberOfUNames": 38
+ },
+ {
+  "_id": "2020-02-07",
+  "fights": 494,
+  "numberOfUNames": 57
+ },
+ {
+  "_id": "2020-02-08",
+  "fights": 420,
+  "numberOfUNames": 58
+ },
+ {
+  "_id": "2020-02-09",
+  "fights": 478,
+  "numberOfUNames": 57
+ },
+ {
+  "_id": "2020-02-10",
+  "fights": 315,
+  "numberOfUNames": 45
+ },
+ {
+  "_id": "2020-02-11",
+  "fights": 663,
+  "numberOfUNames": 72
+ },
+ {
+  "_id": "2020-02-12",
+  "fights": 268,
+  "numberOfUNames": 39
+ },
+ {
+  "_id": "2020-02-13",
+  "fights": 195,
+  "numberOfUNames": 28
+ },
+ {
+  "_id": "2020-02-14",
+  "fights": 255,
+  "numberOfUNames": 34
+ },
+ {
+  "_id": "2020-02-15",
+  "fights": 548,
+  "numberOfUNames": 48
+ },
+ {
+  "_id": "2020-02-16",
+  "fights": 386,
+  "numberOfUNames": 50
+ },
+ {
+  "_id": "2020-02-17",
+  "fights": 352,
+  "numberOfUNames": 45
+ },
+ {
+  "_id": "2020-02-18",
+  "fights": 295,
+  "numberOfUNames": 40
+ },
+ {
+  "_id": "2020-02-19",
+  "fights": 290,
+  "numberOfUNames": 33
+ },
+ {
+  "_id": "2020-02-20",
+  "fights": 264,
+  "numberOfUNames": 36
+ },
+ {
+  "_id": "2020-02-21",
+  "fights": 315,
+  "numberOfUNames": 42
+ },
+ {
+  "_id": "2020-02-22",
+  "fights": 603,
+  "numberOfUNames": 66
+ },
+ {
+  "_id": "2020-02-23",
+  "fights": 469,
+  "numberOfUNames": 55
+ },
+ {
+  "_id": "2020-02-24",
+  "fights": 256,
+  "numberOfUNames": 32
+ },
+ {
+  "_id": "2020-02-25",
+  "fights": 204,
+  "numberOfUNames": 30
+ },
+ {
+  "_id": "2020-02-26",
+  "fights": 312,
+  "numberOfUNames": 38
+ },
+ {
+  "_id": "2020-02-27",
+  "fights": 334,
+  "numberOfUNames": 37
+ },
+ {
+  "_id": "2020-02-28",
+  "fights": 438,
+  "numberOfUNames": 40
+ },
+ {
+  "_id": "2020-02-29",
+  "fights": 706,
+  "numberOfUNames": 67
+ },
+ {
+  "_id": "2020-03-01",
+  "fights": 536,
+  "numberOfUNames": 55
+ },
+ {
+  "_id": "2020-03-02",
+  "fights": 156,
+  "numberOfUNames": 28
+ },
+ {
+  "_id": "2020-03-03",
+  "fights": 274,
+  "numberOfUNames": 44
+ },
+ {
+  "_id": "2020-03-04",
+  "fights": 192,
+  "numberOfUNames": 32
+ },
+ {
+  "_id": "2020-03-05",
+  "fights": 343,
+  "numberOfUNames": 33
+ },
+ {
+  "_id": "2020-03-06",
+  "fights": 138,
+  "numberOfUNames": 37
+ },
+ {
+  "_id": "2020-03-07",
+  "fights": 276,
+  "numberOfUNames": 37
+ },
+ {
+  "_id": "2020-03-08",
+  "fights": 377,
+  "numberOfUNames": 45
+ },
+ {
+  "_id": "2020-03-09",
+  "fights": 393,
+  "numberOfUNames": 63
+ },
+ {
+  "_id": "2020-03-10",
+  "fights": 364,
+  "numberOfUNames": 42
+ },
+ {
+  "_id": "2020-03-11",
+  "fights": 246,
+  "numberOfUNames": 34
+ },
+ {
+  "_id": "2020-03-12",
+  "fights": 224,
+  "numberOfUNames": 31
+ },
+ {
+  "_id": "2020-03-13",
+  "fights": 217,
+  "numberOfUNames": 37
+ },
+ {
+  "_id": "2020-03-14",
+  "fights": 343,
+  "numberOfUNames": 48
+ },
+ {
+  "_id": "2020-03-15",
+  "fights": 333,
+  "numberOfUNames": 34
+ },
+ {
+  "_id": "2020-03-16",
+  "fights": 237,
+  "numberOfUNames": 27
+ },
+ {
+  "_id": "2020-03-17",
+  "fights": 277,
+  "numberOfUNames": 33
+ },
+ {
+  "_id": "2020-03-18",
+  "fights": 281,
+  "numberOfUNames": 35
+ },
+ {
+  "_id": "2020-03-19",
+  "fights": 526,
+  "numberOfUNames": 65
+ },
+ {
+  "_id": "2020-03-20",
+  "fights": 534,
+  "numberOfUNames": 71
+ },
+ {
+  "_id": "2020-03-21",
+  "fights": 768,
+  "numberOfUNames": 82
+ },
+ {
+  "_id": "2020-03-22",
+  "fights": 889,
+  "numberOfUNames": 88
+ },
+ {
+  "_id": "2020-03-23",
+  "fights": 722,
+  "numberOfUNames": 82
+ },
+ {
+  "_id": "2020-03-24",
+  "fights": 936,
+  "numberOfUNames": 73
+ },
+ {
+  "_id": "2020-03-25",
+  "fights": 1049,
+  "numberOfUNames": 94
+ },
+ {
+  "_id": "2020-03-26",
+  "fights": 810,
+  "numberOfUNames": 83
+ },
+ {
+  "_id": "2020-03-27",
+  "fights": 945,
+  "numberOfUNames": 83
+ },
+ {
+  "_id": "2020-03-28",
+  "fights": 960,
+  "numberOfUNames": 99
+ },
+ {
+  "_id": "2020-03-29",
+  "fights": 877,
+  "numberOfUNames": 87
+ },
+ {
+  "_id": "2020-03-30",
+  "fights": 1072,
+  "numberOfUNames": 82
+ },
+ {
+  "_id": "2020-03-31",
+  "fights": 709,
+  "numberOfUNames": 89
+ },
+ {
+  "_id": "2020-04-01",
+  "fights": 740,
+  "numberOfUNames": 72
+ },
+ {
+  "_id": "2020-04-02",
+  "fights": 1205,
+  "numberOfUNames": 88
+ },
+ {
+  "_id": "2020-04-03",
+  "fights": 1268,
+  "numberOfUNames": 98
+ },
+ {
+  "_id": "2020-04-04",
+  "fights": 1332,
+  "numberOfUNames": 98
+ },
+ {
+  "_id": "2020-04-05",
+  "fights": 1393,
+  "numberOfUNames": 94
+ },
+ {
+  "_id": "2020-04-06",
+  "fights": 913,
+  "numberOfUNames": 70
+ },
+ {
+  "_id": "2020-04-07",
+  "fights": 859,
+  "numberOfUNames": 73
+ },
+ {
+  "_id": "2020-04-08",
+  "fights": 717,
+  "numberOfUNames": 72
+ },
+ {
+  "_id": "2020-04-09",
+  "fights": 992,
+  "numberOfUNames": 81
+ },
+ {
+  "_id": "2020-04-10",
+  "fights": 925,
+  "numberOfUNames": 90
+ },
+ {
+  "_id": "2020-04-11",
+  "fights": 1121,
+  "numberOfUNames": 88
+ },
+ {
+  "_id": "2020-04-12",
+  "fights": 1183,
+  "numberOfUNames": 88
+ },
+ {
+  "_id": "2020-04-13",
+  "fights": 969,
+  "numberOfUNames": 79
+ },
+ {
+  "_id": "2020-04-14",
+  "fights": 1266,
+  "numberOfUNames": 74
+ },
+ {
+  "_id": "2020-04-15",
+  "fights": 1082,
+  "numberOfUNames": 79
+ },
+ {
+  "_id": "2020-04-16",
+  "fights": 995,
+  "numberOfUNames": 94
+ },
+ {
+  "_id": "2020-04-17",
+  "fights": 867,
+  "numberOfUNames": 75
+ },
+ {
+  "_id": "2020-04-18",
+  "fights": 1400,
+  "numberOfUNames": 102
+ },
+ {
+  "_id": "2020-04-19",
+  "fights": 1103,
+  "numberOfUNames": 103
+ },
+ {
+  "_id": "2020-04-20",
+  "fights": 1113,
+  "numberOfUNames": 86
+ },
+ {
+  "_id": "2020-04-21",
+  "fights": 1124,
+  "numberOfUNames": 81
+ },
+ {
+  "_id": "2020-04-22",
+  "fights": 1009,
+  "numberOfUNames": 75
+ },
+ {
+  "_id": "2020-04-23",
+  "fights": 1147,
+  "numberOfUNames": 77
+ },
+ {
+  "_id": "2020-04-24",
+  "fights": 1082,
+  "numberOfUNames": 81
+ },
+ {
+  "_id": "2020-04-25",
+  "fights": 901,
+  "numberOfUNames": 90
+ },
+ {
+  "_id": "2020-04-26",
+  "fights": 1127,
+  "numberOfUNames": 79
+ },
+ {
+  "_id": "2020-04-27",
+  "fights": 1390,
+  "numberOfUNames": 84
+ },
+ {
+  "_id": "2020-04-28",
+  "fights": 1573,
+  "numberOfUNames": 90
+ },
+ {
+  "_id": "2020-04-29",
+  "fights": 1255,
+  "numberOfUNames": 88
+ },
+ {
+  "_id": "2020-04-30",
+  "fights": 1374,
+  "numberOfUNames": 94
+ },
+ {
+  "_id": "2020-05-01",
+  "fights": 1109,
+  "numberOfUNames": 91
+ },
+ {
+  "_id": "2020-05-02",
+  "fights": 1583,
+  "numberOfUNames": 92
+ },
+ {
+  "_id": "2020-05-03",
+  "fights": 1231,
+  "numberOfUNames": 96
+ },
+ {
+  "_id": "2020-05-04",
+  "fights": 1193,
+  "numberOfUNames": 89
+ },
+ {
+  "_id": "2020-05-05",
+  "fights": 1175,
+  "numberOfUNames": 86
+ },
+ {
+  "_id": "2020-05-06",
+  "fights": 868,
+  "numberOfUNames": 70
+ },
+ {
+  "_id": "2020-05-07",
+  "fights": 1000,
+  "numberOfUNames": 82
+ },
+ {
+  "_id": "2020-05-08",
+  "fights": 1021,
+  "numberOfUNames": 79
+ },
+ {
+  "_id": "2020-05-09",
+  "fights": 1163,
+  "numberOfUNames": 81
+ },
+ {
+  "_id": "2020-05-10",
+  "fights": 1007,
+  "numberOfUNames": 82
+ },
+ {
+  "_id": "2020-05-11",
+  "fights": 1046,
+  "numberOfUNames": 81
+ },
+ {
+  "_id": "2020-05-12",
+  "fights": 1064,
+  "numberOfUNames": 83
+ },
+ {
+  "_id": "2020-05-13",
+  "fights": 986,
+  "numberOfUNames": 80
+ },
+ {
+  "_id": "2020-05-14",
+  "fights": 1036,
+  "numberOfUNames": 95
+ },
+ {
+  "_id": "2020-05-15",
+  "fights": 1274,
+  "numberOfUNames": 88
+ },
+ {
+  "_id": "2020-05-16",
+  "fights": 1163,
+  "numberOfUNames": 97
+ },
+ {
+  "_id": "2020-05-17",
+  "fights": 1144,
+  "numberOfUNames": 89
+ },
+ {
+  "_id": "2020-05-18",
+  "fights": 1164,
+  "numberOfUNames": 95
+ },
+ {
+  "_id": "2020-05-19",
+  "fights": 1295,
+  "numberOfUNames": 87
+ },
+ {
+  "_id": "2020-05-20",
+  "fights": 1604,
+  "numberOfUNames": 101
+ },
+ {
+  "_id": "2020-05-21",
+  "fights": 1207,
+  "numberOfUNames": 95
+ },
+ {
+  "_id": "2020-05-22",
+  "fights": 980,
+  "numberOfUNames": 89
+ },
+ {
+  "_id": "2020-05-23",
+  "fights": 988,
+  "numberOfUNames": 90
+ },
+ {
+  "_id": "2020-05-24",
+  "fights": 1200,
+  "numberOfUNames": 99
+ },
+ {
+  "_id": "2020-05-25",
+  "fights": 1297,
+  "numberOfUNames": 110
+ },
+ {
+  "_id": "2020-05-26",
+  "fights": 1132,
+  "numberOfUNames": 92
+ },
+ {
+  "_id": "2020-05-27",
+  "fights": 1103,
+  "numberOfUNames": 94
+ },
+ {
+  "_id": "2020-05-28",
+  "fights": 1148,
+  "numberOfUNames": 88
+ },
+ {
+  "_id": "2020-05-29",
+  "fights": 1406,
+  "numberOfUNames": 94
+ },
+ {
+  "_id": "2020-05-30",
+  "fights": 1439,
+  "numberOfUNames": 94
+ },
+ {
+  "_id": "2020-05-31",
+  "fights": 1057,
+  "numberOfUNames": 90
+ },
+ {
+  "_id": "2020-06-01",
+  "fights": 1232,
+  "numberOfUNames": 97
+ },
+ {
+  "_id": "2020-06-02",
+  "fights": 1196,
+  "numberOfUNames": 99
+ },
+ {
+  "_id": "2020-06-03",
+  "fights": 1154,
+  "numberOfUNames": 96
+ },
+ {
+  "_id": "2020-06-04",
+  "fights": 1507,
+  "numberOfUNames": 92
+ },
+ {
+  "_id": "2020-06-05",
+  "fights": 1360,
+  "numberOfUNames": 94
+ },
+ {
+  "_id": "2020-06-06",
+  "fights": 988,
+  "numberOfUNames": 87
+ },
+ {
+  "_id": "2020-06-07",
+  "fights": 1403,
+  "numberOfUNames": 102
+ },
+ {
+  "_id": "2020-06-08",
+  "fights": 1122,
+  "numberOfUNames": 86
+ },
+ {
+  "_id": "2020-06-09",
+  "fights": 1029,
+  "numberOfUNames": 90
+ },
+ {
+  "_id": "2020-06-10",
+  "fights": 731,
+  "numberOfUNames": 73
+ },
+ {
+  "_id": "2020-06-11",
+  "fights": 836,
+  "numberOfUNames": 84
+ },
+ {
+  "_id": "2020-06-12",
+  "fights": 791,
+  "numberOfUNames": 86
+ },
+ {
+  "_id": "2020-06-13",
+  "fights": 887,
+  "numberOfUNames": 83
+ },
+ {
+  "_id": "2020-06-14",
+  "fights": 1056,
+  "numberOfUNames": 84
+ },
+ {
+  "_id": "2020-06-15",
+  "fights": 1013,
+  "numberOfUNames": 104
+ },
+ {
+  "_id": "2020-06-16",
+  "fights": 791,
+  "numberOfUNames": 74
+ },
+ {
+  "_id": "2020-06-17",
+  "fights": 796,
+  "numberOfUNames": 73
+ },
+ {
+  "_id": "2020-06-18",
+  "fights": 726,
+  "numberOfUNames": 80
+ },
+ {
+  "_id": "2020-06-19",
+  "fights": 634,
+  "numberOfUNames": 73
+ },
+ {
+  "_id": "2020-06-20",
+  "fights": 574,
+  "numberOfUNames": 63
+ },
+ {
+  "_id": "2020-06-21",
+  "fights": 681,
+  "numberOfUNames": 75
+ },
+ {
+  "_id": "2020-06-22",
+  "fights": 889,
+  "numberOfUNames": 91
+ },
+ {
+  "_id": "2020-06-23",
+  "fights": 692,
+  "numberOfUNames": 60
+ },
+ {
+  "_id": "2020-06-24",
+  "fights": 701,
+  "numberOfUNames": 58
+ },
+ {
+  "_id": "2020-06-25",
+  "fights": 496,
+  "numberOfUNames": 68
+ },
+ {
+  "_id": "2020-06-26",
+  "fights": 714,
+  "numberOfUNames": 65
+ },
+ {
+  "_id": "2020-06-27",
+  "fights": 433,
+  "numberOfUNames": 53
+ },
+ {
+  "_id": "2020-06-28",
+  "fights": 786,
+  "numberOfUNames": 81
+ },
+ {
+  "_id": "2020-06-29",
+  "fights": 763,
+  "numberOfUNames": 80
+ },
+ {
+  "_id": "2020-06-30",
+  "fights": 440,
+  "numberOfUNames": 53
+ },
+ {
+  "_id": "2020-07-01",
+  "fights": 614,
+  "numberOfUNames": 64
+ },
+ {
+  "_id": "2020-07-02",
+  "fights": 504,
+  "numberOfUNames": 67
+ },
+ {
+  "_id": "2020-07-03",
+  "fights": 898,
+  "numberOfUNames": 76
+ },
+ {
+  "_id": "2020-07-04",
+  "fights": 493,
+  "numberOfUNames": 51
+ },
+ {
+  "_id": "2020-07-05",
+  "fights": 681,
+  "numberOfUNames": 61
+ },
+ {
+  "_id": "2020-07-06",
+  "fights": 568,
+  "numberOfUNames": 65
+ },
+ {
+  "_id": "2020-07-07",
+  "fights": 353,
+  "numberOfUNames": 53
+ },
+ {
+  "_id": "2020-07-08",
+  "fights": 821,
+  "numberOfUNames": 78
+ },
+ {
+  "_id": "2020-07-09",
+  "fights": 546,
+  "numberOfUNames": 64
+ },
+ {
+  "_id": "2020-07-10",
+  "fights": 599,
+  "numberOfUNames": 55
+ },
+ {
+  "_id": "2020-07-11",
+  "fights": 539,
+  "numberOfUNames": 64
+ },
+ {
+  "_id": "2020-07-12",
+  "fights": 548,
+  "numberOfUNames": 60
+ },
+ {
+  "_id": "2020-07-13",
+  "fights": 710,
+  "numberOfUNames": 57
+ },
+ {
+  "_id": "2020-07-14",
+  "fights": 530,
+  "numberOfUNames": 66
+ },
+ {
+  "_id": "2020-07-15",
+  "fights": 475,
+  "numberOfUNames": 55
+ },
+ {
+  "_id": "2020-07-16",
+  "fights": 431,
+  "numberOfUNames": 61
+ },
+ {
+  "_id": "2020-07-17",
+  "fights": 527,
+  "numberOfUNames": 60
+ },
+ {
+  "_id": "2020-07-18",
+  "fights": 550,
+  "numberOfUNames": 58
+ },
+ {
+  "_id": "2020-07-19",
+  "fights": 822,
+  "numberOfUNames": 67
+ },
+ {
+  "_id": "2020-07-20",
+  "fights": 504,
+  "numberOfUNames": 61
+ },
+ {
+  "_id": "2020-07-21",
+  "fights": 409,
+  "numberOfUNames": 54
+ },
+ {
+  "_id": "2020-07-22",
+  "fights": 477,
+  "numberOfUNames": 69
+ },
+ {
+  "_id": "2020-07-23",
+  "fights": 338,
+  "numberOfUNames": 54
+ },
+ {
+  "_id": "2020-07-24",
+  "fights": 631,
+  "numberOfUNames": 64
+ },
+ {
+  "_id": "2020-07-25",
+  "fights": 717,
+  "numberOfUNames": 59
+ },
+ {
+  "_id": "2020-07-26",
+  "fights": 595,
+  "numberOfUNames": 61
+ },
+ {
+  "_id": "2020-07-27",
+  "fights": 595,
+  "numberOfUNames": 56
+ },
+ {
+  "_id": "2020-07-28",
+  "fights": 340,
+  "numberOfUNames": 50
+ },
+ {
+  "_id": "2020-07-29",
+  "fights": 410,
+  "numberOfUNames": 54
+ },
+ {
+  "_id": "2020-07-30",
+  "fights": 585,
+  "numberOfUNames": 65
+ },
+ {
+  "_id": "2020-07-31",
+  "fights": 201,
+  "numberOfUNames": 51
+ },
+ {
+  "_id": "2020-08-01",
+  "fights": 458,
+  "numberOfUNames": 54
+ },
+ {
+  "_id": "2020-08-02",
+  "fights": 350,
+  "numberOfUNames": 58
+ },
+ {
+  "_id": "2020-08-03",
+  "fights": 574,
+  "numberOfUNames": 43
+ },
+ {
+  "_id": "2020-08-04",
+  "fights": 346,
+  "numberOfUNames": 44
+ },
+ {
+  "_id": "2020-08-05",
+  "fights": 432,
+  "numberOfUNames": 40
+ },
+ {
+  "_id": "2020-08-06",
+  "fights": 435,
+  "numberOfUNames": 53
+ },
+ {
+  "_id": "2020-08-07",
+  "fights": 278,
+  "numberOfUNames": 41
+ },
+ {
+  "_id": "2020-08-08",
+  "fights": 283,
+  "numberOfUNames": 53
+ },
+ {
+  "_id": "2020-08-09",
+  "fights": 372,
+  "numberOfUNames": 58
+ },
+ {
+  "_id": "2020-08-10",
+  "fights": 420,
+  "numberOfUNames": 56
+ },
+ {
+  "_id": "2020-08-11",
+  "fights": 717,
+  "numberOfUNames": 62
+ },
+ {
+  "_id": "2020-08-12",
+  "fights": 524,
+  "numberOfUNames": 49
+ },
+ {
+  "_id": "2020-08-13",
+  "fights": 586,
+  "numberOfUNames": 59
+ },
+ {
+  "_id": "2020-08-14",
+  "fights": 676,
+  "numberOfUNames": 60
+ },
+ {
+  "_id": "2020-08-15",
+  "fights": 484,
+  "numberOfUNames": 61
+ },
+ {
+  "_id": "2020-08-16",
+  "fights": 737,
+  "numberOfUNames": 45
+ },
+ {
+  "_id": "2020-08-17",
+  "fights": 326,
+  "numberOfUNames": 42
+ },
+ {
+  "_id": "2020-08-18",
+  "fights": 598,
+  "numberOfUNames": 57
+ },
+ {
+  "_id": "2020-08-19",
+  "fights": 409,
+  "numberOfUNames": 53
+ },
+ {
+  "_id": "2020-08-20",
+  "fights": 323,
+  "numberOfUNames": 40
+ },
+ {
+  "_id": "2020-08-21",
+  "fights": 583,
+  "numberOfUNames": 57
+ },
+ {
+  "_id": "2020-08-22",
+  "fights": 805,
+  "numberOfUNames": 70
+ },
+ {
+  "_id": "2020-08-23",
+  "fights": 517,
+  "numberOfUNames": 65
+ },
+ {
+  "_id": "2020-08-24",
+  "fights": 441,
+  "numberOfUNames": 58
+ },
+ {
+  "_id": "2020-08-25",
+  "fights": 342,
+  "numberOfUNames": 49
+ },
+ {
+  "_id": "2020-08-26",
+  "fights": 441,
+  "numberOfUNames": 46
+ },
+ {
+  "_id": "2020-08-27",
+  "fights": 342,
+  "numberOfUNames": 54
+ },
+ {
+  "_id": "2020-08-28",
+  "fights": 344,
+  "numberOfUNames": 40
+ },
+ {
+  "_id": "2020-08-29",
+  "fights": 293,
+  "numberOfUNames": 49
+ },
+ {
+  "_id": "2020-08-30",
+  "fights": 533,
+  "numberOfUNames": 40
+ },
+ {
+  "_id": "2020-08-31",
+  "fights": 537,
+  "numberOfUNames": 49
+ },
+ {
+  "_id": "2020-09-01",
+  "fights": 658,
+  "numberOfUNames": 52
+ },
+ {
+  "_id": "2020-09-02",
+  "fights": 490,
+  "numberOfUNames": 46
+ },
+ {
+  "_id": "2020-09-03",
+  "fights": 541,
+  "numberOfUNames": 55
+ },
+ {
+  "_id": "2020-09-04",
+  "fights": 416,
+  "numberOfUNames": 39
+ },
+ {
+  "_id": "2020-09-05",
+  "fights": 391,
+  "numberOfUNames": 42
+ },
+ {
+  "_id": "2020-09-06",
+  "fights": 437,
+  "numberOfUNames": 47
+ },
+ {
+  "_id": "2020-09-07",
+  "fights": 462,
+  "numberOfUNames": 43
+ },
+ {
+  "_id": "2020-09-08",
+  "fights": 341,
+  "numberOfUNames": 41
+ },
+ {
+  "_id": "2020-09-09",
+  "fights": 319,
+  "numberOfUNames": 38
+ },
+ {
+  "_id": "2020-09-10",
+  "fights": 431,
+  "numberOfUNames": 40
+ },
+ {
+  "_id": "2020-09-11",
+  "fights": 553,
+  "numberOfUNames": 43
+ },
+ {
+  "_id": "2020-09-12",
+  "fights": 330,
+  "numberOfUNames": 40
+ },
+ {
+  "_id": "2020-09-13",
+  "fights": 404,
+  "numberOfUNames": 43
+ },
+ {
+  "_id": "2020-09-14",
+  "fights": 395,
+  "numberOfUNames": 40
+ },
+ {
+  "_id": "2020-09-15",
+  "fights": 330,
+  "numberOfUNames": 42
+ },
+ {
+  "_id": "2020-09-16",
+  "fights": 384,
+  "numberOfUNames": 46
+ },
+ {
+  "_id": "2020-09-17",
+  "fights": 341,
+  "numberOfUNames": 42
+ },
+ {
+  "_id": "2020-09-18",
+  "fights": 495,
+  "numberOfUNames": 49
+ },
+ {
+  "_id": "2020-09-19",
+  "fights": 433,
+  "numberOfUNames": 50
+ },
+ {
+  "_id": "2020-09-20",
+  "fights": 931,
+  "numberOfUNames": 60
+ },
+ {
+  "_id": "2020-09-21",
+  "fights": 518,
+  "numberOfUNames": 55
+ },
+ {
+  "_id": "2020-09-22",
+  "fights": 254,
+  "numberOfUNames": 32
+ },
+ {
+  "_id": "2020-09-23",
+  "fights": 355,
+  "numberOfUNames": 44
+ },
+ {
+  "_id": "2020-09-24",
+  "fights": 277,
+  "numberOfUNames": 45
+ },
+ {
+  "_id": "2020-09-25",
+  "fights": 258,
+  "numberOfUNames": 39
+ },
+ {
+  "_id": "2020-09-26",
+  "fights": 285,
+  "numberOfUNames": 53
+ },
+ {
+  "_id": "2020-09-27",
+  "fights": 351,
+  "numberOfUNames": 55
+ },
+ {
+  "_id": "2020-09-28",
+  "fights": 488,
+  "numberOfUNames": 55
+ },
+ {
+  "_id": "2020-09-29",
+  "fights": 291,
+  "numberOfUNames": 44
+ },
+ {
+  "_id": "2020-09-30",
+  "fights": 389,
+  "numberOfUNames": 54
+ },
+ {
+  "_id": "2020-10-01",
+  "fights": 489,
+  "numberOfUNames": 57
+ },
+ {
+  "_id": "2020-10-02",
+  "fights": 393,
+  "numberOfUNames": 47
+ },
+ {
+  "_id": "2020-10-03",
+  "fights": 823,
+  "numberOfUNames": 73
+ },
+ {
+  "_id": "2020-10-04",
+  "fights": 484,
+  "numberOfUNames": 49
+ },
+ {
+  "_id": "2020-10-05",
+  "fights": 455,
+  "numberOfUNames": 63
+ },
+ {
+  "_id": "2020-10-06",
+  "fights": 390,
+  "numberOfUNames": 53
+ },
+ {
+  "_id": "2020-10-07",
+  "fights": 366,
+  "numberOfUNames": 47
+ },
+ {
+  "_id": "2020-10-08",
+  "fights": 400,
+  "numberOfUNames": 53
+ },
+ {
+  "_id": "2020-10-09",
+  "fights": 430,
+  "numberOfUNames": 48
+ },
+ {
+  "_id": "2020-10-10",
+  "fights": 451,
+  "numberOfUNames": 61
+ },
+ {
+  "_id": "2020-10-11",
+  "fights": 439,
+  "numberOfUNames": 41
+ },
+ {
+  "_id": "2020-10-12",
+  "fights": 350,
+  "numberOfUNames": 50
+ },
+ {
+  "_id": "2020-10-13",
+  "fights": 347,
+  "numberOfUNames": 50
+ },
+ {
+  "_id": "2020-10-14",
+  "fights": 465,
+  "numberOfUNames": 53
+ },
+ {
+  "_id": "2020-10-15",
+  "fights": 525,
+  "numberOfUNames": 68
+ },
+ {
+  "_id": "2020-10-16",
+  "fights": 437,
+  "numberOfUNames": 64
+ },
+ {
+  "_id": "2020-10-17",
+  "fights": 674,
+  "numberOfUNames": 68
+ },
+ {
+  "_id": "2020-10-18",
+  "fights": 701,
+  "numberOfUNames": 69
+ },
+ {
+  "_id": "2020-10-19",
+  "fights": 407,
+  "numberOfUNames": 63
+ },
+ {
+  "_id": "2020-10-20",
+  "fights": 351,
+  "numberOfUNames": 45
+ },
+ {
+  "_id": "2020-10-21",
+  "fights": 367,
+  "numberOfUNames": 51
+ },
+ {
+  "_id": "2020-10-22",
+  "fights": 481,
+  "numberOfUNames": 68
+ },
+ {
+  "_id": "2020-10-23",
+  "fights": 399,
+  "numberOfUNames": 59
+ },
+ {
+  "_id": "2020-10-24",
+  "fights": 381,
+  "numberOfUNames": 64
+ },
+ {
+  "_id": "2020-10-25",
+  "fights": 458,
+  "numberOfUNames": 57
+ },
+ {
+  "_id": "2020-10-26",
+  "fights": 402,
+  "numberOfUNames": 55
+ },
+ {
+  "_id": "2020-10-27",
+  "fights": 359,
+  "numberOfUNames": 71
+ },
+ {
+  "_id": "2020-10-28",
+  "fights": 317,
+  "numberOfUNames": 66
+ },
+ {
+  "_id": "2020-10-29",
+  "fights": 366,
+  "numberOfUNames": 59
+ },
+ {
+  "_id": "2020-10-30",
+  "fights": 175,
+  "numberOfUNames": 52
+ },
+ {
+  "_id": "2020-10-31",
+  "fights": 508,
+  "numberOfUNames": 68
+ },
+ {
+  "_id": "2020-11-01",
+  "fights": 503,
+  "numberOfUNames": 60
+ },
+ {
+  "_id": "2020-11-02",
+  "fights": 440,
+  "numberOfUNames": 59
+ },
+ {
+  "_id": "2020-11-03",
+  "fights": 235,
+  "numberOfUNames": 50
+ },
+ {
+  "_id": "2020-11-04",
+  "fights": 175,
+  "numberOfUNames": 38
+ },
+ {
+  "_id": "2020-11-05",
+  "fights": 325,
+  "numberOfUNames": 44
+ },
+ {
+  "_id": "2020-11-06",
+  "fights": 318,
+  "numberOfUNames": 52
+ },
+ {
+  "_id": "2020-11-07",
+  "fights": 360,
+  "numberOfUNames": 65
+ },
+ {
+  "_id": "2020-11-08",
+  "fights": 546,
+  "numberOfUNames": 84
+ },
+ {
+  "_id": "2020-11-09",
+  "fights": 264,
+  "numberOfUNames": 46
+ },
+ {
+  "_id": "2020-11-10",
+  "fights": 250,
+  "numberOfUNames": 45
+ },
+ {
+  "_id": "2020-11-11",
+  "fights": 270,
+  "numberOfUNames": 48
+ },
+ {
+  "_id": "2020-11-12",
+  "fights": 328,
+  "numberOfUNames": 49
+ },
+ {
+  "_id": "2020-11-13",
+  "fights": 419,
+  "numberOfUNames": 49
+ },
+ {
+  "_id": "2020-11-14",
+  "fights": 438,
+  "numberOfUNames": 55
+ },
+ {
+  "_id": "2020-11-15",
+  "fights": 523,
+  "numberOfUNames": 71
+ },
+ {
+  "_id": "2020-11-16",
+  "fights": 289,
+  "numberOfUNames": 64
+ },
+ {
+  "_id": "2020-11-17",
+  "fights": 448,
+  "numberOfUNames": 56
+ },
+ {
+  "_id": "2020-11-18",
+  "fights": 333,
+  "numberOfUNames": 55
+ },
+ {
+  "_id": "2020-11-19",
+  "fights": 393,
+  "numberOfUNames": 55
+ },
+ {
+  "_id": "2020-11-20",
+  "fights": 436,
+  "numberOfUNames": 65
+ },
+ {
+  "_id": "2020-11-21",
+  "fights": 722,
+  "numberOfUNames": 72
+ },
+ {
+  "_id": "2020-11-22",
+  "fights": 464,
+  "numberOfUNames": 64
+ },
+ {
+  "_id": "2020-11-23",
+  "fights": 198,
+  "numberOfUNames": 43
+ },
+ {
+  "_id": "2020-11-24",
+  "fights": 359,
+  "numberOfUNames": 51
+ },
+ {
+  "_id": "2020-11-25",
+  "fights": 283,
+  "numberOfUNames": 52
+ },
+ {
+  "_id": "2020-11-26",
+  "fights": 372,
+  "numberOfUNames": 53
+ },
+ {
+  "_id": "2020-11-27",
+  "fights": 270,
+  "numberOfUNames": 44
+ },
+ {
+  "_id": "2020-11-28",
+  "fights": 404,
+  "numberOfUNames": 49
+ },
+ {
+  "_id": "2020-11-29",
+  "fights": 412,
+  "numberOfUNames": 41
+ },
+ {
+  "_id": "2020-11-30",
+  "fights": 192,
+  "numberOfUNames": 34
+ },
+ {
+  "_id": "2020-12-01",
+  "fights": 249,
+  "numberOfUNames": 27
+ },
+ {
+  "_id": "2020-12-02",
+  "fights": 176,
+  "numberOfUNames": 30
+ },
+ {
+  "_id": "2020-12-03",
+  "fights": 322,
+  "numberOfUNames": 38
+ },
+ {
+  "_id": "2020-12-04",
+  "fights": 243,
+  "numberOfUNames": 37
+ },
+ {
+  "_id": "2020-12-05",
+  "fights": 428,
+  "numberOfUNames": 43
+ },
+ {
+  "_id": "2020-12-06",
+  "fights": 342,
+  "numberOfUNames": 53
+ },
+ {
+  "_id": "2020-12-07",
+  "fights": 232,
+  "numberOfUNames": 34
+ },
+ {
+  "_id": "2020-12-08",
+  "fights": 238,
+  "numberOfUNames": 43
+ },
+ {
+  "_id": "2020-12-09",
+  "fights": 162,
+  "numberOfUNames": 35
+ },
+ {
+  "_id": "2020-12-10",
+  "fights": 130,
+  "numberOfUNames": 37
+ },
+ {
+  "_id": "2020-12-11",
+  "fights": 303,
+  "numberOfUNames": 37
+ },
+ {
+  "_id": "2020-12-12",
+  "fights": 197,
+  "numberOfUNames": 42
+ },
+ {
+  "_id": "2020-12-13",
+  "fights": 230,
+  "numberOfUNames": 49
+ },
+ {
+  "_id": "2020-12-14",
+  "fights": 177,
+  "numberOfUNames": 31
+ },
+ {
+  "_id": "2020-12-15",
+  "fights": 244,
+  "numberOfUNames": 37
+ },
+ {
+  "_id": "2020-12-16",
+  "fights": 197,
+  "numberOfUNames": 31
+ },
+ {
+  "_id": "2020-12-17",
+  "fights": 297,
+  "numberOfUNames": 38
+ },
+ {
+  "_id": "2020-12-18",
+  "fights": 350,
+  "numberOfUNames": 37
+ },
+ {
+  "_id": "2020-12-19",
+  "fights": 374,
+  "numberOfUNames": 52
+ },
+ {
+  "_id": "2020-12-20",
+  "fights": 227,
+  "numberOfUNames": 42
+ },
+ {
+  "_id": "2020-12-21",
+  "fights": 142,
+  "numberOfUNames": 35
+ },
+ {
+  "_id": "2020-12-22",
+  "fights": 299,
+  "numberOfUNames": 36
+ },
+ {
+  "_id": "2020-12-23",
+  "fights": 252,
+  "numberOfUNames": 32
+ },
+ {
+  "_id": "2020-12-24",
+  "fights": 191,
+  "numberOfUNames": 32
+ },
+ {
+  "_id": "2020-12-25",
+  "fights": 114,
+  "numberOfUNames": 24
+ },
+ {
+  "_id": "2020-12-26",
+  "fights": 377,
+  "numberOfUNames": 37
+ },
+ {
+  "_id": "2020-12-27",
+  "fights": 287,
+  "numberOfUNames": 41
+ },
+ {
+  "_id": "2020-12-28",
+  "fights": 273,
+  "numberOfUNames": 39
+ },
+ {
+  "_id": "2020-12-29",
+  "fights": 285,
+  "numberOfUNames": 37
+ },
+ {
+  "_id": "2020-12-30",
+  "fights": 412,
+  "numberOfUNames": 43
+ },
+ {
+  "_id": "2020-12-31",
+  "fights": 373,
+  "numberOfUNames": 43
+ },
+ {
+  "_id": "2021-01-01",
+  "fights": 438,
+  "numberOfUNames": 45
+ },
+ {
+  "_id": "2021-01-02",
+  "fights": 528,
+  "numberOfUNames": 49
+ },
+ {
+  "_id": "2021-01-03",
+  "fights": 237,
+  "numberOfUNames": 35
+ },
+ {
+  "_id": "2021-01-04",
+  "fights": 346,
+  "numberOfUNames": 46
+ },
+ {
+  "_id": "2021-01-05",
+  "fights": 246,
+  "numberOfUNames": 37
+ },
+ {
+  "_id": "2021-01-06",
+  "fights": 550,
+  "numberOfUNames": 38
+ },
+ {
+  "_id": "2021-01-07",
+  "fights": 411,
+  "numberOfUNames": 43
+ },
+ {
+  "_id": "2021-01-08",
+  "fights": 418,
+  "numberOfUNames": 43
+ },
+ {
+  "_id": "2021-01-09",
+  "fights": 547,
+  "numberOfUNames": 63
+ },
+ {
+  "_id": "2021-01-10",
+  "fights": 504,
+  "numberOfUNames": 62
+ },
+ {
+  "_id": "2021-01-11",
+  "fights": 530,
+  "numberOfUNames": 61
+ },
+ {
+  "_id": "2021-01-12",
+  "fights": 647,
+  "numberOfUNames": 45
+ },
+ {
+  "_id": "2021-01-13",
+  "fights": 471,
+  "numberOfUNames": 43
+ },
+ {
+  "_id": "2021-01-14",
+  "fights": 393,
+  "numberOfUNames": 61
+ },
+ {
+  "_id": "2021-01-15",
+  "fights": 505,
+  "numberOfUNames": 70
+ },
+ {
+  "_id": "2021-01-16",
+  "fights": 392,
+  "numberOfUNames": 59
+ },
+ {
+  "_id": "2021-01-17",
+  "fights": 661,
+  "numberOfUNames": 69
+ },
+ {
+  "_id": "2021-01-18",
+  "fights": 318,
+  "numberOfUNames": 58
+ },
+ {
+  "_id": "2021-01-19",
+  "fights": 445,
+  "numberOfUNames": 66
+ },
+ {
+  "_id": "2021-01-20",
+  "fights": 494,
+  "numberOfUNames": 48
+ },
+ {
+  "_id": "2021-01-21",
+  "fights": 595,
+  "numberOfUNames": 71
+ },
+ {
+  "_id": "2021-01-22",
+  "fights": 634,
+  "numberOfUNames": 66
+ },
+ {
+  "_id": "2021-01-23",
+  "fights": 812,
+  "numberOfUNames": 76
+ },
+ {
+  "_id": "2021-01-24",
+  "fights": 698,
+  "numberOfUNames": 83
+ },
+ {
+  "_id": "2021-01-25",
+  "fights": 495,
+  "numberOfUNames": 69
+ },
+ {
+  "_id": "2021-01-26",
+  "fights": 781,
+  "numberOfUNames": 69
+ },
+ {
+  "_id": "2021-01-27",
+  "fights": 553,
+  "numberOfUNames": 55
+ },
+ {
+  "_id": "2021-01-28",
+  "fights": 611,
+  "numberOfUNames": 65
+ },
+ {
+  "_id": "2021-01-29",
+  "fights": 839,
+  "numberOfUNames": 74
+ },
+ {
+  "_id": "2021-01-30",
+  "fights": 674,
+  "numberOfUNames": 67
+ },
+ {
+  "_id": "2021-01-31",
+  "fights": 843,
+  "numberOfUNames": 72
+ },
+ {
+  "_id": "2021-02-01",
+  "fights": 638,
+  "numberOfUNames": 68
+ },
+ {
+  "_id": "2021-02-02",
+  "fights": 515,
+  "numberOfUNames": 65
+ },
+ {
+  "_id": "2021-02-03",
+  "fights": 684,
+  "numberOfUNames": 72
+ },
+ {
+  "_id": "2021-02-04",
+  "fights": 510,
+  "numberOfUNames": 68
+ },
+ {
+  "_id": "2021-02-05",
+  "fights": 661,
+  "numberOfUNames": 80
+ },
+ {
+  "_id": "2021-02-06",
+  "fights": 648,
+  "numberOfUNames": 73
+ },
+ {
+  "_id": "2021-02-07",
+  "fights": 816,
+  "numberOfUNames": 96
+ },
+ {
+  "_id": "2021-02-08",
+  "fights": 362,
+  "numberOfUNames": 53
+ },
+ {
+  "_id": "2021-02-09",
+  "fights": 593,
+  "numberOfUNames": 68
+ },
+ {
+  "_id": "2021-02-10",
+  "fights": 740,
+  "numberOfUNames": 66
+ },
+ {
+  "_id": "2021-02-11",
+  "fights": 667,
+  "numberOfUNames": 77
+ },
+ {
+  "_id": "2021-02-12",
+  "fights": 642,
+  "numberOfUNames": 67
+ },
+ {
+  "_id": "2021-02-13",
+  "fights": 586,
+  "numberOfUNames": 69
+ },
+ {
+  "_id": "2021-02-14",
+  "fights": 369,
+  "numberOfUNames": 52
+ },
+ {
+  "_id": "2021-02-15",
+  "fights": 474,
+  "numberOfUNames": 69
+ },
+ {
+  "_id": "2021-02-16",
+  "fights": 408,
+  "numberOfUNames": 43
+ },
+ {
+  "_id": "2021-02-17",
+  "fights": 634,
+  "numberOfUNames": 73
+ },
+ {
+  "_id": "2021-02-18",
+  "fights": 587,
+  "numberOfUNames": 59
+ },
+ {
+  "_id": "2021-02-19",
+  "fights": 705,
+  "numberOfUNames": 82
+ },
+ {
+  "_id": "2021-02-20",
+  "fights": 648,
+  "numberOfUNames": 69
+ },
+ {
+  "_id": "2021-02-21",
+  "fights": 1151,
+  "numberOfUNames": 84
+ },
+ {
+  "_id": "2021-02-22",
+  "fights": 1062,
+  "numberOfUNames": 96
+ },
+ {
+  "_id": "2021-02-23",
+  "fights": 819,
+  "numberOfUNames": 66
+ },
+ {
+  "_id": "2021-02-24",
+  "fights": 573,
+  "numberOfUNames": 72
+ },
+ {
+  "_id": "2021-02-25",
+  "fights": 950,
+  "numberOfUNames": 88
+ },
+ {
+  "_id": "2021-02-26",
+  "fights": 625,
+  "numberOfUNames": 59
+ },
+ {
+  "_id": "2021-02-27",
+  "fights": 1116,
+  "numberOfUNames": 86
+ },
+ {
+  "_id": "2021-02-28",
+  "fights": 541,
+  "numberOfUNames": 61
+ },
+ {
+  "_id": "2021-03-01",
+  "fights": 530,
+  "numberOfUNames": 47
+ },
+ {
+  "_id": "2021-03-02",
+  "fights": 570,
+  "numberOfUNames": 69
+ },
+ {
+  "_id": "2021-03-03",
+  "fights": 521,
+  "numberOfUNames": 76
+ },
+ {
+  "_id": "2021-03-04",
+  "fights": 566,
+  "numberOfUNames": 54
+ },
+ {
+  "_id": "2021-03-05",
+  "fights": 485,
+  "numberOfUNames": 59
+ },
+ {
+  "_id": "2021-03-06",
+  "fights": 498,
+  "numberOfUNames": 50
+ },
+ {
+  "_id": "2021-03-07",
+  "fights": 643,
+  "numberOfUNames": 83
+ },
+ {
+  "_id": "2021-03-08",
+  "fights": 304,
+  "numberOfUNames": 40
+ },
+ {
+  "_id": "2021-03-09",
+  "fights": 454,
+  "numberOfUNames": 42
+ },
+ {
+  "_id": "2021-03-10",
+  "fights": 457,
+  "numberOfUNames": 63
+ },
+ {
+  "_id": "2021-03-11",
+  "fights": 353,
+  "numberOfUNames": 48
+ },
+ {
+  "_id": "2021-03-12",
+  "fights": 257,
+  "numberOfUNames": 41
+ },
+ {
+  "_id": "2021-03-13",
+  "fights": 326,
+  "numberOfUNames": 53
+ },
+ {
+  "_id": "2021-03-14",
+  "fights": 238,
+  "numberOfUNames": 35
+ },
+ {
+  "_id": "2021-03-15",
+  "fights": 181,
+  "numberOfUNames": 39
+ },
+ {
+  "_id": "2021-03-16",
+  "fights": 163,
+  "numberOfUNames": 35
+ },
+ {
+  "_id": "2021-03-17",
+  "fights": 383,
+  "numberOfUNames": 55
+ },
+ {
+  "_id": "2021-03-18",
+  "fights": 385,
+  "numberOfUNames": 47
+ },
+ {
+  "_id": "2021-03-19",
+  "fights": 370,
+  "numberOfUNames": 55
+ },
+ {
+  "_id": "2021-03-20",
+  "fights": 416,
+  "numberOfUNames": 59
+ },
+ {
+  "_id": "2021-03-21",
+  "fights": 306,
+  "numberOfUNames": 37
+ },
+ {
+  "_id": "2021-03-22",
+  "fights": 245,
+  "numberOfUNames": 51
+ },
+ {
+  "_id": "2021-03-23",
+  "fights": 354,
+  "numberOfUNames": 55
+ },
+ {
+  "_id": "2021-03-24",
+  "fights": 203,
+  "numberOfUNames": 36
+ },
+ {
+  "_id": "2021-03-25",
+  "fights": 317,
+  "numberOfUNames": 47
+ },
+ {
+  "_id": "2021-03-26",
+  "fights": 375,
+  "numberOfUNames": 44
+ },
+ {
+  "_id": "2021-03-27",
+  "fights": 406,
+  "numberOfUNames": 46
+ },
+ {
+  "_id": "2021-03-28",
+  "fights": 298,
+  "numberOfUNames": 46
+ },
+ {
+  "_id": "2021-03-29",
+  "fights": 421,
+  "numberOfUNames": 41
+ },
+ {
+  "_id": "2021-03-30",
+  "fights": 286,
+  "numberOfUNames": 43
+ },
+ {
+  "_id": "2021-03-31",
+  "fights": 327,
+  "numberOfUNames": 51
+ },
+ {
+  "_id": "2021-04-01",
+  "fights": 359,
+  "numberOfUNames": 48
+ },
+ {
+  "_id": "2021-04-02",
+  "fights": 369,
+  "numberOfUNames": 46
+ },
+ {
+  "_id": "2021-04-03",
+  "fights": 329,
+  "numberOfUNames": 41
+ },
+ {
+  "_id": "2021-04-04",
+  "fights": 199,
+  "numberOfUNames": 36
+ },
+ {
+  "_id": "2021-04-05",
+  "fights": 311,
+  "numberOfUNames": 36
+ },
+ {
+  "_id": "2021-04-06",
+  "fights": 215,
+  "numberOfUNames": 40
+ },
+ {
+  "_id": "2021-04-07",
+  "fights": 195,
+  "numberOfUNames": 41
+ },
+ {
+  "_id": "2021-04-08",
+  "fights": 152,
+  "numberOfUNames": 40
+ },
+ {
+  "_id": "2021-04-09",
+  "fights": 137,
+  "numberOfUNames": 31
+ },
+ {
+  "_id": "2021-04-10",
+  "fights": 267,
+  "numberOfUNames": 33
+ },
+ {
+  "_id": "2021-04-11",
+  "fights": 369,
+  "numberOfUNames": 35
+ },
+ {
+  "_id": "2021-04-12",
+  "fights": 163,
+  "numberOfUNames": 29
+ },
+ {
+  "_id": "2021-04-13",
+  "fights": 213,
+  "numberOfUNames": 25
+ },
+ {
+  "_id": "2021-04-14",
+  "fights": 99,
+  "numberOfUNames": 25
+ },
+ {
+  "_id": "2021-04-15",
+  "fights": 147,
+  "numberOfUNames": 24
+ },
+ {
+  "_id": "2021-04-16",
+  "fights": 193,
+  "numberOfUNames": 39
+ },
+ {
+  "_id": "2021-04-17",
+  "fights": 122,
+  "numberOfUNames": 22
+ },
+ {
+  "_id": "2021-04-18",
+  "fights": 73,
+  "numberOfUNames": 17
+ },
+ {
+  "_id": "2021-04-19",
+  "fights": 158,
+  "numberOfUNames": 32
+ },
+ {
+  "_id": "2021-04-20",
+  "fights": 158,
+  "numberOfUNames": 26
+ },
+ {
+  "_id": "2021-04-21",
+  "fights": 130,
+  "numberOfUNames": 14
+ },
+ {
+  "_id": "2021-04-22",
+  "fights": 230,
+  "numberOfUNames": 22
+ },
+ {
+  "_id": "2021-04-23",
+  "fights": 161,
+  "numberOfUNames": 18
+ },
+ {
+  "_id": "2021-04-24",
+  "fights": 99,
+  "numberOfUNames": 23
+ },
+ {
+  "_id": "2021-04-25",
+  "fights": 173,
+  "numberOfUNames": 25
+ },
+ {
+  "_id": "2021-04-26",
+  "fights": 78,
+  "numberOfUNames": 20
+ },
+ {
+  "_id": "2021-04-27",
+  "fights": 155,
+  "numberOfUNames": 19
+ },
+ {
+  "_id": "2021-04-28",
+  "fights": 83,
+  "numberOfUNames": 18
+ },
+ {
+  "_id": "2021-04-29",
+  "fights": 44,
+  "numberOfUNames": 15
+ },
+ {
+  "_id": "2021-04-30",
+  "fights": 28,
+  "numberOfUNames": 13
+ },
+ {
+  "_id": "2021-05-01",
+  "fights": 78,
+  "numberOfUNames": 19
+ },
+ {
+  "_id": "2021-05-02",
+  "fights": 99,
+  "numberOfUNames": 22
+ },
+ {
+  "_id": "2021-05-03",
+  "fights": 59,
+  "numberOfUNames": 17
+ },
+ {
+  "_id": "2021-05-04",
+  "fights": 73,
+  "numberOfUNames": 13
+ },
+ {
+  "_id": "2021-05-05",
+  "fights": 102,
+  "numberOfUNames": 21
+ },
+ {
+  "_id": "2021-05-06",
+  "fights": 105,
+  "numberOfUNames": 16
+ },
+ {
+  "_id": "2021-05-07",
+  "fights": 65,
+  "numberOfUNames": 25
+ },
+ {
+  "_id": "2021-05-08",
+  "fights": 89,
+  "numberOfUNames": 13
+ },
+ {
+  "_id": "2021-05-09",
+  "fights": 55,
+  "numberOfUNames": 18
+ },
+ {
+  "_id": "2021-05-10",
+  "fights": 130,
+  "numberOfUNames": 18
+ },
+ {
+  "_id": "2021-05-11",
+  "fights": 83,
+  "numberOfUNames": 23
+ },
+ {
+  "_id": "2021-05-12",
+  "fights": 146,
+  "numberOfUNames": 23
+ },
+ {
+  "_id": "2021-05-13",
+  "fights": 132,
+  "numberOfUNames": 15
+ },
+ {
+  "_id": "2021-05-14",
+  "fights": 152,
+  "numberOfUNames": 15
+ },
+ {
+  "_id": "2021-05-15",
+  "fights": 112,
+  "numberOfUNames": 18
+ },
+ {
+  "_id": "2021-05-16",
+  "fights": 105,
+  "numberOfUNames": 19
+ },
+ {
+  "_id": "2021-05-17",
+  "fights": 259,
+  "numberOfUNames": 24
+ },
+ {
+  "_id": "2021-05-18",
+  "fights": 175,
+  "numberOfUNames": 15
+ },
+ {
+  "_id": "2021-05-19",
+  "fights": 98,
+  "numberOfUNames": 19
+ },
+ {
+  "_id": "2021-05-20",
+  "fights": 122,
+  "numberOfUNames": 22
+ },
+ {
+  "_id": "2021-05-21",
+  "fights": 78,
+  "numberOfUNames": 19
+ },
+ {
+  "_id": "2021-05-22",
+  "fights": 183,
+  "numberOfUNames": 30
+ },
+ {
+  "_id": "2021-05-23",
+  "fights": 95,
+  "numberOfUNames": 10
+ },
+ {
+  "_id": "2021-05-24",
+  "fights": 99,
+  "numberOfUNames": 15
+ },
+ {
+  "_id": "2021-05-25",
+  "fights": 151,
+  "numberOfUNames": 13
+ },
+ {
+  "_id": "2021-05-26",
+  "fights": 153,
+  "numberOfUNames": 19
+ },
+ {
+  "_id": "2021-05-27",
+  "fights": 172,
+  "numberOfUNames": 17
+ },
+ {
+  "_id": "2021-05-28",
+  "fights": 181,
+  "numberOfUNames": 23
+ },
+ {
+  "_id": "2021-05-29",
+  "fights": 77,
+  "numberOfUNames": 17
+ },
+ {
+  "_id": "2021-05-30",
+  "fights": 21,
+  "numberOfUNames": 8
+ },
+ {
+  "_id": "2021-05-31",
+  "fights": 176,
+  "numberOfUNames": 25
+ },
+ {
+  "_id": "2021-06-01",
+  "fights": 122,
+  "numberOfUNames": 13
+ },
+ {
+  "_id": "2021-06-02",
+  "fights": 32,
+  "numberOfUNames": 10
+ },
+ {
+  "_id": "2021-06-03",
+  "fights": 30,
+  "numberOfUNames": 11
+ },
+ {
+  "_id": "2021-06-04",
+  "fights": 13,
+  "numberOfUNames": 10
+ },
+ {
+  "_id": "2021-06-05",
+  "fights": 33,
+  "numberOfUNames": 13
+ },
+ {
+  "_id": "2021-06-06",
+  "fights": 59,
+  "numberOfUNames": 13
+ },
+ {
+  "_id": "2021-06-07",
+  "fights": 92,
+  "numberOfUNames": 18
+ },
+ {
+  "_id": "2021-06-08",
+  "fights": 95,
+  "numberOfUNames": 18
+ },
+ {
+  "_id": "2021-06-09",
+  "fights": 67,
+  "numberOfUNames": 14
+ },
+ {
+  "_id": "2021-06-10",
+  "fights": 56,
+  "numberOfUNames": 17
+ },
+ {
+  "_id": "2021-06-11",
+  "fights": 55,
+  "numberOfUNames": 12
+ },
+ {
+  "_id": "2021-06-12",
+  "fights": 147,
+  "numberOfUNames": 23
+ },
+ {
+  "_id": "2021-06-13",
+  "fights": 137,
+  "numberOfUNames": 24
+ },
+ {
+  "_id": "2021-06-14",
+  "fights": 147,
+  "numberOfUNames": 23
+ },
+ {
+  "_id": "2021-06-15",
+  "fights": 69,
+  "numberOfUNames": 18
+ },
+ {
+  "_id": "2021-06-16",
+  "fights": 29,
+  "numberOfUNames": 15
+ },
+ {
+  "_id": "2021-06-17",
+  "fights": 66,
+  "numberOfUNames": 20
+ },
+ {
+  "_id": "2021-06-18",
+  "fights": 93,
+  "numberOfUNames": 20
+ },
+ {
+  "_id": "2021-06-19",
+  "fights": 117,
+  "numberOfUNames": 29
+ },
+ {
+  "_id": "2021-06-20",
+  "fights": 91,
+  "numberOfUNames": 25
+ },
+ {
+  "_id": "2021-06-21",
+  "fights": 63,
+  "numberOfUNames": 12
+ },
+ {
+  "_id": "2021-06-22",
+  "fights": 111,
+  "numberOfUNames": 19
+ },
+ {
+  "_id": "2021-06-23",
+  "fights": 24,
+  "numberOfUNames": 13
+ },
+ {
+  "_id": "2021-06-24",
+  "fights": 102,
+  "numberOfUNames": 17
+ },
+ {
+  "_id": "2021-06-25",
+  "fights": 60,
+  "numberOfUNames": 15
+ },
+ {
+  "_id": "2021-06-26",
+  "fights": 8,
+  "numberOfUNames": 4
+ },
+ {
+  "_id": "2021-06-27",
+  "fights": 39,
+  "numberOfUNames": 19
+ },
+ {
+  "_id": "2021-06-28",
+  "fights": 72,
+  "numberOfUNames": 20
+ },
+ {
+  "_id": "2021-06-29",
+  "fights": 65,
+  "numberOfUNames": 22
+ },
+ {
+  "_id": "2021-06-30",
+  "fights": 38,
+  "numberOfUNames": 21
+ },
+ {
+  "_id": "2021-07-01",
+  "fights": 93,
+  "numberOfUNames": 21
+ },
+ {
+  "_id": "2021-07-02",
+  "fights": 32,
+  "numberOfUNames": 14
+ },
+ {
+  "_id": "2021-07-03",
+  "fights": 62,
+  "numberOfUNames": 15
+ },
+ {
+  "_id": "2021-07-04",
+  "fights": 36,
+  "numberOfUNames": 17
+ },
+ {
+  "_id": "2021-07-05",
+  "fights": 71,
+  "numberOfUNames": 28
+ },
+ {
+  "_id": "2021-07-06",
+  "fights": 61,
+  "numberOfUNames": 24
+ },
+ {
+  "_id": "2021-07-07",
+  "fights": 37,
+  "numberOfUNames": 17
+ },
+ {
+  "_id": "2021-07-08",
+  "fights": 44,
+  "numberOfUNames": 17
+ },
+ {
+  "_id": "2021-07-09",
+  "fights": 108,
+  "numberOfUNames": 20
+ },
+ {
+  "_id": "2021-07-10",
+  "fights": 133,
+  "numberOfUNames": 22
+ },
+ {
+  "_id": "2021-07-11",
+  "fights": 77,
+  "numberOfUNames": 16
+ },
+ {
+  "_id": "2021-07-12",
+  "fights": 61,
+  "numberOfUNames": 16
+ },
+ {
+  "_id": "2021-07-13",
+  "fights": 31,
+  "numberOfUNames": 14
+ },
+ {
+  "_id": "2021-07-14",
+  "fights": 107,
+  "numberOfUNames": 25
+ },
+ {
+  "_id": "2021-07-15",
+  "fights": 73,
+  "numberOfUNames": 14
+ },
+ {
+  "_id": "2021-07-16",
+  "fights": 28,
+  "numberOfUNames": 10
+ },
+ {
+  "_id": "2021-07-17",
+  "fights": 60,
+  "numberOfUNames": 12
+ },
+ {
+  "_id": "2021-07-18",
+  "fights": 109,
+  "numberOfUNames": 21
+ },
+ {
+  "_id": "2021-07-19",
+  "fights": 149,
+  "numberOfUNames": 20
+ },
+ {
+  "_id": "2021-07-20",
+  "fights": 51,
+  "numberOfUNames": 11
+ },
+ {
+  "_id": "2021-07-21",
+  "fights": 57,
+  "numberOfUNames": 14
+ },
+ {
+  "_id": "2021-07-22",
+  "fights": 67,
+  "numberOfUNames": 19
+ },
+ {
+  "_id": "2021-07-23",
+  "fights": 116,
+  "numberOfUNames": 18
+ },
+ {
+  "_id": "2021-07-24",
+  "fights": 70,
+  "numberOfUNames": 23
+ },
+ {
+  "_id": "2021-07-25",
+  "fights": 76,
+  "numberOfUNames": 14
+ },
+ {
+  "_id": "2021-07-26",
+  "fights": 47,
+  "numberOfUNames": 15
+ },
+ {
+  "_id": "2021-07-27",
+  "fights": 28,
+  "numberOfUNames": 14
+ },
+ {
+  "_id": "2021-07-28",
+  "fights": 12,
+  "numberOfUNames": 6
+ },
+ {
+  "_id": "2021-07-29",
+  "fights": 59,
+  "numberOfUNames": 12
+ },
+ {
+  "_id": "2021-07-30",
+  "fights": 60,
+  "numberOfUNames": 16
+ },
+ {
+  "_id": "2021-07-31",
+  "fights": 20,
+  "numberOfUNames": 11
+ },
+ {
+  "_id": "2021-08-01",
+  "fights": 105,
+  "numberOfUNames": 21
+ },
+ {
+  "_id": "2021-08-02",
+  "fights": 156,
+  "numberOfUNames": 27
+ },
+ {
+  "_id": "2021-08-03",
+  "fights": 93,
+  "numberOfUNames": 19
+ },
+ {
+  "_id": "2021-08-04",
+  "fights": 54,
+  "numberOfUNames": 11
+ },
+ {
+  "_id": "2021-08-05",
+  "fights": 25,
+  "numberOfUNames": 14
+ },
+ {
+  "_id": "2021-08-06",
+  "fights": 44,
+  "numberOfUNames": 14
+ },
+ {
+  "_id": "2021-08-07",
+  "fights": 98,
+  "numberOfUNames": 23
+ },
+ {
+  "_id": "2021-08-08",
+  "fights": 115,
+  "numberOfUNames": 35
+ },
+ {
+  "_id": "2021-08-09",
+  "fights": 46,
+  "numberOfUNames": 20
+ },
+ {
+  "_id": "2021-08-10",
+  "fights": 59,
+  "numberOfUNames": 24
+ },
+ {
+  "_id": "2021-08-11",
+  "fights": 87,
+  "numberOfUNames": 21
+ },
+ {
+  "_id": "2021-08-12",
+  "fights": 64,
+  "numberOfUNames": 19
+ },
+ {
+  "_id": "2021-08-13",
+  "fights": 190,
+  "numberOfUNames": 29
+ },
+ {
+  "_id": "2021-08-14",
+  "fights": 183,
+  "numberOfUNames": 29
+ },
+ {
+  "_id": "2021-08-15",
+  "fights": 69,
+  "numberOfUNames": 24
+ },
+ {
+  "_id": "2021-08-16",
+  "fights": 165,
+  "numberOfUNames": 29
+ },
+ {
+  "_id": "2021-08-17",
+  "fights": 184,
+  "numberOfUNames": 28
+ },
+ {
+  "_id": "2021-08-18",
+  "fights": 71,
+  "numberOfUNames": 30
+ },
+ {
+  "_id": "2021-08-19",
+  "fights": 102,
+  "numberOfUNames": 27
+ },
+ {
+  "_id": "2021-08-20",
+  "fights": 208,
+  "numberOfUNames": 39
+ },
+ {
+  "_id": "2021-08-21",
+  "fights": 258,
+  "numberOfUNames": 39
+ },
+ {
+  "_id": "2021-08-22",
+  "fights": 159,
+  "numberOfUNames": 31
+ },
+ {
+  "_id": "2021-08-23",
+  "fights": 199,
+  "numberOfUNames": 35
+ },
+ {
+  "_id": "2021-08-24",
+  "fights": 107,
+  "numberOfUNames": 24
+ },
+ {
+  "_id": "2021-08-25",
+  "fights": 102,
+  "numberOfUNames": 27
+ },
+ {
+  "_id": "2021-08-26",
+  "fights": 159,
+  "numberOfUNames": 34
+ },
+ {
+  "_id": "2021-08-27",
+  "fights": 209,
+  "numberOfUNames": 31
+ },
+ {
+  "_id": "2021-08-28",
+  "fights": 179,
+  "numberOfUNames": 25
+ },
+ {
+  "_id": "2021-08-29",
+  "fights": 84,
+  "numberOfUNames": 26
+ },
+ {
+  "_id": "2021-08-30",
+  "fights": 116,
+  "numberOfUNames": 28
+ },
+ {
+  "_id": "2021-08-31",
+  "fights": 156,
+  "numberOfUNames": 28
+ },
+ {
+  "_id": "2021-09-01",
+  "fights": 102,
+  "numberOfUNames": 31
+ },
+ {
+  "_id": "2021-09-02",
+  "fights": 122,
+  "numberOfUNames": 33
+ },
+ {
+  "_id": "2021-09-03",
+  "fights": 151,
+  "numberOfUNames": 32
+ },
+ {
+  "_id": "2021-09-04",
+  "fights": 265,
+  "numberOfUNames": 30
+ },
+ {
+  "_id": "2021-09-05",
+  "fights": 176,
+  "numberOfUNames": 45
+ },
+ {
+  "_id": "2021-09-06",
+  "fights": 200,
+  "numberOfUNames": 32
+ },
+ {
+  "_id": "2021-09-07",
+  "fights": 34,
+  "numberOfUNames": 15
+ },
+ {
+  "_id": "2021-09-08",
+  "fights": 133,
+  "numberOfUNames": 25
+ },
+ {
+  "_id": "2021-09-09",
+  "fights": 194,
+  "numberOfUNames": 28
+ },
+ {
+  "_id": "2021-09-10",
+  "fights": 60,
+  "numberOfUNames": 22
+ },
+ {
+  "_id": "2021-09-11",
+  "fights": 164,
+  "numberOfUNames": 21
+ },
+ {
+  "_id": "2021-09-12",
+  "fights": 134,
+  "numberOfUNames": 29
+ },
+ {
+  "_id": "2021-09-13",
+  "fights": 272,
+  "numberOfUNames": 39
+ },
+ {
+  "_id": "2021-09-14",
+  "fights": 158,
+  "numberOfUNames": 24
+ },
+ {
+  "_id": "2021-09-15",
+  "fights": 307,
+  "numberOfUNames": 40
+ },
+ {
+  "_id": "2021-09-16",
+  "fights": 240,
+  "numberOfUNames": 37
+ },
+ {
+  "_id": "2021-09-17",
+  "fights": 200,
+  "numberOfUNames": 22
+ },
+ {
+  "_id": "2021-09-18",
+  "fights": 305,
+  "numberOfUNames": 36
+ },
+ {
+  "_id": "2021-09-19",
+  "fights": 243,
+  "numberOfUNames": 37
+ },
+ {
+  "_id": "2021-09-20",
+  "fights": 291,
+  "numberOfUNames": 38
+ },
+ {
+  "_id": "2021-09-21",
+  "fights": 222,
+  "numberOfUNames": 40
+ },
+ {
+  "_id": "2021-09-22",
+  "fights": 382,
+  "numberOfUNames": 60
+ },
+ {
+  "_id": "2021-09-23",
+  "fights": 364,
+  "numberOfUNames": 49
+ },
+ {
+  "_id": "2021-09-24",
+  "fights": 425,
+  "numberOfUNames": 58
+ },
+ {
+  "_id": "2021-09-25",
+  "fights": 449,
+  "numberOfUNames": 50
+ },
+ {
+  "_id": "2021-09-26",
+  "fights": 303,
+  "numberOfUNames": 51
+ },
+ {
+  "_id": "2021-09-27",
+  "fights": 350,
+  "numberOfUNames": 54
+ },
+ {
+  "_id": "2021-09-28",
+  "fights": 256,
+  "numberOfUNames": 33
+ },
+ {
+  "_id": "2021-09-29",
+  "fights": 257,
+  "numberOfUNames": 44
+ },
+ {
+  "_id": "2021-09-30",
+  "fights": 229,
+  "numberOfUNames": 36
+ },
+ {
+  "_id": "2021-10-01",
+  "fights": 173,
+  "numberOfUNames": 27
+ },
+ {
+  "_id": "2021-10-02",
+  "fights": 190,
+  "numberOfUNames": 36
+ },
+ {
+  "_id": "2021-10-03",
+  "fights": 275,
+  "numberOfUNames": 49
+ },
+ {
+  "_id": "2021-10-04",
+  "fights": 177,
+  "numberOfUNames": 43
+ },
+ {
+  "_id": "2021-10-05",
+  "fights": 127,
+  "numberOfUNames": 23
+ },
+ {
+  "_id": "2021-10-06",
+  "fights": 256,
+  "numberOfUNames": 31
+ },
+ {
+  "_id": "2021-10-07",
+  "fights": 368,
+  "numberOfUNames": 52
+ },
+ {
+  "_id": "2021-10-08",
+  "fights": 351,
+  "numberOfUNames": 62
+ },
+ {
+  "_id": "2021-10-09",
+  "fights": 281,
+  "numberOfUNames": 52
+ },
+ {
+  "_id": "2021-10-10",
+  "fights": 156,
+  "numberOfUNames": 28
+ },
+ {
+  "_id": "2021-10-11",
+  "fights": 191,
+  "numberOfUNames": 41
+ },
+ {
+  "_id": "2021-10-12",
+  "fights": 213,
+  "numberOfUNames": 34
+ },
+ {
+  "_id": "2021-10-13",
+  "fights": 34,
+  "numberOfUNames": 14
+ },
+ {
+  "_id": "2021-10-14",
+  "fights": 30,
+  "numberOfUNames": 9
+ },
+ {
+  "_id": "2021-10-15",
+  "fights": 309,
+  "numberOfUNames": 41
+ },
+ {
+  "_id": "2021-10-16",
+  "fights": 195,
+  "numberOfUNames": 30
+ },
+ {
+  "_id": "2021-10-17",
+  "fights": 275,
+  "numberOfUNames": 27
+ },
+ {
+  "_id": "2021-10-18",
+  "fights": 137,
+  "numberOfUNames": 22
+ },
+ {
+  "_id": "2021-10-19",
+  "fights": 163,
+  "numberOfUNames": 22
+ },
+ {
+  "_id": "2021-10-20",
+  "fights": 174,
+  "numberOfUNames": 30
+ },
+ {
+  "_id": "2021-10-21",
+  "fights": 235,
+  "numberOfUNames": 34
+ },
+ {
+  "_id": "2021-10-22",
+  "fights": 139,
+  "numberOfUNames": 25
+ },
+ {
+  "_id": "2021-10-23",
+  "fights": 117,
+  "numberOfUNames": 31
+ },
+ {
+  "_id": "2021-10-24",
+  "fights": 302,
+  "numberOfUNames": 36
+ },
+ {
+  "_id": "2021-10-25",
+  "fights": 150,
+  "numberOfUNames": 34
+ },
+ {
+  "_id": "2021-10-26",
+  "fights": 184,
+  "numberOfUNames": 27
+ },
+ {
+  "_id": "2021-10-27",
+  "fights": 100,
+  "numberOfUNames": 22
+ },
+ {
+  "_id": "2021-10-28",
+  "fights": 95,
+  "numberOfUNames": 24
+ },
+ {
+  "_id": "2021-10-29",
+  "fights": 144,
+  "numberOfUNames": 29
+ },
+ {
+  "_id": "2021-10-30",
+  "fights": 375,
+  "numberOfUNames": 41
+ },
+ {
+  "_id": "2021-10-31",
+  "fights": 98,
+  "numberOfUNames": 26
+ },
+ {
+  "_id": "2021-11-01",
+  "fights": 206,
+  "numberOfUNames": 35
+ },
+ {
+  "_id": "2021-11-02",
+  "fights": 170,
+  "numberOfUNames": 26
+ },
+ {
+  "_id": "2021-11-03",
+  "fights": 249,
+  "numberOfUNames": 29
+ },
+ {
+  "_id": "2021-11-04",
+  "fights": 218,
+  "numberOfUNames": 39
+ },
+ {
+  "_id": "2021-11-05",
+  "fights": 135,
+  "numberOfUNames": 22
+ },
+ {
+  "_id": "2021-11-06",
+  "fights": 206,
+  "numberOfUNames": 38
+ },
+ {
+  "_id": "2021-11-07",
+  "fights": 188,
+  "numberOfUNames": 29
+ },
+ {
+  "_id": "2021-11-08",
+  "fights": 128,
+  "numberOfUNames": 24
+ },
+ {
+  "_id": "2021-11-09",
+  "fights": 153,
+  "numberOfUNames": 30
+ },
+ {
+  "_id": "2021-11-10",
+  "fights": 162,
+  "numberOfUNames": 33
+ },
+ {
+  "_id": "2021-11-11",
+  "fights": 149,
+  "numberOfUNames": 24
+ },
+ {
+  "_id": "2021-11-12",
+  "fights": 172,
+  "numberOfUNames": 30
+ },
+ {
+  "_id": "2021-11-13",
+  "fights": 95,
+  "numberOfUNames": 26
+ },
+ {
+  "_id": "2021-11-14",
+  "fights": 153,
+  "numberOfUNames": 34
+ },
+ {
+  "_id": "2021-11-15",
+  "fights": 76,
+  "numberOfUNames": 23
+ },
+ {
+  "_id": "2021-11-16",
+  "fights": 38,
+  "numberOfUNames": 8
+ },
+ {
+  "_id": "2021-11-17",
+  "fights": 48,
+  "numberOfUNames": 17
+ },
+ {
+  "_id": "2021-11-18",
+  "fights": 42,
+  "numberOfUNames": 9
+ },
+ {
+  "_id": "2021-11-19",
+  "fights": 117,
+  "numberOfUNames": 25
+ },
+ {
+  "_id": "2021-11-20",
+  "fights": 2,
+  "numberOfUNames": 3
+ },
+ {
+  "_id": "2021-11-21",
+  "fights": 99,
+  "numberOfUNames": 25
+ },
+ {
+  "_id": "2021-11-22",
+  "fights": 116,
+  "numberOfUNames": 21
+ },
+ {
+  "_id": "2021-11-23",
+  "fights": 36,
+  "numberOfUNames": 17
+ },
+ {
+  "_id": "2021-11-24",
+  "fights": 73,
+  "numberOfUNames": 24
+ },
+ {
+  "_id": "2021-11-25",
+  "fights": 50,
+  "numberOfUNames": 14
+ },
+ {
+  "_id": "2021-11-26",
+  "fights": 71,
+  "numberOfUNames": 18
+ },
+ {
+  "_id": "2021-11-27",
+  "fights": 97,
+  "numberOfUNames": 31
+ },
+ {
+  "_id": "2021-11-28",
+  "fights": 63,
+  "numberOfUNames": 19
+ },
+ {
+  "_id": "2021-11-29",
+  "fights": 18,
+  "numberOfUNames": 15
+ }
+]

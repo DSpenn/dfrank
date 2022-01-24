@@ -2,7 +2,7 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import { ApolloProvider, ApolloClient, HttpLink, from, InMemoryCache } from '@apollo/client';
 import { onError } from "@apollo/client/link/error";
 import './App.css';
-import Home from './pages/Home.js';
+import CirclePackRank from './pages/CirclePackRank.js';
 import Recent from './pages/Recent.js';
 import LeaderBoard from './pages/LeaderBoard.js';
 import CharacterView from './pages/CharacterView';
@@ -57,8 +57,8 @@ function App() {
       <div>
         <Nav />
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/Home" element={<Home />} />
+          <Route path="/" element={<Timeline />} />
+          <Route path="/CirclePackRank" element={<CirclePackRank />} />
           <Route path="/Recent" element={<Recent />} />
           <Route path="/LeaderBoard" element={<LeaderBoard />} />
           <Route path="/Timeline" element={<Timeline />} />

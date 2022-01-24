@@ -2,7 +2,7 @@ import { useQuery } from '@apollo/client';
 import { QUERY_CHARRANK } from '../utils/queries';
 import CirclePackingRank from '../components/CirclePackingRank';
 
-const Home = () => {
+const CirclePackRank = () => {
   const { loading, error, data } = useQuery(QUERY_CHARRANK, {
   });
   if (error) {
@@ -24,5 +24,5 @@ const Home = () => {
   );
 };
 
-export default Home;
+export default CirclePackRank;
 

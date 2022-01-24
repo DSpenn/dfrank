@@ -41,7 +41,7 @@ export default function PositionedMenu() {
           horizontal: 'left',
         }}
       >
-        <MenuItem onClick={handleClose}> <Link to="/Home">Home</Link></MenuItem>
+        <MenuItem onClick={handleClose}> <Link to="/CirclePackRank">CirclePackRank</Link></MenuItem>
         <MenuItem onClick={handleClose}> <Link to="/Recent">Recent</Link></MenuItem>
         <MenuItem onClick={handleClose}> <Link to="/LeaderBoard">LeaderBoard</Link></MenuItem>
         <MenuItem onClick={handleClose}> <Link to="/Character">Characters</Link></MenuItem>

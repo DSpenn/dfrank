@@ -13,9 +13,6 @@ function Timeline(props) {
 // https://www.amcharts.com/docs/v5/getting-started/#Root_element
 let root = am5.Root.new("chartdiv");
 
-
-
-
 // https://www.amcharts.com/docs/v5/concepts/themes/
 root.setThemes([
   am5themes_Responsive.new(root),
@@ -8471,7 +8468,7 @@ series.bullets.push(function() {
 
 bulletTemplate.events.on("click", function(ev) {
   console.log("Clicked on a bullet", ev.target.dataItem.dataContext);
-  console.log(Date.parse(ev.target.dataItem.dataContext.date));
+  console.log(new Date(ev.target.dataItem.dataContext.date));
 });
 
 
