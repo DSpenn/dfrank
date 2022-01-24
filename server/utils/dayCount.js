@@ -36,8 +36,9 @@ db.once('open', async () => {
       },
     },
     {
+      
       '$project':{
-        'uNames':{'$concatArrays':['$winners','$loosers']},
+        'uNames':{'$setUnion':['$winners','$loosers']},
         'fights': 1
     }
   },
@@ -45,7 +46,7 @@ db.once('open', async () => {
     '$project':{
       'numberOfUNames': {
       '$size': '$uNames'},
-      'fights': 1
+      'fights': 1,
   }
 },
     {
