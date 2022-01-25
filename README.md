@@ -1,75 +1,51 @@
 
 [https://dfrank.herokuapp.com/](https://dfrank.herokuapp.com/)
 
+## Description
+
+Archive, timeline, and attempted elo ranking for Darkfall rise of agon metrics player kill/death ratio.
+[https://www.riseofagon.com/ ](https://www.riseofagon.com/ ).
+
+I created this out of curiosity, player kill/death / win/loss data is publicly available here [https://www.riseofagon.com/agonmetrics/pvp/global](https://www.riseofagon.com/agonmetrics/pvp/global/).
+I wanted more than 21,666 pages of data. 
+
+
+
+1,670 days May 5, 2017 - November 30, 2021
+unfortunately as of November 30th 2021 the metrics website is no longer updating data. 
+
+
+## Features
+```
+[X] mui datagrid for every character 
+[X] Timeline of game's activity levels based on fight count and unique name count
+[X] Searching for a character 
+```
+
+
+## Rankings 
+the Elo rankings should be taken with a grain of salt, 
+ After 60 days of inactivity a character goes to storage, their name on the metrics becomes "missing no. "
+      if they ever log in again, the 'lost data' changes from "missing no." to whatever their name was/is.
+      As of 11/30/21 about half the fights involve a 'missing no.' character 
+
+<details>
+  <summary> is it really that bad? </summary> 
+
+  ```
+  Global PVP kill count 916,385
+  Global PVP gank count 166,883
+                total 1,033,268
+{ "winnerName" : /.*missingno.*/ }         526,167
+{ "loserName" : /.*missingno.*/ }          602,367
+ ```
+</details>
+
 ### Packages used
 
 ```md
-apollo-server-express, apollo/client, graphql, 
+apollo-server-express, apollo/client, graphql, mongoose
 react, react-dom, react-router-dom, react-scripts.
-mongoose, mongodb-js/charts-embed-dom
 mui/material, mui/x-data-grid
 arpad, dotenv
 ```
-
-1,665 days May 5, 2017 - November 25, 2021
-
-
-## TODO
-
-('-__v') exclude version key
-  //mongoose.set('debug', true);
-
-
-[] figure out grouping searches
-
-    "graphql": "experimental-stream-defer",
-
-
-### Problems
-
-[] Renaming the fields
-timeOf = t
-winnerName = wN
-loserName = lN
-winnerClan = wC
-loserClan = lC
-killorGank = kg
-killNumber = kN
-loserRank = lR
-winnerRank = wR
-before avg doc size:231.2B total 250.4 MB
-after. avg doc size:163.2B total 176.7 MB
-
-
-## performance
-  ?useGETForQueries: slightly faster?
-  
-
-
-## Things to remember
-
-[options.timestamps=null] «Boolean» If set to false and schema-level timestamps are enabled, skip timestamps for this update. Note that this allows you to overwrite timestamps. Does nothing if schema-level timestamps are not set.
-
- unique_data = [...new Set(someVar)];
- -- may want to remove default buildpack from heroku
-
- ## Heroku
-runs install > runs build > start
-- sets production by default
-prunes dev dep's in production
-
-## Mongo mongoose
-mongoose.set('debug', true);
-the $unwind operator requires the path name to start with '$'. Mongoose will prepend '$' if the specified field doesn't start '$'.
-### id && _id
-id is a virtual string version of _id.
-both are enabled by default.
-
-
-### Lists/Arrays Mongo/mongoose
-$addToSet does NOT add the list/array if it already contains it,
-$push will add the given object to field whether it exists or not.
-
-## Mongo Schema order matters
-
-A Procfile is not required to run Apollo Server on Heroku. If you don't provide a Procfile, attempts to run the start script that's defined in your root package.json file.
