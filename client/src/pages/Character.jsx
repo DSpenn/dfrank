@@ -43,7 +43,7 @@ function CharacterSearch() {
             <li>{character.name}</li></Link>
           ))
         ) : (
-          <h1>No results found!</h1>
+          <h1>No results found</h1>
         )}
       </div>
     </div>

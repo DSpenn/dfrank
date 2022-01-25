@@ -8,6 +8,7 @@ const MyDataGrid = ({ fights }) => {
       field: 'timeOf',
       headerName: 'Time',
       type: 'dateTime',
+      valueGetter: ({ value }) => value && new Date(value),
       flex: 1,
     },
     {
@@ -49,6 +50,7 @@ const MyDataGrid = ({ fights }) => {
       flex: .5,
     },
   ];
+
   const rows = fights.map(fight => ({
     id: fight._id,
     timeOf: new Date(fight.timeOf).toLocaleString(),
