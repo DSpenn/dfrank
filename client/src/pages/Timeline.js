@@ -8370,8 +8370,6 @@ let chart = root.container.children.push(am5xy.XYChart.new(root, {
   wheelY: "zoomX"
 }));
 
-
-
 // https://www.amcharts.com/docs/v5/charts/xy-chart/axes/
 let xAxis = chart.xAxes.push(am5xy.DateAxis.new(root, {
   maxDeviation: 0.1,
@@ -8470,7 +8468,6 @@ bulletTemplate.events.on("click", function(ev) {
   console.log("Clicked on a bullet", ev.target.dataItem.dataContext);
   console.log(new Date(ev.target.dataItem.dataContext.date));
 });
-
 
 
 // https://www.amcharts.com/docs/v5/charts/xy-chart/cursor/
