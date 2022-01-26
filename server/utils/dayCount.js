@@ -31,8 +31,8 @@ db.once('open', async () => {
         'fights': {
           '$sum': 1
         },
-        'winners': {'$addToSet': '$winnerName'},
-        'loosers': {'$addToSet': '$loserName'},
+        'winners': {'$addToSet': { '$concat': [ "$winnerName", " ", "$winnerClan" ] }},
+        'loosers': {'$addToSet': { '$concat': [ "$loserName", " ", "$loserClan" ] }},
       },
     },
     {
