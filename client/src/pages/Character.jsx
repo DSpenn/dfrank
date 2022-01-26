@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { useQuery } from '@apollo/client';
 import { Link } from 'react-router-dom';
 import { QUERY_CHARACTERS } from '../utils/queries';
@@ -7,6 +7,13 @@ function CharacterSearch() {
   const { loading, error, data } = useQuery(QUERY_CHARACTERS);
   const characters = data?.characters || [];
   
+
+  useEffect(() => {
+    if (characters) {
+      setFoundChar(characters)  
+    }
+  }, [characters])
+
   const [name, setName] = useState('');
 
   const [foundChar, setFoundChar] = useState(characters);
@@ -27,6 +34,9 @@ function CharacterSearch() {
   };
 
   return (
+    loading ? (
+      <div>Loading...</div>
+    ) : (
     <div className="container">
       <input
         type="search"
@@ -35,8 +45,7 @@ function CharacterSearch() {
         className="input"
         placeholder="Filter"
       />
-
-      <div className="character-list">
+      <div className="character-list" style={{ width: '95%', height: '95%', margin: 'auto', padding: '16px', }}>
         {foundChar && foundChar.length > 0 ? (
           foundChar.map((character) => (
             <Link key={character._id} to={`/character/${character._id}`}>
@@ -47,7 +56,7 @@ function CharacterSearch() {
         )}
       </div>
     </div>
-  );
+  ));
 }
 
 export default CharacterSearch;

@@ -31,7 +31,7 @@ const LeaderBoard = () => {
                     <td>{row.name}</td>
                     <Link key={row._id} to={`/character/${row._id}`}>
                     <td>{row.rank}</td></Link>
-                    <td>{row.clans}</td>
+                    <td>{row.clans.join('  ')}</td>
                   </tr>
                 ))}
               </tbody>
