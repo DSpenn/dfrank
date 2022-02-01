@@ -6,11 +6,11 @@ import { QUERY_CHARACTERS } from '../utils/queries';
 function CharacterSearch() {
   const { loading, error, data } = useQuery(QUERY_CHARACTERS);
   const characters = data?.characters || [];
-  
+
 
   useEffect(() => {
     if (characters) {
-      setFoundChar(characters)  
+      setFoundChar(characters)
     }
   }, [characters])
 
@@ -37,26 +37,26 @@ function CharacterSearch() {
     loading ? (
       <div>Loading...</div>
     ) : (
-    <div className="container">
-      <input
-        type="search"
-        value={name}
-        onChange={filter}
-        className="input"
-        placeholder="Filter"
-      />
-      <div className="character-list" style={{ width: '95%', height: '95%', margin: 'auto', padding: '16px', }}>
-        {foundChar && foundChar.length > 0 ? (
-          foundChar.map((character) => (
-            <Link key={character._id} to={`/character/${character._id}`}>
-            <li>{character.name}</li></Link>
-          ))
-        ) : (
-          <h1>No results found</h1>
-        )}
+      <div className="container">
+        <input
+          type="search"
+          value={name}
+          onChange={filter}
+          className="input"
+          placeholder="Filter"
+        />
+        <div className="character-list" style={{ width: '95%', height: '95%', margin: 'auto', padding: '16px', }}>
+          {foundChar && foundChar.length > 0 ? (
+            foundChar.map((character) => (
+              <Link key={character.name} to={`/character/${character.name}`}>
+                <li>{character.name}</li></Link>
+            ))
+          ) : (
+            <h1>No results found</h1>
+          )}
+        </div>
       </div>
-    </div>
-  ));
+    ));
 }
 
 export default CharacterSearch;

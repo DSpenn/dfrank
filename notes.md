@@ -29,8 +29,7 @@ before avg doc size:231.2B total 250.4 MB
 after. avg doc size:163.2B total 176.7 MB
 
 
-## performance
-  ?useGETForQueries: slightly faster?
+## Performance
   
 
 

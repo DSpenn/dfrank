@@ -14,22 +14,23 @@ const resolvers = {
         params.name = name;
         return await Character.find(params).sort({ 'rank': -1 }).lean();
       }
-      return await Character.find().sort({ rank: -1 }).select('-fights').lean();
+      return await Character.find().sort({ rank: -1 }).select('-fights');
     },
-    character: async (root, { _id, name }) => {
-      const params = {};
-      if (name) {
-        params.name = name;
-        return await Character.findOne(params).populate([
-          'fights',
-          { path: 'fights', sort: { 'timeOf': -1 } },
-        ]);
+    character: async (root, args) => {
+      console.log('args', args);
+      console.log('name', args.name);
+      console.log('id', args._id);
+      console.log(/\d/.test(args._id));
+
+      if (/\d/.test(args._id)) {
+        return await Character.findById(args).populate({path: 'fights', options: { sort: { 'timeOf': -1 } } });
+      }
+      else {
+        let name = {name: args._id};
+        console.log('name2', name)
+        return await Character.findOne(name).populate({path: 'fights', options: { sort: { 'timeOf': -1 } } });
       }
 
-      if (_id) {
-        params._id = _id;
-        return await Character.findById(params).populate({path: 'fights', options: { sort: { 'timeOf': -1 } } });
-      }
     },
 
     fights: async (parent, { winnerName, loserName }) => {

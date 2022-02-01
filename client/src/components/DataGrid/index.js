@@ -9,7 +9,7 @@ const MyDataGrid = ({ fights }) => {
       headerName: 'Time',
       type: 'dateTime',
       valueGetter: ({ value }) => value && new Date(value),
-      flex: 1,
+      flex: .9,
     },
     {
       field: 'winnerName',

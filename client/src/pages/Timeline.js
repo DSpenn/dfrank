@@ -23,7 +23,8 @@ root.dateFormatter.setAll({
   dateFormat: "yyyy",
   dateFields: ["valueX"]
 });
-  const data = [{
+// this is temporary.
+const data = [{
        "date": "2017-05-05",
        "fights": 1,
        "uNames": 2
@@ -8468,7 +8469,6 @@ bulletTemplate.events.on("click", function(ev) {
   console.log("Clicked on a bullet", ev.target.dataItem.dataContext);
   console.log(new Date(ev.target.dataItem.dataContext.date));
 });
-
 
 // https://www.amcharts.com/docs/v5/charts/xy-chart/cursor/
 let cursor = chart.set("cursor", am5xy.XYCursor.new(root, {

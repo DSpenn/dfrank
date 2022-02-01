@@ -1,18 +1,30 @@
+import { useNavigate } from "react-router-dom";
 import { ResponsiveCirclePackingCanvas } from '@nivo/circle-packing'
 
-const GraphTest = ({ characters }) => {
-  
+const CirclePackingCanvas = ({ characters }) => {
 
 const dataMapped = characters.map(char => ({
   name: char.name,
   value: char.rank,
+  id: char._id,
 }));  
-let data = {children: dataMapped, name: "root"};
+const data = {children: dataMapped, name: "root"};
 
-  return (
+let navigate = useNavigate();
+
+const handleClick = (event) => {
+  console.log(event);
+  console.log(event.data.name);
+  const name = event.data.name;
+  console.log(name);
+  navigate(`/character/${name}`);
+};
+
+return (
 
 <div style={{ height: 800 }}>
       <ResponsiveCirclePackingCanvas
+        onClick={handleClick}
         data={data}
         margin={{ top: 5, right: 5, bottom: 5, left: 5 }}
         id="name"
@@ -31,4 +43,4 @@ let data = {children: dataMapped, name: "root"};
   );
 }
 
-export default GraphTest;
+export default CirclePackingCanvas;

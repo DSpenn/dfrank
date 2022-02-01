@@ -19,7 +19,7 @@
     "arpad": "^2.0.0",
     "bcrypt": "^5.0.1",
     "cors": "^2.8.5",
-    "dotenv": "^14.2.0",
+    "dotenv": "^15.0.0",
     "express": "^4.17.1",
     "graphql": "^16.2.0",
     "graphql-scalars": "^1.14.1",

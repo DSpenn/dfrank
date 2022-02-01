@@ -7,7 +7,6 @@ const Recent = () => {
   });
   const fights = data?.fights || [];
 
-
   if (loading) {
     return <div>Loading...</div>;
   }
@@ -30,4 +29,3 @@ const Recent = () => {
 };
 
 export default Recent;
-

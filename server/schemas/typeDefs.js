@@ -3,7 +3,7 @@ const { gql } = require('apollo-server-express');
 const typeDefs = gql`
 type Character {
   _id: ID
-  name: String
+  name: String!
   clans: [String]
   rank: Int
   race: String
@@ -65,7 +65,7 @@ type Auth {
 }
 
 type Query {
-  character(_id: ID, name: String): Character
+  character(name: String, _id: ID): Character
   characters(_id: ID, name: String): [Character]
   fights(winnerName: String, loserName: String): [Fight]
   fight(_id: ID): Fight
