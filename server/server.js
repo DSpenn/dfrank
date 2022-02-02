@@ -33,7 +33,7 @@ const startServer = async () => {
   app.use((req, res, next) => {
     res.header(
       'Access-Control-Allow-Origin',
-      'https://afternoon-lowlands-25221.herokuapp.com*',
+      'https://dfrank.herokuapp.com/*',
     );
     res.header(
       'Access-Control-Allow-Headers',
