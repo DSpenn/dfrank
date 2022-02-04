@@ -9,7 +9,7 @@ const MyDataGrid = ({ fights }) => {
       headerName: 'Time',
       type: 'dateTime',
       valueGetter: ({ value }) => value && new Date(value),
-      flex: .9,
+      flex: 1,
     },
     {
       field: 'winnerName',
@@ -19,23 +19,23 @@ const MyDataGrid = ({ fights }) => {
     {
       field: 'winnerClan',
       headerName: 'Clan',
-      flex: .5,
+      flex: .4,
     },
     {
       field: 'winnerRank',
       headerName: 'Rank',
       type: 'number',
-      flex: .4,
+      flex: .1,
     },
     {
       field: 'killorGank',
       headerName: 'Type',
-      flex: .4,
+      flex: .1,
     },
     {
       field: 'loserRank',
       headerName: 'Rank',
-      flex: .4,
+      flex: .1,
     },
     {
       field: 'loserName',
@@ -47,7 +47,7 @@ const MyDataGrid = ({ fights }) => {
       field: 'loserClan',
       headerName: 'Clan',
       type: 'number',
-      flex: .5,
+      flex: .4,
     },
   ];
 
