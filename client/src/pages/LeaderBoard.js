@@ -28,12 +28,10 @@ const LeaderBoard = () => {
               <tbody>
                 {characters.map((row) => (
                   <tr key={row.index}>
-                  <Link key={row.name} to={`/character/${row.name}`}> 
-                    <td>{row.name}</td></Link>
-                  <Link key={row._id} to={`/character/${row._id}`}>
-                      <td>{row.rank}</td></Link>
+                    <td><Link key={row.name} to={`/character/${row.name}`}> {row.name}</Link></td>
+                    <td><Link key={row._id} to={`/character/${row._id}`}> {row.rank}</Link></td>
 
-                  <td>{row.clans.join('  ')}</td>
+                    <td>{row.clans.join('  ')}</td>
                   </tr>
                 ))}
               </tbody>

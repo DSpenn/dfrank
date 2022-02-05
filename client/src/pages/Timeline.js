@@ -5,7 +5,7 @@ import am5themes_Animated from "@amcharts/amcharts5/themes/Animated";
 import am5themes_Responsive from "@amcharts/amcharts5/themes/Responsive";
 //import { Axis } from '@amcharts/amcharts5/.internal/charts/xy/axes/Axis';
 
-
+//function Timeline() {
 function Timeline(props) {
 
   useLayoutEffect(() => {
@@ -20,7 +20,7 @@ root.setThemes([
 ]);
 
 root.dateFormatter.setAll({
-  dateFormat: "yyyy",
+  dateFormat: "yyyy-MM-dd",
   dateFields: ["valueX"]
 });
 // this is temporary.
@@ -8361,7 +8361,7 @@ const data = [{
       }
      ];
 
-    // console.log(data);
+
 // https://www.amcharts.com/docs/v5/charts/xy-chart/
 let chart = root.container.children.push(am5xy.XYChart.new(root, {
   focusable: true,
@@ -8372,21 +8372,15 @@ let chart = root.container.children.push(am5xy.XYChart.new(root, {
 }));
 
 // https://www.amcharts.com/docs/v5/charts/xy-chart/axes/
-let xAxis = chart.xAxes.push(am5xy.DateAxis.new(root, {
+let xAxis = chart.xAxes.push(am5xy.GaplessDateAxis.new(root, {
+  baseInterval: { timeUnit: "day", count: 1 },
   maxDeviation: 0.1,
-  min: new Date(2017, 5, 0).getTime(),
+   min: new Date(2017, 5, 0).getTime(),
   max: new Date(2021, 12, 0).getTime(),
   groupData: false,
-  baseInterval: {
-    timeUnit: "day",
-    count: 1
-  },
-  renderer: am5xy.AxisRendererX.new(root, {
-
-  }),
+  renderer: am5xy.AxisRendererX.new(root, {}),
   tooltip: am5.Tooltip.new(root, {})
 }));
-
 
 let yAxis = chart.yAxes.push(am5xy.ValueAxis.new(root, {
   maxDeviation: 0.2,
@@ -8397,7 +8391,7 @@ let yAxis = chart.yAxes.push(am5xy.ValueAxis.new(root, {
 let series = chart.series.push(am5xy.LineSeries.new(root, {
   minBulletDistance: 5,
   name: "Series",
-  connect: false,
+  connect: true,
   xAxis: xAxis,
   yAxis: yAxis,
   valueYField: "fights",
@@ -8456,15 +8450,6 @@ series.bullets.push(function() {
   })
 });
 
-/* series.events.on("click", function (ev) {
-  console.log(ev.target);
-}, this); */
-
-/* chart.events.on("click", function(ev) {
-  console.log(ev);
-  console.log("Clicked on a ", ev.target);
-}); */
-
 bulletTemplate.events.on("click", function(ev) {
   console.log("Clicked on a bullet", ev.target.dataItem.dataContext);
   console.log(new Date(ev.target.dataItem.dataContext.date));
@@ -8484,6 +8469,8 @@ chart.set("scrollbarX", am5.Scrollbar.new(root, {
 // https://www.amcharts.com/docs/v5/concepts/animations/
 series.appear(1000);
 series1.appear(1000);
+/* console.log('series', series);
+console.log('s1', series1); */
 chart.appear(1000, 100);
 
     return () => {
