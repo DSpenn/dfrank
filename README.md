@@ -49,3 +49,9 @@ react, react-dom, react-router-dom, react-scripts.
 mui/material, mui/x-data-grid
 arpad, dotenv
 ```
+
+### Project reqs
+
+Use React for the front end.
+Use GraphQL with a Node.js and Express.js server.
+Use MongoDB and the Mongoose ODM for the database.
