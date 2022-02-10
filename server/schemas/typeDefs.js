@@ -10,7 +10,7 @@ type Character {
   fights: [Fight]
 }
 
-type Fight {
+type Fights {
   _id: ID
   timeOf: DateTime
   winnerName: String
@@ -22,7 +22,7 @@ type Fight {
   loserRank: Int
 }
 
-type Fights {
+type Fight {
   _id: ID
   timeOf: DateTime
   winnerName: String
@@ -67,7 +67,7 @@ type Auth {
 type Query {
   character(name: String, _id: ID): Character
   characters(_id: ID, name: String): [Character]
-  fights(winnerName: String, loserName: String): [Fight]
+  fights(offset: Int, limit: Int): [Fight!]
   fight(_id: ID): Fight
   users: [User]
   user: User

@@ -28,18 +28,21 @@ const resolvers = {
       else {
         let name = {name: args._id};
         console.log('name2', name)
-        return await Character.findOne(name).populate({path: 'fights', options: { sort: { 'timeOf': -1 } } });
+
+/*         const explain = Character.findOne(name).populate({path: 'fights', options: { sort: { 'timeOf': -1 } } }).explain();
+        console.log(explain); */
+       return await Character.findOne(name).populate({path: 'fights', options: { sort: { 'timeOf': -1 } } });
       }
 
     },
 
-    fights: async (parent, { winnerName, loserName }) => {
-      const params = {};
+    fights: async (root) => {
+//      const params = {};
       /*       if (!params.winnerName && !params.loserName) {
         return await Fight.find({ timeOf: { $gte: '2021-10-1' } }).sort({ timeOf: -1 }).lean();
         //  return await Fight.find().sort({ timeOf: -1 }).limit(10000).lean();       .limit(10000)
       } */
-      if (winnerName && loserName) {
+/*       if (winnerName && loserName) {
         params.winnerName = {
           $regex: winnerName,
         };
@@ -58,9 +61,9 @@ const resolvers = {
         params.loserName = loserName;
         return await Fight.find(params).sort({ 'timeOf': -1 });
       }
-      
-      return await Fight.find({ timeOf: { $gte: '2021-10-1' } }).sort({ 'timeOf': -1 }).lean();
-      // return await Fight.find().sort({ timeOf: -1 }).lean();
+       */
+      //return Fight.find({ timeOf: { $gte: '2021-10-1' } }).hint({timeOf: -1}).sort({timeOf: -1}).lean();
+      return await Fight.find().hint({timeOf: -1}).select({ _id: 1, timeOf: 1, winnerName: 1, loserName: 1, winnerClan: 1, loserClan: 1, killOrGank: 1, winnerRank: 1, loserRank: 1 }).lean().sort({timeOf: -1}).limit(20000);
     },
     fight: async (parent, args) => await Fight.find(args),
   },
