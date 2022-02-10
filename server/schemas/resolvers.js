@@ -63,7 +63,7 @@ const resolvers = {
       }
        */
       //return Fight.find({ timeOf: { $gte: '2021-10-1' } }).hint({timeOf: -1}).sort({timeOf: -1}).lean();
-      return await Fight.find().hint({timeOf: -1}).select({ _id: 1, timeOf: 1, winnerName: 1, loserName: 1, winnerClan: 1, loserClan: 1, killOrGank: 1, winnerRank: 1, loserRank: 1 }).lean().sort({timeOf: -1}).limit(20000);
+      return await Fight.find().hint({timeOf: -1}).select({ _id: 1, timeOf: 1, winnerName: 1, loserName: 1, winnerClan: 1, loserClan: 1, killorGank: 1, winnerRank: 1, loserRank: 1 }).lean().limit(50000);
     },
     fight: async (parent, args) => await Fight.find(args),
   },
