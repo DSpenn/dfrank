@@ -5,9 +5,9 @@ import { QUERY_CHARACTER } from '../utils/queries';
 
 const CharacterView = () => {
 
-  var { id, characterName } = useParams();
+  let { id, name } = useParams();
   const { loading, error, data } = useQuery(QUERY_CHARACTER, {
-    variables: { id, characterName },
+    variables: { id, name },
   });
   const character = data?.character || {};
 

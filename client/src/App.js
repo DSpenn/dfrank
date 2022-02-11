@@ -9,8 +9,6 @@ import CharacterView from './pages/CharacterView';
 import Nav from './components/Nav';
 import Character from './pages/Character';
 import Timeline from './pages/Timeline';
-import { offsetLimitPagination } from "@apollo/client/utilities";
-
 
 const gLink = new HttpLink({ uri: '/graphql'});
 
@@ -25,35 +23,26 @@ const errorLink = onError(({ graphQLErrors, networkError }) => {
   if (networkError) console.log(`${networkError}`);
 });
 
-
-const cache = new InMemoryCache({
-  typePolicies: {
-    Query: {
-      fields: {
-        Fight: offsetLimitPagination(),
-        Character: offsetLimitPagination()
+    const defaultOptions = {
+      watchQuery: {
+        fetchPolicy: 'no-cache',
+        errorPolicy: 'ignore',
       },
-    },
-  },
-});
-
-/* const cache = new InMemoryCache({
-  typePolicies: {
-    Fight: {
-      merge: true,
-    },
-    Character: {
-      merge: true,
-    },
-  },
-}) */
-
+      query: {
+        fetchPolicy: 'no-cache',
+        errorPolicy: 'all',
+      },
+      mutate: {
+        errorPolicy: 'all',
+      },
+    };
 
 
 const client = new ApolloClient({
   link: from([errorLink, gLink]),
-  cache,
-  queryDeduplication: true
+  cache: new InMemoryCache(),
+  queryDeduplication: true,
+  defaultOptions: defaultOptions,
 });
 
 function App() {
