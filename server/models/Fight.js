@@ -46,6 +46,7 @@ const fightSchema = new Schema(
 );
 
 fightSchema.index({ timeOf: -1 });
+fightSchema.index({ winnerName: 1, loserName: 1 });
 /* fightSchema.index({ killNumber: -1 } , { sparse: true, unique: true });
 fightSchema.index({ gankNumber: -1 } , { sparse: true, unique: true }); */
 

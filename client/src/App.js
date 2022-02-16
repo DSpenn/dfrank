@@ -32,16 +32,14 @@ const errorLink = onError(({ graphQLErrors, networkError }) => {
         fetchPolicy: 'no-cache',
         errorPolicy: 'all',
       },
-      mutate: {
-        errorPolicy: 'all',
-      },
     };
 
 
 const client = new ApolloClient({
   link: from([errorLink, gLink]),
+  ssrMode: true,
   cache: new InMemoryCache(),
-  queryDeduplication: true,
+  //queryDeduplication: true,
   defaultOptions: defaultOptions,
 });
 
