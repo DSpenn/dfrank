@@ -30,7 +30,7 @@ const resolvers = {
     },
 
     fights: async () => {
-      return await Fight.find().hint({timeOf: -1}).select({ timeOf: 1, winnerName: 1, loserName: 1, winnerClan: 1, loserClan: 1, killorGank: 1, winnerRank: 1, loserRank: 1, killNumber: 1 }).lean().limit(500000).exec();
+      return await Fight.find().hint({timeOf: -1}).select({ timeOf: 1, winnerName: 1, loserName: 1, winnerClan: 1, loserClan: 1, killorGank: 1, winnerRank: 1, loserRank: 1, killNumber: 1 }).lean().limit(50000).exec();
       //select({ timeOf: 1, winnerName: 1, loserName: 1, winnerClan: 1, loserClan: 1, killorGank: 1, winnerRank: 1, loserRank: 1 })
     },
     fight: async (parent, args) => await Fight.find(args),

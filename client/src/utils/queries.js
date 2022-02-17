@@ -1,15 +1,13 @@
-import { gql } from 'graphql.macro';
+import { gql } from 'graphql-tag';
+//import { gql } from 'graphql.macro';
 //import { gql } from '@apollo/client';
-//import { gql } from 'graphql-tag';
 
 export const QUERY_CHARACTERS = gql`
 query GetCharacters($name: String, $id: ID) {
   characters(name: $name, _id: $id) {
-      _id
       name
       clans
       rank
-      __typename
     }
 }
 `;
@@ -18,11 +16,9 @@ query GetCharacters($name: String, $id: ID) {
 export const QUERY_CHARRANK = gql`
 query GetCharactersLite {
   characters {
-      _id
       name
       rank
       clans
-      __typename
     }
 }
 `;
@@ -53,15 +49,15 @@ export const QUERY_FIGHT = gql`
 query GetFight($id: ID) {
   fight(_id: $id) {
       _id
-        timeOf
-        winnerName
-        winnerClan
-        winnerRank
-        killorGank
-        loserName
-        loserClan
-        loserRank
-        __typename
+      timeOf
+      winnerName
+      winnerClan
+      winnerRank
+      killorGank
+      loserName
+      loserClan
+      loserRank
+      __typename
     }
   }
 `;
@@ -84,8 +80,8 @@ export const QUERY_FIGHTS = gql`
 `;
 
 export const QUERY_ALL_FIGHTS = gql`
-  query GetAllFights($offset: Int, $limit: Int) {
-    fights(offset: $offset, limit: $limit)  {
+  query GetAllFights {
+    fights {
       _id
       timeOf
       winnerName
@@ -95,7 +91,6 @@ export const QUERY_ALL_FIGHTS = gql`
       loserName
       loserClan
       loserRank
-      __typename
     }
   }
 `;
