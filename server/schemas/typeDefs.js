@@ -52,11 +52,18 @@ type Auth {
   user: User
 }
 
+type TimeLine {
+  _id: DateTime
+  fightCount: Int
+  uNames: Int
+}
+
 type Query {
   character(name: String, _id: ID): Character
   characters(_id: ID, name: String): [Character]
   fights: [Fight]!
   fight(_id: ID): Fight
+  timeline: [TimeLine]
   users: [User]
   user: User
   me: User

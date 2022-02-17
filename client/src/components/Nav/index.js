@@ -46,7 +46,6 @@ export default function PositionedMenu() {
         <MenuItem onClick={handleClose}> <Link to="/Character">Characters</Link></MenuItem>
         <MenuItem onClick={handleClose}> <Link to="/LeaderBoard">LeaderBoard</Link></MenuItem>
         <MenuItem onClick={handleClose}> <Link to="/Timeline">Timeline</Link></MenuItem>
-
       </Menu>
     </div>
   );

@@ -29,11 +29,58 @@ const resolvers = {
 
     },
 
-    fights: async () => {
+    fights: async (parent) => {
       return await Fight.find().hint({timeOf: -1}).select({ timeOf: 1, winnerName: 1, loserName: 1, winnerClan: 1, loserClan: 1, killorGank: 1, winnerRank: 1, loserRank: 1, killNumber: 1 }).lean().limit(50000).exec();
       //select({ timeOf: 1, winnerName: 1, loserName: 1, winnerClan: 1, loserClan: 1, killorGank: 1, winnerRank: 1, loserRank: 1 })
     },
     fight: async (parent, args) => await Fight.find(args),
+    timeline: async (parent) => {
+      return await Fight.aggregate([{
+        '$match': {
+          'timeOf': {
+            '$gte': new Date('Mon, 01 May 2017 00:00:00 GMT'),
+            '$lt': new Date('Sun, 12 Dec 2021 00:00:00 GMT')
+          }
+        }
+      }, {
+        '$group': {
+          '_id': {
+            '$dateToString': {
+              'format': '%Y-%m-%d',
+              //'format': '%H',
+              'date': '$timeOf'
+            }
+          },
+          'fightCount': {
+            '$sum': 1
+          },
+          'winners': {'$addToSet': { '$concat': [ "$winnerName", " ", "$winnerClan" ] }},
+          'loosers': {'$addToSet': { '$concat': [ "$loserName", " ", "$loserClan" ] }},
+        },
+      },
+      {
+        '$project':{
+          'uNamesUnion':{'$setUnion':['$winners','$loosers']},
+          'fightCount': 1
+      }
+    },
+    {
+      '$project':{
+        'uNames': {
+        '$size': '$uNamesUnion'},
+        'fightCount': 1,
+    }
+  },
+      {
+        '$sort': {
+          '_id': 1
+        }
+      }
+
+    ])
+    //console.log('test', test);
+    },
+
   },
   Mutation: {
     addCharacter: async ({ name, clans }) => {

@@ -12,7 +12,6 @@ query GetCharacters($name: String, $id: ID) {
 }
 `;
 
-
 export const QUERY_CHARRANK = gql`
 query GetCharactersLite {
   characters {
@@ -26,7 +25,6 @@ query GetCharactersLite {
 export const QUERY_CHARACTER = gql`
 query GetCharacter($name: String, $id: ID) {
   character(name: $name, _id: $id) {
-    _id
     name
     rank
     clans
@@ -48,7 +46,6 @@ query GetCharacter($name: String, $id: ID) {
 export const QUERY_FIGHT = gql`
 query GetFight($id: ID) {
   fight(_id: $id) {
-      _id
       timeOf
       winnerName
       winnerClan
@@ -65,7 +62,6 @@ query GetFight($id: ID) {
 export const QUERY_FIGHTS = gql`
   query GetFights($winnerName: String, $loserName: String) {
     fights(winnerName: $winnerName, loserName: $loserName) {
-      _id
       timeOf
       winnerName
       winnerClan
@@ -95,13 +91,12 @@ export const QUERY_ALL_FIGHTS = gql`
   }
 `;
 
-
-export const QUERY_DATE_FIGHTS = gql`
-  query GetDateFights {
-    fights {
+export const QUERY_TIMELINE = gql`
+query GetTimeline {
+  timeline {
       _id
-      timeOf
-      __typename
+      fightCount
+      uNames
     }
-  }
+}
 `;

@@ -53,14 +53,14 @@ const MyDataGrid = ({ fights }) => {
 
   const rows = fights.map(fight => ({
     id: fight._id,
-    timeOf: new Date(fight.timeOf).toLocaleString(),
+    timeOf: fight.timeOf,
     winnerName: fight.winnerName,
     winnerClan: fight.winnerClan,
     winnerRank: fight.winnerRank,
     killorGank: fight.killorGank,
     loserRank: fight.loserRank,
     loserName: fight.loserName,
-    loserClan: fight.loserClan
+    loserClan: fight.loserClan,
   }));
 
   return (
