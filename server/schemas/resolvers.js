@@ -47,7 +47,6 @@ const resolvers = {
           '_id': {
             '$dateToString': {
               'format': '%Y-%m-%d',
-              //'format': '%H',
               'date': '$timeOf'
             }
           },
@@ -66,6 +65,7 @@ const resolvers = {
     },
     {
       '$project':{
+        'date': "$_id",
         'uNames': {
         '$size': '$uNamesUnion'},
         'fightCount': 1,
@@ -73,12 +73,12 @@ const resolvers = {
   },
       {
         '$sort': {
-          '_id': 1
+          'date': 1
         }
       }
 
     ])
-    //console.log('test', test);
+    
     },
 
   },

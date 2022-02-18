@@ -7,15 +7,8 @@ import am5themes_Responsive from "@amcharts/amcharts5/themes/Responsive";
 
 
 function Timeline({TimelineData}) {
-console.log('TimelineData', TimelineData);
-  const data = TimelineData.map(tl => ({
-    date: tl._id,
-    value: tl.fightCount,
-    uNames: tl.uNames
-  }));
 
   useLayoutEffect(() => {
-  console.log('data', data);
 // https://www.amcharts.com/docs/v5/getting-started/#Root_element
 let root = am5.Root.new("chartdiv");
 
@@ -64,8 +57,9 @@ let series = chart.series.push(
   connect: false,
   xAxis: xAxis,
   yAxis: yAxis,
-  valueYField: "value",
+  valueYField: "fightCount",
   valueXField: "date",
+  valueXShow: "Date", 
   sequencedInterpolation: false,
   sequencedDelay: 1,
   tooltip: am5.Tooltip.new(root, {
@@ -81,6 +75,7 @@ let series1 = chart.series.push(
     yAxis: yAxis,
     valueYField: "uNames",
     valueXField: "date",
+    valueXShow: "Date", 
     tooltip: am5.Tooltip.new(root, {
       labelText: "Unique Names: {valueY}"
     })
@@ -92,7 +87,7 @@ series.data.processor = am5.DataProcessor.new(root, {
   dateFields: ["date"]
 });
 
-series.data.processor.processMany({data});
+series.data.processor.processMany({TimelineData});
 
 series.fills.template.setAll({
   fillOpacity: 0.2,
@@ -110,8 +105,8 @@ series.data.processor = am5.DataProcessor.new(root, {
   //numericFields: ["value"]
 });
 
-series.data.setAll(data);
-series1.data.setAll(data);
+series.data.setAll(TimelineData);
+series1.data.setAll(TimelineData);
 
 let bulletTemplate = am5.Template.new(root, {});
 

@@ -53,7 +53,7 @@ type Auth {
 }
 
 type TimeLine {
-  _id: DateTime
+  date: DateTime
   fightCount: Int
   uNames: Int
 }
