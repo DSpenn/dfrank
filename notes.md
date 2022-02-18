@@ -51,6 +51,15 @@ the $unwind operator requires the path name to start with '$'. Mongoose will pre
 ### id && _id
 id is a virtual string version of _id.
 both are enabled by default.
+### Aggregation $group
+$group': {
+  '_id': {
+
+you can later 'rename' _id to whatever you want in $project
+
+'$project':{
+        'whateverYouWantToCallIt': "$_id",
+
 
 
 ### Lists/Arrays Mongo/mongoose

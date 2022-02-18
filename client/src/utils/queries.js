@@ -43,38 +43,6 @@ query GetCharacter($name: String, $id: ID) {
 }
 `;
 
-export const QUERY_FIGHT = gql`
-query GetFight($id: ID) {
-  fight(_id: $id) {
-      timeOf
-      winnerName
-      winnerClan
-      winnerRank
-      killorGank
-      loserName
-      loserClan
-      loserRank
-      __typename
-    }
-  }
-`;
-
-export const QUERY_FIGHTS = gql`
-  query GetFights($winnerName: String, $loserName: String) {
-    fights(winnerName: $winnerName, loserName: $loserName) {
-      timeOf
-      winnerName
-      winnerClan
-      winnerRank
-      killorGank
-      loserName
-      loserClan
-      loserRank
-      __typename  
-    }
-  }
-`;
-
 export const QUERY_ALL_FIGHTS = gql`
   query GetAllFights {
     fights {
@@ -94,9 +62,41 @@ export const QUERY_ALL_FIGHTS = gql`
 export const QUERY_TIMELINE = gql`
 query GetTimeline {
   timeline {
-      _id
+      date
       fightCount
       uNames
     }
 }
+`;
+
+export const QUERY_FIGHTS = gql`
+  query GetFights($winnerName: String, $loserName: String) {
+    fights(winnerName: $winnerName, loserName: $loserName) {
+      timeOf
+      winnerName
+      winnerClan
+      winnerRank
+      killorGank
+      loserName
+      loserClan
+      loserRank
+      __typename  
+    }
+  }
+`;
+
+export const QUERY_FIGHT = gql`
+query GetFight($id: ID) {
+  fight(_id: $id) {
+      timeOf
+      winnerName
+      winnerClan
+      winnerRank
+      killorGank
+      loserName
+      loserClan
+      loserRank
+      __typename
+    }
+  }
 `;

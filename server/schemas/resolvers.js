@@ -53,32 +53,33 @@ const resolvers = {
           'fightCount': {
             '$sum': 1
           },
-          'winners': {'$addToSet': { '$concat': [ "$winnerName", " ", "$winnerClan" ] }},
-          'loosers': {'$addToSet': { '$concat': [ "$loserName", " ", "$loserClan" ] }},
+          'winners': { '$addToSet': { '$concat': ["$winnerName", " ", "$winnerClan"] } },
+          'loosers': { '$addToSet': { '$concat': ["$loserName", " ", "$loserClan"] } },
         },
       },
       {
-        '$project':{
-          'uNamesUnion':{'$setUnion':['$winners','$loosers']},
+        '$project': {
+          'uNamesUnion': { '$setUnion': ['$winners', '$loosers'] },
           'fightCount': 1
-      }
-    },
-    {
-      '$project':{
-        'date': "$_id",
-        'uNames': {
-        '$size': '$uNamesUnion'},
-        'fightCount': 1,
-    }
-  },
+        }
+      },
+      {
+        '$project': {
+          'date': "$_id",
+          'uNames': {
+            '$size': '$uNamesUnion'
+          },
+          'fightCount': 1,
+        }
+      },
       {
         '$sort': {
           'date': 1
         }
       }
 
-    ])
-    
+      ])
+
     },
 
   },
