@@ -61,7 +61,7 @@ type TimeLine {
 type Query {
   character(name: String, _id: ID): Character
   characters(_id: ID, name: String): [Character]
-  fights: [Fight]!
+  fights(_id: ID, name: String): [Fight]
   fight(_id: ID): Fight
   timeline: [TimeLine]
   users: [User]

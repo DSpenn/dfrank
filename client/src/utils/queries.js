@@ -70,8 +70,9 @@ query GetTimeline {
 `;
 
 export const QUERY_FIGHTS = gql`
-  query GetFights($winnerName: String, $loserName: String) {
-    fights(winnerName: $winnerName, loserName: $loserName) {
+  query GetFights($name: String, $id: ID) {
+    fights(name: $name, _id: $id) {
+      _id
       timeOf
       winnerName
       winnerClan

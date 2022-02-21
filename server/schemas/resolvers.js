@@ -16,7 +16,7 @@ const resolvers = {
       //.populate('loseCount').populate('winCount');
     },
     character: async (parent, args) => {
-      console.log('args', args);
+      console.log('args in char', args);
 
       if (/\d/.test(args._id)) {
         return await Character.findById(args).populate({path: 'fights', options: { sort: { 'timeOf': -1 } } });
@@ -29,9 +29,48 @@ const resolvers = {
 
     },
 
-    fights: async (parent) => {
+    fights: async (parent, args) => {
+      console.log('args', args);
+      if(args._id === undefined) // if we arnt passing any args its the recent page
+      {
       return await Fight.find().hint({timeOf: -1}).select({ timeOf: 1, winnerName: 1, loserName: 1, winnerClan: 1, loserClan: 1, killorGank: 1, winnerRank: 1, loserRank: 1, killNumber: 1 }).lean().limit(50000).exec();
-      //select({ timeOf: 1, winnerName: 1, loserName: 1, winnerClan: 1, loserClan: 1, killorGank: 1, winnerRank: 1, loserRank: 1 })
+      }
+      if(args._id.startsWith('missingno.'))  // if the char name is 'missingno.' show data based on clan
+      {
+        console.log(args._id.startsWith('missingno.'));
+        const newstr = args._id.replace(/missingno./i, '');
+        return await Fight.aggregate([
+          { '$match': { $or: [{ winnerClan: { $eq: newstr.trim() } }, { loserClan: { $eq: newstr.trim() } }] } },
+          {
+            '$sort': {
+              'timeOf': -1
+            }
+          },
+          {
+            '$project': {
+              '__v': 0
+            }
+          },
+        ]).hint({ timeOf: -1 })
+      }
+
+
+      else
+      {
+        return await Fight.aggregate([
+          { '$match': { $or: [{ winnerName: { $eq: args._id } }, { loserName: { $eq: args._id } }] } },
+          {
+            '$sort': {
+              'timeOf': -1
+            }
+          },
+          {
+            '$project': {
+              '__v': 0
+            }
+          },
+        ]).hint({ timeOf: -1 })
+      }
     },
     fight: async (parent, args) => await Fight.find(args),
     timeline: async (parent) => {
