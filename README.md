@@ -6,13 +6,10 @@
 Archive, timeline, and attempted elo ranking for Darkfall rise of agon metrics player kill/death ratio.
 [https://www.riseofagon.com/ ](https://www.riseofagon.com/ ).
 
-I created this out of curiosity, player kill/death / win/loss data is publicly available here [https://www.riseofagon.com/agonmetrics/pvp/global](https://www.riseofagon.com/agonmetrics/pvp/global/).
-I wanted more than 21,666 pages of data. 
+I created this out of curiosity, player kill/death | win/loss data is publicly available here [https://www.riseofagon.com/agonmetrics/pvp/global](https://www.riseofagon.com/agonmetrics/pvp/global/).
+I wanted more than 2x,xxx pages of data. 
 
 
-
-1,670 days May 5, 2017 - November 30, 2021
-unfortunately as of November 30th 2021 the metrics website is no longer updating data. 
 
 
 ## Features

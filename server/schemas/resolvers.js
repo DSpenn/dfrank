@@ -78,7 +78,7 @@ const resolvers = {
         '$match': {
           'timeOf': {
             '$gte': new Date('Mon, 01 May 2017 00:00:00 GMT'),
-            '$lt': new Date('Sun, 12 Dec 2021 00:00:00 GMT')
+            '$lt': new Date('Sun, 12 Dec 2022 00:00:00 GMT')
           }
         }
       }, {

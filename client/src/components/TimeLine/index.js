@@ -37,7 +37,7 @@ let xAxis = chart.xAxes.push(am5xy.GaplessDateAxis.new(root, {
   baseInterval: { timeUnit: "day", count: 1 },
   maxDeviation: 0.1,
   min: new Date(2017, 5, 0).getTime(),
-  max: new Date(2021, 12, 0).getTime(),
+  max: new Date(2022, 4, 0).getTime(),
   groupData: false,
   renderer: am5xy.AxisRendererX.new(root, {}),
   tooltip: am5.Tooltip.new(root, {})

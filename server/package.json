@@ -24,7 +24,8 @@
     "graphql": "^16.2.0",
     "graphql-scalars": "^1.14.1",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^6.1.0"
+    "mongoose": "^6.1.0",
+    "puppeteer": "^13.4.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
